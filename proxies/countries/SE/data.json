@@ -1,0 +1,258 @@
+{
+  "data": [
+    {
+      "host": "185.146.173.99",
+      "ip": "185.146.173.99",
+      "port": 80,
+      "delay": 80,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 138,
+      "checks_down": 62,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 69,
+      "last_seen": "2026-04-07T07:56:23Z"
+    },
+    {
+      "host": "185.146.173.59",
+      "ip": "185.146.173.59",
+      "port": 80,
+      "delay": 80,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 4553,
+      "checks_down": 1166,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 79,
+      "last_seen": "2026-04-07T07:45:16Z"
+    },
+    {
+      "host": "185.146.173.33",
+      "ip": "185.146.173.33",
+      "port": 80,
+      "delay": 100,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 97,
+      "checks_down": 74,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 56,
+      "last_seen": "2026-04-07T06:26:15Z"
+    },
+    {
+      "host": "stockroom.shopify.com",
+      "ip": "185.146.173.20",
+      "port": 80,
+      "delay": 140,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 3885,
+      "checks_down": 1206,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 76,
+      "last_seen": "2026-04-07T05:51:05Z"
+    },
+    {
+      "host": "83.219.250.8",
+      "ip": "83.219.250.8",
+      "port": 62920,
+      "delay": 1120,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "city": "Stockholm",
+      "checks_up": 64,
+      "checks_down": 323,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 16,
+      "last_seen": "2026-04-07T05:07:57Z"
+    },
+    {
+      "host": "marketing.preferences-staging-infra.shopify.com",
+      "ip": "23.227.38.33",
+      "port": 80,
+      "delay": 160,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 3957,
+      "checks_down": 1178,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 77,
+      "last_seen": "2026-04-07T05:05:29Z"
+    },
+    {
+      "host": "185.146.173.158",
+      "ip": "185.146.173.158",
+      "port": 80,
+      "delay": 80,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 2161,
+      "checks_down": 1123,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 65,
+      "last_seen": "2026-04-07T04:03:49Z"
+    },
+    {
+      "host": "193.23.200.251",
+      "ip": "193.23.200.251",
+      "port": 10808,
+      "delay": 2520,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 33,
+      "checks_down": 97,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 25,
+      "last_seen": "2026-04-07T03:22:47Z"
+    },
+    {
+      "host": "185.146.173.245",
+      "ip": "185.146.173.245",
+      "port": 80,
+      "delay": 120,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 81,
+      "checks_down": 80,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 50,
+      "last_seen": "2026-04-07T02:14:45Z"
+    },
+    {
+      "host": "185.146.173.237",
+      "ip": "185.146.173.237",
+      "port": 80,
+      "delay": 160,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 4288,
+      "checks_down": 1126,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 79,
+      "last_seen": "2026-04-07T01:17:24Z"
+    },
+    {
+      "host": "185.146.173.66",
+      "ip": "185.146.173.66",
+      "port": 80,
+      "delay": 80,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "checks_up": 2628,
+      "checks_down": 1161,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 69,
+      "last_seen": "2026-04-06T19:10:31Z"
+    },
+    {
+      "host": "129.151.198.68",
+      "ip": "129.151.198.68",
+      "port": 1111,
+      "delay": 5100,
+      "country_code": "SE",
+      "country_name": "Sweden",
+      "city": "Stockholm",
+      "checks_up": 149,
+      "checks_down": 146,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 50,
+      "last_seen": "2026-04-05T09:17:32Z"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+200.174.198.32,8888,BR,Brazil,Indaiatuba,,,,,HTTP|HTTPS,Anonymous,66,1960,2026-04-07T07:27:51Z
+201.62.82.4,8080,BR,Brazil,Mar?lia,,,,,HTTP,Transparent,6,1940,2026-04-06T21:50:33Z
+45.163.238.254,8080,BR,Brazil,Rio de Janeiro,,,,,HTTP,Transparent,5,5100,2026-04-06T19:53:23Z
+179.185.75.94,8080,BR,Brazil,Bras?lia,,,,,HTTP,Transparent,4,4600,2026-04-06T19:45:08Z
+187.94.220.85,8080,BR,Brazil,Gua?u?,,,,,HTTP,Transparent,2,5100,2026-04-06T19:36:29Z
+177.193.203.37,8080,BR,Brazil,Salvador,,,,,HTTP,Transparent,8,1120,2026-04-06T19:17:14Z
+38.60.209.66,20002,BR,Brazil,S?o Paulo,,,,,SOCKS5,Elite,39,5100,2026-04-06T07:45:47Z
+187.103.74.137,5678,BR,Brazil,Recife,,,,,SOCKS4,Elite,15,1160,2026-04-06T05:22:48Z
+38.60.209.216,20002,BR,Brazil,S?o Paulo,,,,,SOCKS5,Elite,40,5100,2026-04-06T01:01:24Z
+38.60.209.79,20002,BR,Brazil,S?o Paulo,,,,,SOCKS5,Elite,40,5100,2026-04-05T21:17:11Z
+35.199.93.247,90,BR,Brazil,S?o Paulo,,,,,HTTP,Elite,19,920,2026-04-05T20:40:42Z
+138.0.143.119,8080,BR,Brazil,Mirand?polis,,,,,HTTP,Transparent,4,5100,2026-04-05T19:48:55Z

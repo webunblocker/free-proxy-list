@@ -1,0 +1,13 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+185.146.173.99,80,SE,Sweden,,,,,,HTTP,Transparent,69,80,2026-04-07T07:56:23Z
+185.146.173.59,80,SE,Sweden,,,,,,HTTP,Transparent,79,80,2026-04-07T07:45:16Z
+185.146.173.33,80,SE,Sweden,,,,,,HTTP,Transparent,56,100,2026-04-07T06:26:15Z
+185.146.173.20,80,SE,Sweden,,,,,,HTTP,Transparent,76,140,2026-04-07T05:51:05Z
+83.219.250.8,62920,SE,Sweden,Stockholm,,,,,HTTPS,Elite,16,1120,2026-04-07T05:07:57Z
+23.227.38.33,80,SE,Sweden,,,,,,HTTP,Transparent,77,160,2026-04-07T05:05:29Z
+185.146.173.158,80,SE,Sweden,,,,,,HTTP,Transparent,65,80,2026-04-07T04:03:49Z
+193.23.200.251,10808,SE,Sweden,,,,,,HTTP,Elite,25,2520,2026-04-07T03:22:47Z
+185.146.173.245,80,SE,Sweden,,,,,,HTTP,Transparent,50,120,2026-04-07T02:14:45Z
+185.146.173.237,80,SE,Sweden,,,,,,HTTP,Transparent,79,160,2026-04-07T01:17:24Z
+185.146.173.66,80,SE,Sweden,,,,,,HTTP,Transparent,69,80,2026-04-06T19:10:31Z
+129.151.198.68,1111,SE,Sweden,Stockholm,,,,,SOCKS5,Elite,50,5100,2026-04-05T09:17:32Z

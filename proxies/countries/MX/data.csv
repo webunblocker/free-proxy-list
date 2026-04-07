@@ -1,0 +1,8 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+189.202.188.149,80,MX,Mexico,Kanas?n,,,,,HTTP,Elite,92,680,2026-04-07T07:32:06Z
+45.174.253.64,999,MX,Mexico,Canc?n,,,,,HTTP,Transparent,18,4740,2026-04-06T20:01:08Z
+5.102.109.41,999,MX,Mexico,San Jos? Iturbide,,,,,HTTP,Transparent,24,5100,2026-04-06T18:38:29Z
+204.199.202.133,999,MX,Mexico,Teotihuac?n,,,,,HTTP,Transparent,4,3560,2026-04-06T18:38:27Z
+201.134.41.110,443,MX,Mexico,Heroica Matamoros,,,,,HTTP,Elite,41,720,2026-04-06T18:18:13Z
+38.60.224.125,20002,MX,Mexico,Mexico City,,,,,SOCKS4,Elite,55,5100,2026-04-06T13:46:39Z
+38.60.224.95,20002,MX,Mexico,Mexico City,,,,,SOCKS4|SOCKS5,Elite,45,5100,2026-04-05T13:55:18Z

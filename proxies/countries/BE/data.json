@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "35.241.172.224",
+      "ip": "35.241.172.224",
+      "port": 80,
+      "delay": 240,
+      "country_code": "BE",
+      "country_name": "Belgium",
+      "city": "Brussels",
+      "checks_up": 2137,
+      "checks_down": 683,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 75,
+      "last_seen": "2026-04-07T07:25:27Z"
+    }
+  ]
+}

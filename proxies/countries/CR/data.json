@@ -1,0 +1,530 @@
+{
+  "data": [
+    {
+      "host": "190.93.247.0",
+      "ip": "190.93.247.0",
+      "port": 80,
+      "delay": 80,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 11943,
+      "checks_down": 1205,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 90,
+      "last_seen": "2026-04-07T07:45:37Z"
+    },
+    {
+      "host": "190.93.246.211",
+      "ip": "190.93.246.211",
+      "port": 80,
+      "delay": 80,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8239,
+      "checks_down": 1177,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 87,
+      "last_seen": "2026-04-07T07:38:45Z"
+    },
+    {
+      "host": "190.93.246.184",
+      "ip": "190.93.246.184",
+      "port": 80,
+      "delay": 80,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8517,
+      "checks_down": 1151,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-07T07:38:02Z"
+    },
+    {
+      "host": "190.93.246.137",
+      "ip": "190.93.246.137",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8863,
+      "checks_down": 1177,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-07T07:33:00Z"
+    },
+    {
+      "host": "190.93.247.124",
+      "ip": "190.93.247.124",
+      "port": 80,
+      "delay": 160,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 10997,
+      "checks_down": 1191,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 90,
+      "last_seen": "2026-04-07T07:28:59Z"
+    },
+    {
+      "host": "190.93.247.3",
+      "ip": "190.93.247.3",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 17861,
+      "checks_down": 1251,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 93,
+      "last_seen": "2026-04-07T07:25:27Z"
+    },
+    {
+      "host": "190.93.247.2",
+      "ip": "190.93.247.2",
+      "port": 80,
+      "delay": 140,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 21784,
+      "checks_down": 1262,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 94,
+      "last_seen": "2026-04-07T07:02:01Z"
+    },
+    {
+      "host": "190.93.246.148",
+      "ip": "190.93.246.148",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 10360,
+      "checks_down": 1181,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 89,
+      "last_seen": "2026-04-07T06:59:05Z"
+    },
+    {
+      "host": "190.93.247.25",
+      "ip": "190.93.247.25",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 21948,
+      "checks_down": 1270,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 94,
+      "last_seen": "2026-04-07T05:28:56Z"
+    },
+    {
+      "host": "190.93.246.254",
+      "ip": "190.93.246.254",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8958,
+      "checks_down": 1177,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-07T04:53:09Z"
+    },
+    {
+      "host": "190.93.246.246",
+      "ip": "190.93.246.246",
+      "port": 80,
+      "delay": 180,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8400,
+      "checks_down": 1157,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 87,
+      "last_seen": "2026-04-07T00:58:54Z"
+    },
+    {
+      "host": "190.93.247.196",
+      "ip": "190.93.247.196",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8968,
+      "checks_down": 1172,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-07T00:49:57Z"
+    },
+    {
+      "host": "190.93.246.9",
+      "ip": "190.93.246.9",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 15389,
+      "checks_down": 1250,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 92,
+      "last_seen": "2026-04-07T00:19:30Z"
+    },
+    {
+      "host": "190.93.246.247",
+      "ip": "190.93.246.247",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 10447,
+      "checks_down": 1178,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 89,
+      "last_seen": "2026-04-06T22:22:36Z"
+    },
+    {
+      "host": "190.93.246.26",
+      "ip": "190.93.246.26",
+      "port": 80,
+      "delay": 120,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 20677,
+      "checks_down": 1254,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 94,
+      "last_seen": "2026-04-06T21:54:09Z"
+    },
+    {
+      "host": "190.93.247.67",
+      "ip": "190.93.247.67",
+      "port": 80,
+      "delay": 100,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 10448,
+      "checks_down": 1163,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 89,
+      "last_seen": "2026-04-06T21:29:56Z"
+    },
+    {
+      "host": "190.93.247.5",
+      "ip": "190.93.247.5",
+      "port": 80,
+      "delay": 80,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 18051,
+      "checks_down": 1267,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 93,
+      "last_seen": "2026-04-06T21:19:26Z"
+    },
+    {
+      "host": "190.93.247.9",
+      "ip": "190.93.247.9",
+      "port": 80,
+      "delay": 140,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 15478,
+      "checks_down": 1278,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 92,
+      "last_seen": "2026-04-06T21:17:18Z"
+    },
+    {
+      "host": "190.93.247.247",
+      "ip": "190.93.247.247",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8963,
+      "checks_down": 1147,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-06T17:33:43Z"
+    },
+    {
+      "host": "190.93.247.8",
+      "ip": "190.93.247.8",
+      "port": 80,
+      "delay": 100,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 4771,
+      "checks_down": 1148,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 80,
+      "last_seen": "2026-04-06T11:25:52Z"
+    },
+    {
+      "host": "190.93.247.166",
+      "ip": "190.93.247.166",
+      "port": 80,
+      "delay": 100,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8877,
+      "checks_down": 1180,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-06T09:01:53Z"
+    },
+    {
+      "host": "190.93.247.58",
+      "ip": "190.93.247.58",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 22102,
+      "checks_down": 1249,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 94,
+      "last_seen": "2026-04-06T04:12:46Z"
+    },
+    {
+      "host": "190.93.246.202",
+      "ip": "190.93.246.202",
+      "port": 80,
+      "delay": 80,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 9044,
+      "checks_down": 1131,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-06T01:36:44Z"
+    },
+    {
+      "host": "190.93.246.210",
+      "ip": "190.93.246.210",
+      "port": 80,
+      "delay": 60,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 11745,
+      "checks_down": 1179,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 90,
+      "last_seen": "2026-04-06T01:31:47Z"
+    },
+    {
+      "host": "190.52.110.43",
+      "ip": "190.52.110.43",
+      "port": 999,
+      "delay": 4980,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "city": "Cartago",
+      "checks_up": 12,
+      "checks_down": 116,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 9,
+      "last_seen": "2026-04-05T19:38:08Z"
+    }
+  ]
+}

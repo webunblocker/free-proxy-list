@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "host": "219.93.101.62",
+      "ip": "219.93.101.62",
+      "port": 80,
+      "delay": 960,
+      "country_code": "MY",
+      "country_name": "Malaysia",
+      "city": "Johor Bahru",
+      "checks_up": 836,
+      "checks_down": 1470,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 36,
+      "last_seen": "2026-04-07T04:04:56Z"
+    },
+    {
+      "host": "219.93.101.60",
+      "ip": "219.93.101.60",
+      "port": 80,
+      "delay": 940,
+      "country_code": "MY",
+      "country_name": "Malaysia",
+      "city": "Kota Kinabalu",
+      "checks_up": 1385,
+      "checks_down": 2288,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 37,
+      "last_seen": "2026-04-07T00:40:13Z"
+    }
+  ]
+}

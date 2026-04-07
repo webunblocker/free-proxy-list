@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "host": "152.230.215.123",
+      "ip": "152.230.215.123",
+      "port": 80,
+      "delay": 2560,
+      "country_code": "CL",
+      "country_name": "Chile",
+      "city": "Santiago",
+      "checks_up": 1549,
+      "checks_down": 3336,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 31,
+      "last_seen": "2026-04-06T05:57:46Z"
+    },
+    {
+      "host": "190.13.147.241",
+      "ip": "190.13.147.241",
+      "port": 5678,
+      "delay": 2460,
+      "country_code": "CL",
+      "country_name": "Chile",
+      "checks_up": 758,
+      "checks_down": 4076,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 15,
+      "last_seen": "2026-04-05T12:55:40Z"
+    }
+  ]
+}

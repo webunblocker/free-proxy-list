@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "38.188.247.12",
+      "ip": "38.188.247.12",
+      "port": 999,
+      "delay": 5100,
+      "country_code": "DO",
+      "country_name": "Dominican Republic",
+      "city": "Fantino",
+      "checks_up": 57,
+      "checks_down": 203,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 21,
+      "last_seen": "2026-04-06T09:32:37Z"
+    }
+  ]
+}

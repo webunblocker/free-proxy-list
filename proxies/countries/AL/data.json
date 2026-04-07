@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "80.78.73.120",
+      "ip": "80.78.73.120",
+      "port": 65530,
+      "delay": 1340,
+      "country_code": "AL",
+      "country_name": "Albania",
+      "city": "Tirana",
+      "checks_up": 77,
+      "checks_down": 419,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 15,
+      "last_seen": "2026-04-06T00:46:26Z"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "host": "170.64.170.204",
+      "ip": "170.64.170.204",
+      "port": 1080,
+      "delay": 1880,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "city": "Sydney",
+      "checks_up": 478,
+      "checks_down": 19,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 96,
+      "last_seen": "2026-04-07T07:31:56Z"
+    },
+    {
+      "host": "103.169.142.37",
+      "ip": "103.169.142.37",
+      "port": 80,
+      "delay": 40,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 78,
+      "checks_down": 64,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 54,
+      "last_seen": "2026-04-07T06:36:01Z"
+    },
+    {
+      "host": "103.169.142.51",
+      "ip": "103.169.142.51",
+      "port": 80,
+      "delay": 60,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 1358,
+      "checks_down": 1248,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 52,
+      "last_seen": "2026-04-07T05:49:07Z"
+    },
+    {
+      "host": "139.99.237.62",
+      "ip": "139.99.237.62",
+      "port": 80,
+      "delay": 1220,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "city": "Sydney",
+      "checks_up": 12913,
+      "checks_down": 5660,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 69,
+      "last_seen": "2026-04-07T01:20:18Z"
+    },
+    {
+      "host": "103.169.142.66",
+      "ip": "103.169.142.66",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 1687,
+      "checks_down": 1238,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 57,
+      "last_seen": "2026-04-07T00:45:12Z"
+    },
+    {
+      "host": "103.169.142.188",
+      "ip": "103.169.142.188",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 125,
+      "checks_down": 71,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 63,
+      "last_seen": "2026-04-06T22:42:35Z"
+    },
+    {
+      "host": "103.169.142.0",
+      "ip": "103.169.142.0",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 2893,
+      "checks_down": 1245,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 69,
+      "last_seen": "2026-04-06T22:41:32Z"
+    },
+    {
+      "host": "4.195.16.140",
+      "ip": "4.195.16.140",
+      "port": 80,
+      "delay": 1160,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "city": "Sydney",
+      "checks_up": 4715,
+      "checks_down": 633,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 88,
+      "last_seen": "2026-04-06T07:26:59Z"
+    },
+    {
+      "host": "103.169.142.57",
+      "ip": "103.169.142.57",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 73,
+      "checks_down": 53,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 57,
+      "last_seen": "2026-04-06T03:26:10Z"
+    },
+    {
+      "host": "203.23.238.21",
+      "ip": "203.23.238.21",
+      "port": 80,
+      "delay": 1340,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "city": "Canberra",
+      "checks_up": 115,
+      "checks_down": 144,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 44,
+      "last_seen": "2026-04-06T00:11:45Z"
+    },
+    {
+      "host": "103.169.142.218",
+      "ip": "103.169.142.218",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 65,
+      "checks_down": 58,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 52,
+      "last_seen": "2026-04-05T13:43:26Z"
+    }
+  ]
+}

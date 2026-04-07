@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "host": "103.35.189.56",
+      "ip": "103.35.189.56",
+      "port": 1080,
+      "delay": 3740,
+      "country_code": "MD",
+      "country_name": "Moldova",
+      "checks_up": 17,
+      "checks_down": 102,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 14,
+      "last_seen": "2026-04-07T03:42:24Z"
+    },
+    {
+      "host": "103.113.70.189",
+      "ip": "103.113.70.189",
+      "port": 1081,
+      "delay": 860,
+      "country_code": "MD",
+      "country_name": "Moldova",
+      "checks_up": 153,
+      "checks_down": 401,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 27,
+      "last_seen": "2026-04-07T03:05:05Z"
+    }
+  ]
+}

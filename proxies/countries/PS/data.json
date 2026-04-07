@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "93.184.4.37",
+      "ip": "93.184.4.37",
+      "port": 1080,
+      "delay": 3700,
+      "country_code": "PS",
+      "country_name": "Palestinian Territory",
+      "checks_up": 21,
+      "checks_down": 277,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 7,
+      "last_seen": "2026-04-05T21:16:34Z"
+    }
+  ]
+}

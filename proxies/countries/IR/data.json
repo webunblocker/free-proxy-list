@@ -1,0 +1,361 @@
+{
+  "data": [
+    {
+      "host": "206.123.156.202",
+      "ip": "206.123.156.202",
+      "port": 6808,
+      "delay": 620,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 31,
+      "checks_down": 51,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 37,
+      "last_seen": "2026-04-07T06:09:28Z"
+    },
+    {
+      "host": "206.123.156.186",
+      "ip": "206.123.156.186",
+      "port": 7262,
+      "delay": 2460,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 16,
+      "checks_down": 50,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 24,
+      "last_seen": "2026-04-07T01:26:29Z"
+    },
+    {
+      "host": "206.123.156.185",
+      "ip": "206.123.156.185",
+      "port": 8228,
+      "delay": 1900,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 10,
+      "checks_down": 53,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 15,
+      "last_seen": "2026-04-06T15:10:18Z"
+    },
+    {
+      "host": "206.123.156.222",
+      "ip": "206.123.156.222",
+      "port": 6258,
+      "delay": 940,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 10,
+      "checks_down": 52,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 16,
+      "last_seen": "2026-04-06T14:37:27Z"
+    },
+    {
+      "host": "206.123.156.187",
+      "ip": "206.123.156.187",
+      "port": 6093,
+      "delay": 2700,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 4,
+      "checks_down": 50,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 7,
+      "last_seen": "2026-04-06T12:19:17Z"
+    },
+    {
+      "host": "206.123.156.185",
+      "ip": "206.123.156.185",
+      "port": 9663,
+      "delay": 2180,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 11,
+      "checks_down": 53,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 17,
+      "last_seen": "2026-04-06T05:58:48Z"
+    },
+    {
+      "host": "206.123.156.226",
+      "ip": "206.123.156.226",
+      "port": 6877,
+      "delay": 720,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 8,
+      "checks_down": 51,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 13,
+      "last_seen": "2026-04-06T05:58:46Z"
+    },
+    {
+      "host": "206.123.156.209",
+      "ip": "206.123.156.209",
+      "port": 7661,
+      "delay": 1240,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 4,
+      "checks_down": 52,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 7,
+      "last_seen": "2026-04-06T05:53:29Z"
+    },
+    {
+      "host": "206.123.156.194",
+      "ip": "206.123.156.194",
+      "port": 6771,
+      "delay": 780,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 103,
+      "checks_down": 40,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 72,
+      "last_seen": "2026-04-06T03:49:46Z"
+    },
+    {
+      "host": "206.123.156.236",
+      "ip": "206.123.156.236",
+      "port": 6712,
+      "delay": 3120,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 106,
+      "checks_down": 68,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 60,
+      "last_seen": "2026-04-05T22:57:18Z"
+    },
+    {
+      "host": "206.123.156.178",
+      "ip": "206.123.156.178",
+      "port": 5992,
+      "delay": 5100,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 19,
+      "checks_down": 161,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 10,
+      "last_seen": "2026-04-05T21:33:52Z"
+    },
+    {
+      "host": "206.123.156.184",
+      "ip": "206.123.156.184",
+      "port": 7063,
+      "delay": 1220,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 8,
+      "checks_down": 50,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 13,
+      "last_seen": "2026-04-05T18:30:05Z"
+    },
+    {
+      "host": "206.123.156.224",
+      "ip": "206.123.156.224",
+      "port": 7770,
+      "delay": 3960,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 10,
+      "checks_down": 54,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 15,
+      "last_seen": "2026-04-05T15:50:34Z"
+    },
+    {
+      "host": "206.123.156.234",
+      "ip": "206.123.156.234",
+      "port": 6996,
+      "delay": 3660,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 17,
+      "checks_down": 51,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 25,
+      "last_seen": "2026-04-05T15:36:56Z"
+    },
+    {
+      "host": "206.123.156.220",
+      "ip": "206.123.156.220",
+      "port": 6984,
+      "delay": 1000,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 68,
+      "checks_down": 50,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 57,
+      "last_seen": "2026-04-05T15:30:57Z"
+    },
+    {
+      "host": "206.123.156.232",
+      "ip": "206.123.156.232",
+      "port": 6047,
+      "delay": 5100,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 12,
+      "checks_down": 54,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 18,
+      "last_seen": "2026-04-05T09:04:45Z"
+    },
+    {
+      "host": "206.123.156.177",
+      "ip": "206.123.156.177",
+      "port": 6517,
+      "delay": 4260,
+      "country_code": "IR",
+      "country_name": "Iran",
+      "checks_up": 7,
+      "checks_down": 56,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 11,
+      "last_seen": "2026-04-05T09:04:38Z"
+    }
+  ]
+}

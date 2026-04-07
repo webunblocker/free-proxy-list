@@ -1,0 +1,5 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+47.91.104.88,3128,AE,United Arab Emirates,Dubai,,,,,HTTP,Transparent,69,3100,2026-04-07T07:03:25Z
+181.214.1.229,80,AE,United Arab Emirates,,,,,,HTTP,Transparent,56,40,2026-04-07T05:49:07Z
+181.214.1.151,80,AE,United Arab Emirates,,,,,,HTTP,Transparent,55,20,2026-04-06T21:22:26Z
+181.214.1.216,80,AE,United Arab Emirates,,,,,,HTTP,Transparent,54,3100,2026-04-06T21:15:56Z

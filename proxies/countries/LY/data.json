@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "host": "154.73.29.129",
+      "ip": "154.73.29.129",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "LY",
+      "country_name": "Libyan Arab Jamahiriya",
+      "checks_up": 4,
+      "checks_down": 59,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 6,
+      "last_seen": "2026-04-07T00:40:20Z"
+    },
+    {
+      "host": "102.68.135.157",
+      "ip": "102.68.135.157",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "LY",
+      "country_name": "Libyan Arab Jamahiriya",
+      "city": "Tripoli",
+      "checks_up": 6,
+      "checks_down": 106,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 5,
+      "last_seen": "2026-04-06T20:01:12Z"
+    },
+    {
+      "host": "102.214.104.56",
+      "ip": "102.214.104.56",
+      "port": 8080,
+      "delay": 3800,
+      "country_code": "LY",
+      "country_name": "Libyan Arab Jamahiriya",
+      "checks_up": 20,
+      "checks_down": 237,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 7,
+      "last_seen": "2026-04-06T06:06:50Z"
+    }
+  ]
+}

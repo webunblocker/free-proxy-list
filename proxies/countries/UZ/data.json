@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "host": "94.158.49.82",
+      "ip": "94.158.49.82",
+      "port": 3128,
+      "delay": 240,
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "city": "Guliston",
+      "checks_up": 24,
+      "checks_down": 106,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 18,
+      "last_seen": "2026-04-06T23:56:15Z"
+    },
+    {
+      "host": "195.158.8.123",
+      "ip": "195.158.8.123",
+      "port": 3128,
+      "delay": 4560,
+      "country_code": "UZ",
+      "country_name": "Uzbekistan",
+      "city": "Tashkent",
+      "checks_up": 1515,
+      "checks_down": 4615,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 24,
+      "last_seen": "2026-04-06T18:57:43Z"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "data": [
+    {
+      "host": "189.202.188.149",
+      "ip": "189.202.188.149",
+      "port": 80,
+      "delay": 680,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "Kanas?n",
+      "checks_up": 14346,
+      "checks_down": 1199,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 92,
+      "last_seen": "2026-04-07T07:32:06Z"
+    },
+    {
+      "host": "45.174.253.64",
+      "ip": "45.174.253.64",
+      "port": 999,
+      "delay": 4740,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "Canc?n",
+      "checks_up": 16,
+      "checks_down": 69,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 18,
+      "last_seen": "2026-04-06T20:01:08Z"
+    },
+    {
+      "host": "5.102.109.41",
+      "ip": "5.102.109.41",
+      "port": 999,
+      "delay": 5100,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "San Jos? Iturbide",
+      "checks_up": 290,
+      "checks_down": 915,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 24,
+      "last_seen": "2026-04-06T18:38:29Z"
+    },
+    {
+      "host": "204.199.202.133",
+      "ip": "204.199.202.133",
+      "port": 999,
+      "delay": 3560,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "Teotihuac?n",
+      "checks_up": 3,
+      "checks_down": 64,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 4,
+      "last_seen": "2026-04-06T18:38:27Z"
+    },
+    {
+      "host": "201.134.41.110",
+      "ip": "201.134.41.110",
+      "port": 443,
+      "delay": 720,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "Heroica Matamoros",
+      "checks_up": 266,
+      "checks_down": 380,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 41,
+      "last_seen": "2026-04-06T18:18:13Z"
+    },
+    {
+      "host": "38.60.224.125",
+      "ip": "38.60.224.125",
+      "port": 20002,
+      "delay": 5100,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "Mexico City",
+      "checks_up": 81,
+      "checks_down": 65,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 55,
+      "last_seen": "2026-04-06T13:46:39Z"
+    },
+    {
+      "host": "38.60.224.95",
+      "ip": "38.60.224.95",
+      "port": 20002,
+      "delay": 5100,
+      "country_code": "MX",
+      "country_name": "Mexico",
+      "city": "Mexico City",
+      "checks_up": 55,
+      "checks_down": 65,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 45,
+      "last_seen": "2026-04-05T13:55:18Z"
+    }
+  ]
+}

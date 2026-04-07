@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "176.61.151.123",
+      "ip": "176.61.151.123",
+      "port": 80,
+      "delay": 4060,
+      "country_code": "PT",
+      "country_name": "Portugal",
+      "checks_up": 845,
+      "checks_down": 597,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 58,
+      "last_seen": "2026-04-07T07:27:41Z"
+    }
+  ]
+}

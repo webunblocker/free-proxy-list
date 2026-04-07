@@ -1,0 +1,6 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+195.85.23.226,80,CZ,Czech Republic,,,,,,HTTP,Transparent,81,60,2026-04-07T07:39:06Z
+78.80.228.150,80,CZ,Czech Republic,Brno,,,,,HTTP,Elite,50,260,2026-04-07T07:29:10Z
+195.85.23.138,80,CZ,Czech Republic,,,,,,HTTP,Transparent,64,60,2026-04-07T04:21:13Z
+195.85.23.58,80,CZ,Czech Republic,,,,,,HTTP,Transparent,53,60,2026-04-07T03:36:11Z
+195.85.23.30,80,CZ,Czech Republic,,,,,,HTTP,Transparent,81,160,2026-04-07T03:25:22Z

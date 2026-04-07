@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "host": "196.1.97.198",
+      "ip": "196.1.97.198",
+      "port": 80,
+      "delay": 5100,
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "checks_up": 608,
+      "checks_down": 663,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 47,
+      "last_seen": "2026-04-07T08:08:58Z"
+    },
+    {
+      "host": "154.65.39.7",
+      "ip": "154.65.39.7",
+      "port": 80,
+      "delay": 1580,
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "checks_up": 22074,
+      "checks_down": 19346,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 53,
+      "last_seen": "2026-04-07T08:06:58Z"
+    },
+    {
+      "host": "154.65.39.8",
+      "ip": "154.65.39.8",
+      "port": 80,
+      "delay": 520,
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "checks_up": 13697,
+      "checks_down": 16844,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 44,
+      "last_seen": "2026-04-07T07:39:17Z"
+    },
+    {
+      "host": "196.1.93.10",
+      "ip": "196.1.93.10",
+      "port": 80,
+      "delay": 2720,
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "city": "Dakar",
+      "checks_up": 529,
+      "checks_down": 905,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 36,
+      "last_seen": "2026-04-06T10:33:51Z"
+    }
+  ]
+}

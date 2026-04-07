@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "host": "62.72.166.22",
+      "ip": "62.72.166.22",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 122,
+      "checks_down": 63,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 65,
+      "last_seen": "2026-04-07T07:27:36Z"
+    },
+    {
+      "host": "62.72.166.135",
+      "ip": "62.72.166.135",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 2986,
+      "checks_down": 1248,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 70,
+      "last_seen": "2026-04-07T05:33:42Z"
+    },
+    {
+      "host": "62.72.166.225",
+      "ip": "62.72.166.225",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 102,
+      "checks_down": 72,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 58,
+      "last_seen": "2026-04-06T23:59:21Z"
+    },
+    {
+      "host": "62.72.166.151",
+      "ip": "62.72.166.151",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 105,
+      "checks_down": 97,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 51,
+      "last_seen": "2026-04-06T22:45:08Z"
+    },
+    {
+      "host": "62.72.166.228",
+      "ip": "62.72.166.228",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 102,
+      "checks_down": 51,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 66,
+      "last_seen": "2026-04-06T07:52:21Z"
+    },
+    {
+      "host": "62.72.166.241",
+      "ip": "62.72.166.241",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 70,
+      "checks_down": 57,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 55,
+      "last_seen": "2026-04-05T13:26:04Z"
+    }
+  ]
+}

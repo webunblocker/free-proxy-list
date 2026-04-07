@@ -1,0 +1,4 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+125.228.94.153,4145,TW,Taiwan,Taipei,,,,,SOCKS4,Elite,94,1720,2026-04-07T07:32:07Z
+125.228.94.232,4145,TW,Taiwan,Taipei,,,,,SOCKS4,Elite,84,1700,2026-04-07T07:23:43Z
+125.228.143.207,4145,TW,Taiwan,New Taipei City,,,,,SOCKS4,Elite,89,1700,2026-04-07T07:23:08Z

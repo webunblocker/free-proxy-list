@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "host": "89.43.31.134",
+      "ip": "89.43.31.134",
+      "port": 3128,
+      "delay": 480,
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "checks_up": 24567,
+      "checks_down": 1630,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 93,
+      "last_seen": "2026-04-07T07:25:16Z"
+    },
+    {
+      "host": "38.156.73.154",
+      "ip": "38.156.73.154",
+      "port": 8080,
+      "delay": 1300,
+      "country_code": "TR",
+      "country_name": "Turkey",
+      "city": "Antakya",
+      "checks_up": 93,
+      "checks_down": 604,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 13,
+      "last_seen": "2026-04-06T20:13:51Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "host": "188.42.88.62",
+      "ip": "188.42.88.62",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "checks_up": 7573,
+      "checks_down": 1261,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 85,
+      "last_seen": "2026-04-07T00:41:26Z"
+    },
+    {
+      "host": "188.42.89.68",
+      "ip": "188.42.89.68",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "checks_up": 78,
+      "checks_down": 48,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 61,
+      "last_seen": "2026-04-06T21:16:34Z"
+    },
+    {
+      "host": "188.42.89.29",
+      "ip": "188.42.89.29",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "checks_up": 1538,
+      "checks_down": 1263,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 54,
+      "last_seen": "2026-04-06T08:25:20Z"
+    }
+  ]
+}

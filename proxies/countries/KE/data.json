@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "102.0.24.58",
+      "ip": "102.0.24.58",
+      "port": 8080,
+      "delay": 1780,
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "city": "Nairobi",
+      "checks_up": 30,
+      "checks_down": 52,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 36,
+      "last_seen": "2026-04-07T08:06:56Z"
+    }
+  ]
+}

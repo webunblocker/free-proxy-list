@@ -1,0 +1,3 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+219.93.101.62,80,MY,Malaysia,Johor Bahru,,,,,HTTP,Anonymous,36,960,2026-04-07T04:04:56Z
+219.93.101.60,80,MY,Malaysia,Kota Kinabalu,,,,,HTTP,Anonymous,37,940,2026-04-07T00:40:13Z

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "159.224.232.194",
+      "ip": "159.224.232.194",
+      "port": 8888,
+      "delay": 300,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Dnipro",
+      "checks_up": 777,
+      "checks_down": 570,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 57,
+      "last_seen": "2026-04-06T08:11:51Z"
+    }
+  ]
+}

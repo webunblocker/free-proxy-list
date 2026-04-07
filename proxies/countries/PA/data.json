@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "190.218.146.195",
+      "ip": "190.218.146.195",
+      "port": 6881,
+      "delay": 2020,
+      "country_code": "PA",
+      "country_name": "Panama",
+      "city": "Panama City",
+      "checks_up": 78,
+      "checks_down": 70,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 52,
+      "last_seen": "2026-04-07T07:35:03Z"
+    }
+  ]
+}

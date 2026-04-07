@@ -1,0 +1,349 @@
+{
+  "data": [
+    {
+      "host": "16.78.119.130",
+      "ip": "16.78.119.130",
+      "port": 443,
+      "delay": 780,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Jakarta",
+      "checks_up": 666,
+      "checks_down": 74,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 90,
+      "last_seen": "2026-04-07T07:35:07Z"
+    },
+    {
+      "host": "150.107.140.238",
+      "ip": "150.107.140.238",
+      "port": 3128,
+      "delay": 4120,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 295,
+      "checks_down": 814,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 26,
+      "last_seen": "2026-04-07T07:07:53Z"
+    },
+    {
+      "host": "103.177.177.250",
+      "ip": "103.177.177.250",
+      "port": 8080,
+      "delay": 860,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 5,
+      "checks_down": 53,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 8,
+      "last_seen": "2026-04-07T01:50:47Z"
+    },
+    {
+      "host": "27.124.81.146",
+      "ip": "27.124.81.146",
+      "port": 8080,
+      "delay": 1920,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Semarang",
+      "checks_up": 7,
+      "checks_down": 59,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 10,
+      "last_seen": "2026-04-06T21:43:41Z"
+    },
+    {
+      "host": "103.133.26.119",
+      "ip": "103.133.26.119",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Purwakarta",
+      "checks_up": 9,
+      "checks_down": 210,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 4,
+      "last_seen": "2026-04-06T19:41:04Z"
+    },
+    {
+      "host": "103.181.255.105",
+      "ip": "103.181.255.105",
+      "port": 8080,
+      "delay": 3480,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 27,
+      "checks_down": 96,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 21,
+      "last_seen": "2026-04-06T19:26:53Z"
+    },
+    {
+      "host": "103.189.254.18",
+      "ip": "103.189.254.18",
+      "port": 8080,
+      "delay": 3280,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Surabaya",
+      "checks_up": 3,
+      "checks_down": 87,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 3,
+      "last_seen": "2026-04-06T19:24:32Z"
+    },
+    {
+      "host": "103.247.23.201",
+      "ip": "103.247.23.201",
+      "port": 8080,
+      "delay": 4360,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Ngawi",
+      "checks_up": 5,
+      "checks_down": 86,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 5,
+      "last_seen": "2026-04-06T18:40:17Z"
+    },
+    {
+      "host": "114.4.200.222",
+      "ip": "114.4.200.222",
+      "port": 5678,
+      "delay": 2080,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Jakarta",
+      "checks_up": 42,
+      "checks_down": 386,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 9,
+      "last_seen": "2026-04-06T17:36:11Z"
+    },
+    {
+      "host": "223.25.109.146",
+      "ip": "223.25.109.146",
+      "port": 8199,
+      "delay": 1460,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 318,
+      "checks_down": 1260,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 20,
+      "last_seen": "2026-04-06T10:52:39Z"
+    },
+    {
+      "host": "223.25.109.163",
+      "ip": "223.25.109.163",
+      "port": 8199,
+      "delay": 1460,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 173,
+      "checks_down": 995,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 14,
+      "last_seen": "2026-04-06T10:52:27Z"
+    },
+    {
+      "host": "160.22.200.60",
+      "ip": "160.22.200.60",
+      "port": 69,
+      "delay": 1240,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 159,
+      "checks_down": 24,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 86,
+      "last_seen": "2026-04-06T02:19:31Z"
+    },
+    {
+      "host": "103.151.20.131",
+      "ip": "103.151.20.131",
+      "port": 80,
+      "delay": 1040,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 73,
+      "checks_down": 169,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 30,
+      "last_seen": "2026-04-06T01:04:09Z"
+    },
+    {
+      "host": "117.102.101.52",
+      "ip": "117.102.101.52",
+      "port": 5678,
+      "delay": 2100,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Jakarta",
+      "checks_up": 13,
+      "checks_down": 66,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 16,
+      "last_seen": "2026-04-05T19:15:11Z"
+    },
+    {
+      "host": "163.227.248.17",
+      "ip": "163.227.248.17",
+      "port": 8181,
+      "delay": 3480,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Sukabumi",
+      "checks_up": 158,
+      "checks_down": 76,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 67,
+      "last_seen": "2026-04-05T12:40:58Z"
+    },
+    {
+      "host": "139.255.86.226",
+      "ip": "139.255.86.226",
+      "port": 5678,
+      "delay": 1100,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Bandung",
+      "checks_up": 48,
+      "checks_down": 402,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 10,
+      "last_seen": "2026-04-05T12:19:17Z"
+    }
+  ]
+}
