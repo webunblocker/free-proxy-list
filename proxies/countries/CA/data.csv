@@ -1,0 +1,6 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+23.227.39.128,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,87,120,2026-04-07T06:26:15Z
+23.227.38.8,80,CA,Canada,,,,,,HTTP,Transparent,91,100,2026-04-07T06:26:04Z
+23.227.38.94,80,CA,Canada,,,,,,HTTP,Transparent,91,100,2026-04-07T06:21:20Z
+23.227.39.95,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,88,80,2026-04-07T06:19:04Z
+23.227.38.40,80,CA,Canada,,,,,,HTTP,Transparent,91,160,2026-04-07T06:19:03Z

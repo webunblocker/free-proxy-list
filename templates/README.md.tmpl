@@ -1,0 +1,77 @@
+<p align="center">
+  <a href="{{PROXY_LIST_URL}}">
+    <img src="https://img.shields.io/badge/Socks5Proxies.com-Live%20Proxy%20List-0f766e?style=for-the-badge" alt="Socks5Proxies.com live proxy list">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Updated-Daily-16a34a" alt="Updated daily">
+  <a href="{{ALL_TXT_URL}}">
+    <img src="https://img.shields.io/badge/all-{{TOTAL_ALL}}-2563eb" alt="All proxies">
+  </a>
+  <a href="{{HTTP_TXT_URL}}">
+    <img src="https://img.shields.io/badge/http-{{TOTAL_HTTP}}-2563eb" alt="HTTP proxies">
+  </a>
+  <a href="{{HTTPS_TXT_URL}}">
+    <img src="https://img.shields.io/badge/https-{{TOTAL_HTTPS}}-2563eb" alt="HTTPS proxies">
+  </a>
+  <a href="{{SOCKS4_TXT_URL}}">
+    <img src="https://img.shields.io/badge/socks4-{{TOTAL_SOCKS4}}-2563eb" alt="SOCKS4 proxies">
+  </a>
+  <a href="{{SOCKS5_TXT_URL}}">
+    <img src="https://img.shields.io/badge/socks5-{{TOTAL_SOCKS5}}-2563eb" alt="SOCKS5 proxies">
+  </a>
+</p>
+
+# Socks5Proxies Free Proxy List
+
+Daily snapshot of public proxy endpoints exported from Socks5Proxies.com.
+
+> Latest snapshot: **{{TOTAL_ALL}}** proxies from **{{COUNTRY_COUNT}}** countries at **{{UPDATED_AT}}**.
+
+## Why this repo exists
+
+- GitHub is the distribution channel for daily snapshots.
+- The live site is the better product surface for filtering, exports, and validation.
+- If you came here from search, use the live site when you need fresher data than the GitHub snapshot.
+
+## Use the live site
+
+- [View Live Free Proxy List]({{PROXY_LIST_URL}})
+- [Run Bulk Checker]({{BULK_CHECKER_URL}})
+- [Read API Docs]({{API_DOCS_URL}})
+
+## Direct download links
+
+These files are served from jsDelivr on top of this repository.
+
+| Type | Count | JSON | TXT | CSV |
+| --- | ---: | --- | --- | --- |
+| All Proxies | {{TOTAL_ALL}} | [data.json]({{ALL_JSON_URL}}) | [data.txt]({{ALL_TXT_URL}}) | [data.csv]({{ALL_CSV_URL}}) |
+| HTTP Proxies | {{TOTAL_HTTP}} | [data.json]({{HTTP_JSON_URL}}) | [data.txt]({{HTTP_TXT_URL}}) | [data.csv]({{HTTP_CSV_URL}}) |
+| HTTPS Proxies | {{TOTAL_HTTPS}} | [data.json]({{HTTPS_JSON_URL}}) | [data.txt]({{HTTPS_TXT_URL}}) | [data.csv]({{HTTPS_CSV_URL}}) |
+| SOCKS4 Proxies | {{TOTAL_SOCKS4}} | [data.json]({{SOCKS4_JSON_URL}}) | [data.txt]({{SOCKS4_TXT_URL}}) | [data.csv]({{SOCKS4_CSV_URL}}) |
+| SOCKS5 Proxies | {{TOTAL_SOCKS5}} | [data.json]({{SOCKS5_JSON_URL}}) | [data.txt]({{SOCKS5_TXT_URL}}) | [data.csv]({{SOCKS5_CSV_URL}}) |
+{{US_ROW}}
+
+More country splits: [browse `proxies/countries/`](https://github.com/{{REPO_SLUG}}/tree/{{REPO_BRANCH}}/proxies/countries)
+
+## cURL examples
+
+```bash
+curl -fsSL {{ALL_TXT_URL}} -o proxies.txt
+curl -fsSL {{SOCKS5_TXT_URL}} -o socks5.txt
+curl -fsSL {{US_TXT_URL}} -o us.txt
+```
+
+## Notes
+
+- This repository is a daily snapshot. The main site updates more frequently.
+- Public proxies have high churn. Re-check targets before production usage.
+- Use the live list, Bulk Checker, and API docs for fresher filtering and validation workflows.
+
+## Source
+
+- Live site: [{{SITE_URL}}]({{SITE_URL}})
+- Free proxy list: [{{PROXY_LIST_URL}}]({{PROXY_LIST_URL}})
+- API docs: [{{API_DOCS_URL}}]({{API_DOCS_URL}})

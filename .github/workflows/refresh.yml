@@ -1,0 +1,50 @@
+name: Refresh Proxy Snapshot
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-free-proxy-list
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Refresh snapshot
+        env:
+          API_BASE_URL: https://api.socks5proxies.com
+          PROXYLIST_API_KEY: ${{ secrets.PROXYLIST_API_KEY }}
+          SITE_URL: https://socks5proxies.com
+          REPO_SLUG: newbie-learn-coding/free-proxy-list
+          REPO_BRANCH: main
+        run: node scripts/refresh.mjs
+
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git add README.md proxies
+          git commit -m "chore(data): refresh proxy snapshot"
+          git push
