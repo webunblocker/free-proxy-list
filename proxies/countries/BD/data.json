@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "115.127.31.66",
+      "ip": "115.127.31.66",
+      "port": 8080,
+      "delay": 820,
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "city": "Dhaka",
+      "checks_up": 9840,
+      "checks_down": 4829,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 67,
+      "last_seen": "2026-04-07T07:26:12Z"
+    }
+  ]
+}

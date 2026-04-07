@@ -30,7 +30,7 @@ jobs:
           API_BASE_URL: https://api.socks5proxies.com
           PROXYLIST_API_KEY: ${{ secrets.PROXYLIST_API_KEY }}
           SITE_URL: https://socks5proxies.com
-          REPO_SLUG: newbie-learn-coding/free-proxy-list
+          REPO_SLUG: webunblocker/free-proxy-list
           REPO_BRANCH: main
         run: node scripts/refresh.mjs
 

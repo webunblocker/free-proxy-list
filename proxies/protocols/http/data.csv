@@ -1,101 +1,90 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-188.114.96.25,80,NL,Netherlands,Amsterdam,,,,,HTTP,Transparent,88,80,2026-04-07T06:26:15Z
-172.67.181.254,80,US,United States,,,,,,HTTP,Transparent,90,140,2026-04-07T06:26:15Z
-141.101.120.233,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,120,2026-04-07T06:26:15Z
-185.146.173.33,80,SE,Sweden,,,,,,HTTP,Transparent,56,100,2026-04-07T06:26:15Z
-66.235.200.145,80,US,United States,,,,,,HTTP,Transparent,61,80,2026-04-07T06:26:15Z
-23.227.39.128,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,87,120,2026-04-07T06:26:15Z
-172.67.180.86,80,ZZ,Unknown,,,,,,HTTP,Transparent,60,120,2026-04-07T06:26:15Z
-141.101.120.2,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,140,2026-04-07T06:26:15Z
-172.67.185.188,80,US,United States,,,,,,HTTP,Transparent,90,120,2026-04-07T06:26:04Z
-141.101.122.144,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,100,2026-04-07T06:26:04Z
-172.67.133.207,80,US,United States,,,,,,HTTP,Transparent,89,120,2026-04-07T06:26:04Z
-172.67.97.95,80,US,United States,,,,,,HTTP,Transparent,89,120,2026-04-07T06:26:04Z
-66.235.200.27,80,US,United States,,,,,,HTTP,Transparent,87,120,2026-04-07T06:26:04Z
-23.227.38.8,80,CA,Canada,,,,,,HTTP,Transparent,91,100,2026-04-07T06:26:04Z
-172.67.161.245,80,US,United States,,,,,,HTTP,Transparent,81,160,2026-04-07T06:26:04Z
-172.64.149.213,80,US,United States,,,,,,HTTP,Transparent,81,120,2026-04-07T06:26:04Z
-173.245.58.92,80,ZZ,Unknown,,,,,,HTTP,Transparent,76,140,2026-04-07T06:26:04Z
-172.67.71.68,80,US,United States,,,,,,HTTP,Transparent,87,80,2026-04-07T06:26:04Z
-172.67.167.213,80,US,United States,,,,,,HTTP,Transparent,91,120,2026-04-07T06:26:04Z
-172.67.153.77,80,US,United States,,,,,,HTTP,Transparent,88,120,2026-04-07T06:26:04Z
-172.67.180.56,80,US,United States,,,,,,HTTP,Transparent,92,140,2026-04-07T06:26:04Z
-172.67.75.182,80,US,United States,,,,,,HTTP,Transparent,91,120,2026-04-07T06:26:04Z
-172.67.171.219,80,US,United States,,,,,,HTTP,Transparent,91,140,2026-04-07T06:26:04Z
-172.67.185.154,80,US,United States,,,,,,HTTP,Transparent,90,120,2026-04-07T06:26:03Z
-172.67.70.254,80,US,United States,,,,,,HTTP,Transparent,93,120,2026-04-07T06:26:03Z
-172.67.181.186,80,US,United States,,,,,,HTTP,Transparent,93,120,2026-04-07T06:26:03Z
-172.67.191.248,80,US,United States,,,,,,HTTP,Transparent,90,120,2026-04-07T06:26:03Z
-45.131.7.185,80,NL,Netherlands,,,,,,HTTP,Transparent,88,20,2026-04-07T06:26:02Z
-63.141.128.43,80,US,United States,,,,,,HTTP,Transparent,86,20,2026-04-07T06:26:02Z
-172.64.145.67,80,US,United States,,,,,,HTTP,Transparent,89,120,2026-04-07T06:26:02Z
-172.67.182.137,80,US,United States,,,,,,HTTP,Transparent,94,120,2026-04-07T06:26:02Z
-45.131.7.92,80,NL,Netherlands,,,,,,HTTP,Transparent,88,20,2026-04-07T06:26:02Z
-141.101.123.223,80,ZZ,Unknown,,,,,,HTTP,Transparent,93,160,2026-04-07T06:25:52Z
-173.245.59.107,80,ZZ,Unknown,,,,,,HTTP,Transparent,75,120,2026-04-07T06:25:52Z
-63.141.128.59,80,US,United States,,,,,,HTTP,Transparent,87,20,2026-04-07T06:25:52Z
-185.238.228.145,80,ES,Spain,,,,,,HTTP,Transparent,90,20,2026-04-07T06:25:52Z
-45.131.4.154,80,NL,Netherlands,,,,,,HTTP,Transparent,87,20,2026-04-07T06:25:52Z
-172.67.181.135,80,US,United States,,,,,,HTTP,Transparent,94,140,2026-04-07T06:25:52Z
-172.64.149.34,80,US,United States,,,,,,HTTP,Transparent,89,120,2026-04-07T06:25:52Z
-63.141.128.171,80,US,United States,,,,,,HTTP,Transparent,87,20,2026-04-07T06:25:41Z
-164.38.155.62,80,GB,United Kingdom,,,,,,HTTP,Transparent,86,40,2026-04-07T06:25:41Z
-185.162.230.47,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-07T06:25:20Z
-63.141.128.57,80,US,United States,,,,,,HTTP,Transparent,86,20,2026-04-07T06:25:20Z
-172.67.141.154,80,US,United States,,,,,,HTTP,Transparent,88,120,2026-04-07T06:25:20Z
-172.67.171.198,80,US,United States,,,,,,HTTP,Transparent,90,100,2026-04-07T06:25:09Z
-63.141.128.34,80,US,United States,,,,,,HTTP,Transparent,86,40,2026-04-07T06:23:06Z
-45.131.7.127,80,NL,Netherlands,,,,,,HTTP,Transparent,87,40,2026-04-07T06:23:06Z
-108.162.198.165,80,US,United States,,,,,,HTTP,Transparent,87,120,2026-04-07T06:22:56Z
-172.67.118.110,80,US,United States,,,,,,HTTP,Transparent,91,120,2026-04-07T06:22:45Z
-45.12.30.193,80,RO,Romania,,,,,,HTTP,Transparent,90,20,2026-04-07T06:22:45Z
-185.162.228.163,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T06:22:44Z
-141.101.120.136,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-07T06:22:44Z
-172.67.171.251,80,US,United States,,,,,,HTTP,Transparent,89,140,2026-04-07T06:22:13Z
-154.92.9.3,80,JP,Japan,Tokyo,,,,,HTTP,Transparent,82,20,2026-04-07T06:21:20Z
-141.101.123.70,80,ZZ,Unknown,,,,,,HTTP,Transparent,90,80,2026-04-07T06:21:20Z
-185.162.229.231,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T06:21:20Z
-31.43.179.250,80,KZ,Kazakstan,,,,,,HTTP,Transparent,89,20,2026-04-07T06:21:20Z
-45.12.30.122,80,RO,Romania,,,,,,HTTP,Transparent,90,20,2026-04-07T06:21:20Z
-66.235.200.37,80,US,United States,,,,,,HTTP,Transparent,88,140,2026-04-07T06:21:20Z
-141.101.120.96,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-07T06:21:20Z
-172.67.75.151,80,US,United States,,,,,,HTTP,Transparent,91,100,2026-04-07T06:21:20Z
-45.131.7.30,80,NL,Netherlands,,,,,,HTTP,Transparent,86,20,2026-04-07T06:21:20Z
-185.162.228.154,80,AM,Armenia,,,,,,HTTP,Transparent,91,20,2026-04-07T06:21:20Z
-172.67.87.48,80,US,United States,,,,,,HTTP,Transparent,87,80,2026-04-07T06:21:20Z
-23.227.38.94,80,CA,Canada,,,,,,HTTP,Transparent,91,100,2026-04-07T06:21:20Z
-172.64.52.210,80,US,United States,,,,,,HTTP,Transparent,80,80,2026-04-07T06:21:20Z
-45.131.7.17,80,NL,Netherlands,,,,,,HTTP,Transparent,86,40,2026-04-07T06:21:20Z
-45.12.30.242,80,RO,Romania,,,,,,HTTP,Transparent,90,40,2026-04-07T06:21:20Z
-45.131.5.222,80,NL,Netherlands,,,,,,HTTP,Transparent,84,40,2026-04-07T06:21:20Z
-185.162.231.6,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-07T06:21:20Z
-45.131.7.69,80,NL,Netherlands,,,,,,HTTP,Transparent,87,20,2026-04-07T06:21:20Z
-45.131.5.195,80,NL,Netherlands,,,,,,HTTP,Transparent,87,20,2026-04-07T06:21:20Z
-45.131.6.155,80,NL,Netherlands,,,,,,HTTP,Transparent,84,40,2026-04-07T06:21:20Z
-141.101.122.167,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,60,2026-04-07T06:19:15Z
-38.60.196.214,80,GB,United Kingdom,London,,,,,HTTP,Elite,61,1220,2026-04-07T06:19:04Z
-172.64.151.24,80,US,United States,,,,,,HTTP,Transparent,82,80,2026-04-07T06:19:04Z
-45.12.31.238,80,RO,Romania,,,,,,HTTP,Transparent,90,20,2026-04-07T06:19:04Z
-172.67.181.131,80,US,United States,,,,,,HTTP,Transparent,94,100,2026-04-07T06:19:04Z
-172.67.181.143,80,US,United States,,,,,,HTTP,Transparent,94,60,2026-04-07T06:19:04Z
-172.67.181.211,80,US,United States,,,,,,HTTP,Transparent,93,60,2026-04-07T06:19:04Z
-172.67.82.195,80,US,United States,,,,,,HTTP,Transparent,88,80,2026-04-07T06:19:04Z
-141.101.123.189,80,ZZ,Unknown,,,,,,HTTP,Transparent,90,80,2026-04-07T06:19:04Z
-31.43.179.60,80,KZ,Kazakstan,,,,,,HTTP,Transparent,89,20,2026-04-07T06:19:04Z
-141.101.120.167,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-07T06:19:04Z
-188.114.97.10,80,NL,Netherlands,Amsterdam,,,,,HTTP,Transparent,90,80,2026-04-07T06:19:04Z
-172.67.170.25,80,US,United States,,,,,,HTTP,Transparent,90,80,2026-04-07T06:19:04Z
-185.162.229.183,80,AM,Armenia,,,,,,HTTP,Transparent,91,20,2026-04-07T06:19:04Z
-172.67.70.225,80,US,United States,,,,,,HTTP,Transparent,88,80,2026-04-07T06:19:04Z
-23.227.39.95,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,88,80,2026-04-07T06:19:04Z
-172.67.197.39,80,ZZ,Unknown,,,,,,HTTP,Transparent,75,160,2026-04-07T06:19:03Z
-172.67.70.199,80,US,United States,,,,,,HTTP,Transparent,93,160,2026-04-07T06:19:03Z
-172.64.89.49,80,US,United States,,,,,,HTTP,Transparent,88,120,2026-04-07T06:19:03Z
-172.67.70.5,80,US,United States,,,,,,HTTP,Transparent,88,140,2026-04-07T06:19:03Z
-66.235.200.131,80,US,United States,,,,,,HTTP,Transparent,89,120,2026-04-07T06:19:03Z
-172.67.212.189,80,US,United States,,,,,,HTTP,Transparent,81,80,2026-04-07T06:19:03Z
-172.67.161.224,80,US,United States,,,,,,HTTP,Transparent,81,160,2026-04-07T06:19:03Z
-172.67.196.202,80,US,United States,,,,,,HTTP,Transparent,87,140,2026-04-07T06:19:03Z
-185.193.30.29,80,GB,United Kingdom,,,,,,HTTP,Transparent,90,20,2026-04-07T06:19:03Z
-23.227.38.40,80,CA,Canada,,,,,,HTTP,Transparent,91,160,2026-04-07T06:19:03Z
-172.67.171.221,80,US,United States,,,,,,HTTP,Transparent,91,120,2026-04-07T06:19:03Z
+103.21.244.195,80,US,United States,Ashburn,,,,,HTTP,Transparent,90,180,2026-04-07T07:26:53Z
+141.253.118.174,80,FR,France,Paris,,,,,HTTP,Transparent,62,460,2026-04-07T07:26:53Z
+141.101.123.248,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,160,2026-04-07T07:26:52Z
+141.101.120.40,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,60,2026-04-07T07:26:52Z
+172.67.140.186,80,US,United States,,,,,,HTTP,Transparent,88,60,2026-04-07T07:26:52Z
+173.245.49.184,80,FR,France,Paris,,,,,HTTP,Transparent,88,140,2026-04-07T07:26:52Z
+172.64.53.21,80,ZZ,Unknown,,,,,,HTTP,Transparent,71,160,2026-04-07T07:26:52Z
+173.245.49.101,80,FR,France,Paris,,,,,HTTP,Transparent,91,60,2026-04-07T07:26:52Z
+23.227.38.250,80,CA,Canada,,,,,,HTTP,Transparent,91,60,2026-04-07T07:26:52Z
+31.43.179.32,80,KZ,Kazakstan,,,,,,HTTP,Transparent,89,20,2026-04-07T07:26:52Z
+172.67.167.21,80,US,United States,,,,,,HTTP,Transparent,86,60,2026-04-07T07:26:52Z
+141.101.121.225,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,60,2026-04-07T07:26:52Z
+103.21.244.219,80,US,United States,Ashburn,,,,,HTTP,Transparent,90,140,2026-04-07T07:26:52Z
+172.64.149.19,80,US,United States,,,,,,HTTP,Transparent,88,60,2026-04-07T07:26:52Z
+66.235.200.147,80,US,United States,,,,,,HTTP,Transparent,85,60,2026-04-07T07:26:52Z
+45.12.30.198,80,RO,Romania,,,,,,HTTP,Transparent,90,20,2026-04-07T07:26:52Z
+45.131.4.178,80,NL,Netherlands,,,,,,HTTP,Transparent,88,40,2026-04-07T07:26:52Z
+63.141.128.127,80,US,United States,,,,,,HTTP,Transparent,84,40,2026-04-07T07:26:52Z
+172.67.188.38,80,US,United States,,,,,,HTTP,Transparent,91,60,2026-04-07T07:26:52Z
+23.227.39.229,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,86,60,2026-04-07T07:26:52Z
+172.67.153.189,80,US,United States,,,,,,HTTP,Transparent,89,60,2026-04-07T07:26:52Z
+173.245.49.211,80,FR,France,Paris,,,,,HTTP,Transparent,88,140,2026-04-07T07:26:52Z
+159.246.55.10,80,US,United States,,,,,,HTTP,Transparent,57,20,2026-04-07T07:26:52Z
+172.64.92.16,80,ZZ,Unknown,,,,,,HTTP,Transparent,61,80,2026-04-07T07:26:52Z
+45.131.5.219,80,NL,Netherlands,,,,,,HTTP,Transparent,86,20,2026-04-07T07:26:52Z
+172.67.180.38,80,US,United States,,,,,,HTTP,Transparent,92,60,2026-04-07T07:26:52Z
+172.67.181.184,80,US,United States,,,,,,HTTP,Transparent,93,100,2026-04-07T07:26:52Z
+172.67.71.139,80,US,United States,,,,,,HTTP,Transparent,87,60,2026-04-07T07:26:52Z
+45.131.7.134,80,NL,Netherlands,,,,,,HTTP,Transparent,88,20,2026-04-07T07:26:52Z
+185.162.228.44,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T07:26:52Z
+185.238.228.36,80,ES,Spain,,,,,,HTTP,Transparent,89,20,2026-04-07T07:26:52Z
+185.162.230.95,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T07:26:52Z
+159.112.235.132,80,US,United States,,,,,,HTTP,Transparent,86,20,2026-04-07T07:26:52Z
+172.67.213.134,80,US,United States,,,,,,HTTP,Transparent,90,60,2026-04-07T07:26:52Z
+172.67.161.166,80,US,United States,,,,,,HTTP,Transparent,94,60,2026-04-07T07:26:52Z
+115.127.31.66,8080,BD,Bangladesh,Dhaka,,,,,HTTP,Elite,67,820,2026-04-07T07:26:12Z
+190.119.132.62,80,PE,Peru,Lima,,,,,HTTP,Anonymous,38,860,2026-04-07T07:26:12Z
+172.67.153.183,80,US,United States,,,,,,HTTP,Transparent,89,220,2026-04-07T07:26:11Z
+141.101.121.218,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,200,2026-04-07T07:26:11Z
+188.114.96.173,80,ZZ,Unknown,,,,,,HTTP,Transparent,73,160,2026-04-07T07:26:11Z
+172.67.177.167,80,US,United States,,,,,,HTTP,Transparent,91,160,2026-04-07T07:26:11Z
+103.21.244.42,80,US,United States,Ashburn,,,,,HTTP,Transparent,90,180,2026-04-07T07:26:11Z
+172.67.88.159,80,US,United States,,,,,,HTTP,Transparent,89,140,2026-04-07T07:26:11Z
+66.235.200.243,80,US,United States,,,,,,HTTP,Transparent,89,160,2026-04-07T07:26:11Z
+190.93.244.26,80,US,United States,San Jose,,,,,HTTP,Transparent,94,160,2026-04-07T07:26:11Z
+172.67.182.8,80,US,United States,,,,,,HTTP,Transparent,94,180,2026-04-07T07:26:11Z
+141.101.122.181,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,140,2026-04-07T07:26:11Z
+172.67.129.96,80,US,United States,,,,,,HTTP,Transparent,89,200,2026-04-07T07:26:11Z
+172.67.191.35,80,US,United States,,,,,,HTTP,Transparent,88,160,2026-04-07T07:26:11Z
+172.67.216.216,80,US,United States,,,,,,HTTP,Transparent,89,160,2026-04-07T07:26:11Z
+23.227.38.9,80,CA,Canada,,,,,,HTTP,Transparent,91,200,2026-04-07T07:26:11Z
+172.67.254.147,80,US,United States,,,,,,HTTP,Transparent,92,140,2026-04-07T07:26:11Z
+185.176.26.218,80,KZ,Kazakstan,Almaty,,,,,HTTP,Transparent,57,140,2026-04-07T07:26:11Z
+141.101.123.96,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,200,2026-04-07T07:26:11Z
+172.64.146.47,80,US,United States,San Francisco,,,,,HTTP,Transparent,77,140,2026-04-07T07:26:11Z
+185.176.26.210,80,KZ,Kazakstan,Almaty,,,,,HTTP,Transparent,71,140,2026-04-07T07:26:11Z
+172.67.80.140,80,ZZ,Unknown,,,,,,HTTP,Transparent,62,60,2026-04-07T07:26:10Z
+141.101.120.176,80,ZZ,Unknown,,,,,,HTTP,Transparent,90,60,2026-04-07T07:26:10Z
+172.64.155.199,80,ZZ,Unknown,,,,,,HTTP,Transparent,78,60,2026-04-07T07:26:10Z
+172.67.180.88,80,ZZ,Unknown,,,,,,HTTP,Transparent,60,60,2026-04-07T07:26:10Z
+207.180.254.198,8080,FR,France,Lauterbourg,,,,,HTTP,Elite,42,5100,2026-04-07T07:26:10Z
+108.162.198.211,80,US,United States,,,,,,HTTP,Transparent,87,80,2026-04-07T07:26:10Z
+185.162.228.88,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T07:26:10Z
+172.67.227.119,80,US,United States,,,,,,HTTP,Transparent,87,60,2026-04-07T07:26:10Z
+159.112.235.6,80,US,United States,,,,,,HTTP,Transparent,86,20,2026-04-07T07:26:10Z
+164.38.155.14,80,GB,United Kingdom,,,,,,HTTP,Transparent,86,20,2026-04-07T07:26:10Z
+63.141.128.45,80,US,United States,,,,,,HTTP,Transparent,87,20,2026-04-07T07:26:10Z
+45.131.4.196,80,NL,Netherlands,,,,,,HTTP,Transparent,87,20,2026-04-07T07:26:10Z
+185.162.231.14,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T07:26:10Z
+58.241.88.13,800,CN,China,,,,,,HTTP,Elite,98,1060,2026-04-07T07:26:05Z
+103.21.244.132,80,US,United States,Ashburn,,,,,HTTP,Transparent,90,180,2026-04-07T07:25:49Z
+103.21.244.190,80,US,United States,Ashburn,,,,,HTTP,Transparent,90,160,2026-04-07T07:25:49Z
+172.67.182.11,80,US,United States,,,,,,HTTP,Transparent,94,80,2026-04-07T07:25:48Z
+23.227.39.74,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,89,60,2026-04-07T07:25:48Z
+172.66.47.23,80,US,United States,,,,,,HTTP,Transparent,89,60,2026-04-07T07:25:48Z
+173.245.59.16,80,US,United States,,,,,,HTTP,Transparent,82,60,2026-04-07T07:25:48Z
+45.12.30.229,80,RO,Romania,,,,,,HTTP,Transparent,90,40,2026-04-07T07:25:48Z
+172.67.141.119,80,US,United States,,,,,,HTTP,Transparent,87,60,2026-04-07T07:25:48Z
+31.43.179.86,80,KZ,Kazakstan,,,,,,HTTP,Transparent,90,20,2026-04-07T07:25:48Z
+45.131.5.46,80,NL,Netherlands,,,,,,HTTP,Transparent,88,20,2026-04-07T07:25:48Z
+154.194.12.47,80,SG,Singapore,Singapore,,,,,HTTP,Transparent,66,20,2026-04-07T07:25:48Z
+156.146.56.231,8081,SG,Singapore,Singapore,,,,,HTTP,Elite,81,860,2026-04-07T07:25:40Z
+185.162.231.29,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-07T07:25:38Z
+173.245.49.54,80,FR,France,Paris,,,,,HTTP,Transparent,93,80,2026-04-07T07:25:38Z
+185.162.230.223,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-07T07:25:38Z
+172.67.218.148,80,US,United States,,,,,,HTTP,Transparent,90,80,2026-04-07T07:25:38Z
+45.131.4.146,80,NL,Netherlands,,,,,,HTTP,Transparent,86,20,2026-04-07T07:25:38Z
+5.10.245.197,80,GB,United Kingdom,London,,,,,HTTP,Transparent,80,20,2026-04-07T07:25:38Z
+172.64.32.92,80,ZZ,Unknown,,,,,,HTTP,Transparent,76,60,2026-04-07T07:25:38Z

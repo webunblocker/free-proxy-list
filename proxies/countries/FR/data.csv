@@ -1,0 +1,7 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+141.253.118.174,80,FR,France,Paris,,,,,HTTP,Transparent,62,460,2026-04-07T07:26:53Z
+173.245.49.184,80,FR,France,Paris,,,,,HTTP,Transparent,88,140,2026-04-07T07:26:52Z
+173.245.49.101,80,FR,France,Paris,,,,,HTTP,Transparent,91,60,2026-04-07T07:26:52Z
+173.245.49.211,80,FR,France,Paris,,,,,HTTP,Transparent,88,140,2026-04-07T07:26:52Z
+207.180.254.198,8080,FR,France,Lauterbourg,,,,,HTTP,Elite,42,5100,2026-04-07T07:26:10Z
+173.245.49.54,80,FR,France,Paris,,,,,HTTP,Transparent,93,80,2026-04-07T07:25:38Z

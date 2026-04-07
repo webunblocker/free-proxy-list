@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "58.241.88.13",
+      "ip": "58.241.88.13",
+      "port": 800,
+      "delay": 1060,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 631,
+      "checks_down": 7,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-04-07T07:26:05Z"
+    }
+  ]
+}

@@ -1,15 +1,36 @@
 {
   "data": [
     {
-      "host": "23.227.39.128",
-      "ip": "23.227.39.128",
+      "host": "23.227.38.250",
+      "ip": "23.227.38.250",
       "port": 80,
-      "delay": 120,
+      "delay": 60,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 14128,
+      "checks_down": 1285,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 91,
+      "last_seen": "2026-04-07T07:26:52Z"
+    },
+    {
+      "host": "23.227.39.229",
+      "ip": "23.227.39.229",
+      "port": 80,
+      "delay": 60,
       "country_code": "CA",
       "country_name": "Canada",
       "city": "Ottawa",
-      "checks_up": 8290,
-      "checks_down": 1160,
+      "checks_up": 7273,
+      "checks_down": 1125,
       "anon": 1,
       "http": 1,
       "ssl": 0,
@@ -19,18 +40,18 @@
         "HTTP"
       ],
       "anonymity_level": "Transparent",
-      "uptime": 87,
-      "last_seen": "2026-04-07T06:26:15Z"
+      "uptime": 86,
+      "last_seen": "2026-04-07T07:26:52Z"
     },
     {
-      "host": "23.227.38.8",
-      "ip": "23.227.38.8",
+      "host": "23.227.38.9",
+      "ip": "23.227.38.9",
       "port": 80,
-      "delay": 100,
+      "delay": 200,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 13976,
-      "checks_down": 1284,
+      "checks_up": 14159,
+      "checks_down": 1258,
       "anon": 1,
       "http": 1,
       "ssl": 0,
@@ -41,39 +62,18 @@
       ],
       "anonymity_level": "Transparent",
       "uptime": 91,
-      "last_seen": "2026-04-07T06:26:04Z"
+      "last_seen": "2026-04-07T07:26:11Z"
     },
     {
-      "host": "23.227.38.94",
-      "ip": "23.227.38.94",
+      "host": "23.227.39.74",
+      "ip": "23.227.39.74",
       "port": 80,
-      "delay": 100,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14102,
-      "checks_down": 1280,
-      "anon": 1,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 91,
-      "last_seen": "2026-04-07T06:21:20Z"
-    },
-    {
-      "host": "23.227.39.95",
-      "ip": "23.227.39.95",
-      "port": 80,
-      "delay": 80,
+      "delay": 60,
       "country_code": "CA",
       "country_name": "Canada",
       "city": "Ottawa",
-      "checks_up": 9252,
-      "checks_down": 1162,
+      "checks_up": 10024,
+      "checks_down": 1155,
       "anon": 1,
       "http": 1,
       "ssl": 0,
@@ -83,29 +83,8 @@
         "HTTP"
       ],
       "anonymity_level": "Transparent",
-      "uptime": 88,
-      "last_seen": "2026-04-07T06:19:04Z"
-    },
-    {
-      "host": "23.227.38.40",
-      "ip": "23.227.38.40",
-      "port": 80,
-      "delay": 160,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14099,
-      "checks_down": 1279,
-      "anon": 1,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 91,
-      "last_seen": "2026-04-07T06:19:03Z"
+      "uptime": 89,
+      "last_seen": "2026-04-07T07:25:48Z"
     }
   ]
 }

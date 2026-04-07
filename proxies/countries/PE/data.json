@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "190.119.132.62",
+      "ip": "190.119.132.62",
+      "port": 80,
+      "delay": 860,
+      "country_code": "PE",
+      "country_name": "Peru",
+      "city": "Lima",
+      "checks_up": 354,
+      "checks_down": 577,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 38,
+      "last_seen": "2026-04-07T07:26:12Z"
+    }
+  ]
+}

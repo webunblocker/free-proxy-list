@@ -1,3 +1,182 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "70.166.167.55",
+      "ip": "70.166.167.55",
+      "port": 57745,
+      "delay": 980,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 65535,
+      "checks_down": 20331,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 76,
+      "last_seen": "2026-04-07T07:26:13Z"
+    },
+    {
+      "host": "70.166.65.160",
+      "ip": "70.166.65.160",
+      "port": 4145,
+      "delay": 1080,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Warner Robins",
+      "checks_up": 1442,
+      "checks_down": 1359,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 51,
+      "last_seen": "2026-04-07T07:26:13Z"
+    },
+    {
+      "host": "213.165.58.7",
+      "ip": "213.165.58.7",
+      "port": 1080,
+      "delay": 2560,
+      "country_code": "FI",
+      "country_name": "Finland",
+      "city": "Helsinki",
+      "checks_up": 895,
+      "checks_down": 195,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 82,
+      "last_seen": "2026-04-07T07:25:55Z"
+    },
+    {
+      "host": "98.170.57.249",
+      "ip": "98.170.57.249",
+      "port": 4145,
+      "delay": 960,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 44789,
+      "checks_down": 13768,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 76,
+      "last_seen": "2026-04-07T07:25:52Z"
+    },
+    {
+      "host": "184.181.217.194",
+      "ip": "184.181.217.194",
+      "port": 4145,
+      "delay": 980,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 25021,
+      "checks_down": 18961,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 56,
+      "last_seen": "2026-04-07T07:25:52Z"
+    },
+    {
+      "host": "184.178.172.14",
+      "ip": "184.178.172.14",
+      "port": 4145,
+      "delay": 980,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 51403,
+      "checks_down": 29174,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 63,
+      "last_seen": "2026-04-07T07:25:51Z"
+    },
+    {
+      "host": "184.181.217.201",
+      "ip": "184.181.217.201",
+      "port": 4145,
+      "delay": 980,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 25072,
+      "checks_down": 19234,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 56,
+      "last_seen": "2026-04-07T07:25:41Z"
+    },
+    {
+      "host": "72.195.114.169",
+      "ip": "72.195.114.169",
+      "port": 4145,
+      "delay": 960,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 55854,
+      "checks_down": 31733,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 63,
+      "last_seen": "2026-04-07T07:25:41Z"
+    }
+  ]
 }
