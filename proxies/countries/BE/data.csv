@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-35.241.172.224,80,BE,Belgium,Brussels,,,,,HTTP,Anonymous,75,240,2026-04-07T07:25:27Z

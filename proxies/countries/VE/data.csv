@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-138.59.10.112,999,VE,Venezuela,Valencia,,,,,HTTP,Transparent,7,1860,2026-04-07T05:34:52Z
-38.172.160.160,999,VE,Venezuela,Barquisimeto,,,,,HTTP,Transparent,18,5100,2026-04-07T01:28:20Z

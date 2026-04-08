@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-102.0.24.58,8080,KE,Kenya,Nairobi,,,,,HTTP,Transparent,36,1780,2026-04-07T08:06:56Z

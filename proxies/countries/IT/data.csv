@@ -1,4 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-62.149.165.171,80,IT,Italy,Ponte San Pietro,,,,,HTTP,Elite,34,3960,2026-04-07T07:03:25Z
-185.213.20.105,3128,IT,Italy,,,,,,HTTP,Transparent,7,4520,2026-04-06T19:03:13Z
-195.231.69.203,80,IT,Italy,Ponte San Pietro,,,,,HTTP,Elite,32,240,2026-04-06T10:39:47Z

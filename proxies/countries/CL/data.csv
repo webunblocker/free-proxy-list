@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-152.230.215.123,80,CL,Chile,Santiago,,,,,HTTP,Elite,31,2560,2026-04-06T05:57:46Z
-190.13.147.241,5678,CL,Chile,,,,,,SOCKS4,Elite,15,2460,2026-04-05T12:55:40Z
