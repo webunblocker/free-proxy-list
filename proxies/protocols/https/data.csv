@@ -1,6 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-38.34.179.72,8448,US,United States,Redondo Beach,,,,,HTTPS,Elite,52,3440,2026-04-08T04:40:27Z
-89.43.31.134,3128,TR,Turkey,,,,,,HTTPS,Elite,93,1420,2026-04-08T04:37:19Z
-110.242.70.68,443,CN,China,,,,,,HTTPS,Elite,93,2220,2026-04-08T04:35:55Z
-20.24.43.214,80,SG,Singapore,Singapore,,,,,HTTPS,Elite,78,1080,2026-04-08T04:35:53Z
-20.24.43.214,8123,SG,Singapore,Singapore,,,,,HTTPS,Elite,84,1040,2026-04-08T04:35:43Z

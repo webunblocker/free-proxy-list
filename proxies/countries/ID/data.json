@@ -1,25 +1,26 @@
 {
   "data": [
     {
-      "host": "160.22.200.70",
-      "ip": "160.22.200.70",
-      "port": 69,
-      "delay": 3460,
+      "host": "103.141.148.62",
+      "ip": "103.141.148.62",
+      "port": 5678,
+      "delay": 5100,
       "country_code": "ID",
       "country_name": "Indonesia",
-      "checks_up": 158,
-      "checks_down": 35,
+      "city": "Banda Aceh",
+      "checks_up": 25,
+      "checks_down": 197,
       "anon": 4,
       "http": 0,
       "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
+      "socks4": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "SOCKS4"
       ],
       "anonymity_level": "Elite",
-      "uptime": 81,
-      "last_seen": "2026-04-08T04:31:47Z"
+      "uptime": 11,
+      "last_seen": "2026-04-08T06:14:45Z"
     }
   ]
 }

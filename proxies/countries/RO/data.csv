@@ -1,2 +1,6 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.12.31.87,80,RO,Romania,,,,,,HTTP,Transparent,90,1040,2026-04-08T04:34:13Z
+45.12.30.178,80,RO,Romania,,,,,,HTTP,Transparent,90,1060,2026-04-08T06:19:04Z
+45.12.31.181,80,RO,Romania,,,,,,HTTP,Transparent,90,40,2026-04-08T06:19:02Z
+45.12.30.65,80,RO,Romania,,,,,,HTTP,Transparent,90,20,2026-04-08T06:17:04Z
+45.12.30.194,80,RO,Romania,,,,,,HTTP,Transparent,91,1060,2026-04-08T06:15:05Z
+45.85.119.236,80,RO,Romania,,,,,,HTTP,Transparent,86,20,2026-04-08T06:15:04Z

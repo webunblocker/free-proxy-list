@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.8.211.68,80,RU,Russian Federation,,,,,,HTTP,Transparent,58,60,2026-04-08T04:37:18Z
-147.45.219.89,1080,RU,Russian Federation,Moscow,,,,,SOCKS5,Elite,58,1420,2026-04-08T04:29:55Z
