@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "host": "1.231.81.166",
+      "ip": "1.231.81.166",
+      "port": 3128,
+      "delay": 2500,
+      "country_code": "KR",
+      "country_name": "Korea",
+      "city": "Gangbuk-gu",
+      "checks_up": 627,
+      "checks_down": 167,
+      "anon": 1,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 78,
+      "last_seen": "2026-04-10T04:24:08Z"
+    }
+  ]
+}

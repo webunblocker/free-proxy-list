@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "151.236.24.38",
+      "ip": "151.236.24.38",
+      "port": 80,
+      "delay": 620,
+      "country_code": "IS",
+      "country_name": "Iceland",
+      "city": "Hafnarfjordur",
+      "checks_up": 394,
+      "checks_down": 8,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-04-10T04:29:13Z"
+    }
+  ]
+}

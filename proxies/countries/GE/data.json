@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "85.117.63.207",
+      "ip": "85.117.63.207",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "GE",
+      "country_name": "Georgia",
+      "city": "Tbilisi",
+      "checks_up": 4,
+      "checks_down": 63,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 5,
+      "last_seen": "2026-04-10T04:24:14Z"
+    }
+  ]
+}

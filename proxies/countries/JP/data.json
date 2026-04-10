@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "host": "147.161.210.140",
+      "ip": "147.161.210.140",
+      "port": 8800,
+      "delay": 2500,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 797,
+      "checks_down": 18,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 97,
+      "last_seen": "2026-04-10T04:49:46Z"
+    },
+    {
+      "host": "8.209.239.31",
+      "ip": "8.209.239.31",
+      "port": 30000,
+      "delay": 4320,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 277,
+      "checks_down": 119,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 69,
+      "last_seen": "2026-04-10T04:25:45Z"
+    }
+  ]
+}

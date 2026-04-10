@@ -1,4 +1,6 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-23.227.38.235,80,CA,Canada,,,,,,HTTP,Transparent,91,80,2026-04-08T06:19:03Z
-23.227.38.242,80,CA,Canada,,,,,,HTTP,Transparent,91,360,2026-04-08T06:17:03Z
-23.227.39.172,80,CA,Canada,,,,,,HTTP,Transparent,89,80,2026-04-08T06:15:09Z
+198.8.84.3,4145,CA,Canada,,,,,,SOCKS5,Elite,71,1360,2026-04-10T04:29:18Z
+192.252.211.197,14921,CA,Canada,Toronto,,,,,SOCKS4|SOCKS5,Elite,58,1700,2026-04-10T04:16:38Z
+192.111.130.5,17002,CA,Canada,Oakville,,,,,SOCKS5,Elite,56,1840,2026-04-10T04:16:37Z
+192.111.129.145,16894,CA,Canada,Toronto,,,,,SOCKS5,Elite,57,1900,2026-04-10T04:16:37Z
+192.252.209.155,14455,CA,Canada,Toronto,,,,,SOCKS4|SOCKS5,Elite,61,1720,2026-04-10T04:16:33Z

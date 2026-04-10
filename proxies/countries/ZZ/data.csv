@@ -1,14 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-141.101.123.24,80,ZZ,Unknown,,,,,,HTTP,Transparent,93,1320,2026-04-08T06:19:07Z
-172.67.85.64,80,ZZ,Unknown,,,,,,HTTP,Transparent,62,1120,2026-04-08T06:19:05Z
-141.101.122.236,80,ZZ,Unknown,,,,,,HTTP,Transparent,93,60,2026-04-08T06:19:04Z
-141.101.121.210,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-08T06:19:04Z
-141.101.120.178,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-08T06:19:03Z
-141.101.122.126,80,ZZ,Unknown,,,,,,HTTP,Transparent,90,1100,2026-04-08T06:17:08Z
-172.67.235.63,80,ZZ,Unknown,,,,,,HTTP,Transparent,67,80,2026-04-08T06:17:08Z
-188.114.99.165,80,ZZ,Unknown,,,,,,HTTP,Transparent,73,320,2026-04-08T06:17:07Z
-172.67.134.212,80,ZZ,Unknown,,,,,,HTTP,Transparent,56,80,2026-04-08T06:17:04Z
-172.67.168.222,80,ZZ,Unknown,,,,,,HTTP,Transparent,63,1120,2026-04-08T06:17:03Z
-172.67.66.21,80,ZZ,Unknown,,,,,,HTTP,Transparent,62,80,2026-04-08T06:17:03Z
-141.101.122.235,80,ZZ,Unknown,,,,,,HTTP,Transparent,93,380,2026-04-08T06:15:05Z
-141.101.120.243,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,60,2026-04-08T06:15:04Z
+201.148.32.162,80,ZZ,Unknown,,,,,,HTTP,Elite,81,1740,2026-04-10T04:33:08Z

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "125.228.94.153",
+      "ip": "125.228.94.153",
+      "port": 4145,
+      "delay": 3100,
+      "country_code": "TW",
+      "country_name": "Taiwan",
+      "city": "Taipei",
+      "checks_up": 3570,
+      "checks_down": 222,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 94,
+      "last_seen": "2026-04-10T04:21:16Z"
+    }
+  ]
+}

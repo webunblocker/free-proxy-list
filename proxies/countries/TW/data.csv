@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+125.228.94.153,4145,TW,Taiwan,Taipei,,,,,SOCKS4,Elite,94,3100,2026-04-10T04:21:16Z

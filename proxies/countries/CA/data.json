@@ -1,67 +1,115 @@
 {
   "data": [
     {
-      "host": "23.227.38.235",
-      "ip": "23.227.38.235",
-      "port": 80,
-      "delay": 80,
+      "host": "198.8.84.3",
+      "ip": "198.8.84.3",
+      "port": 4145,
+      "delay": 1360,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14089,
-      "checks_down": 1279,
-      "anon": 1,
-      "http": 1,
+      "checks_up": 23628,
+      "checks_down": 9540,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Transparent",
-      "uptime": 91,
-      "last_seen": "2026-04-08T06:19:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 71,
+      "last_seen": "2026-04-10T04:29:18Z"
     },
     {
-      "host": "23.227.38.242",
-      "ip": "23.227.38.242",
-      "port": 80,
-      "delay": 360,
+      "host": "192.252.211.197",
+      "ip": "192.252.211.197",
+      "port": 14921,
+      "delay": 1700,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14103,
-      "checks_down": 1284,
-      "anon": 1,
-      "http": 1,
+      "city": "Toronto",
+      "checks_up": 41535,
+      "checks_down": 28952,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
+      "socks4": 1,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS4",
+        "SOCKS5"
       ],
-      "anonymity_level": "Transparent",
-      "uptime": 91,
-      "last_seen": "2026-04-08T06:17:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 58,
+      "last_seen": "2026-04-10T04:16:38Z"
     },
     {
-      "host": "23.227.39.172",
-      "ip": "23.227.39.172",
-      "port": 80,
-      "delay": 80,
+      "host": "192.111.130.5",
+      "ip": "192.111.130.5",
+      "port": 17002,
+      "delay": 1840,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 10263,
-      "checks_down": 1157,
-      "anon": 1,
-      "http": 1,
+      "city": "Oakville",
+      "checks_up": 40266,
+      "checks_down": 30706,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Transparent",
-      "uptime": 89,
-      "last_seen": "2026-04-08T06:15:09Z"
+      "anonymity_level": "Elite",
+      "uptime": 56,
+      "last_seen": "2026-04-10T04:16:37Z"
+    },
+    {
+      "host": "192.111.129.145",
+      "ip": "192.111.129.145",
+      "port": 16894,
+      "delay": 1900,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "city": "Toronto",
+      "checks_up": 44646,
+      "checks_down": 32817,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 57,
+      "last_seen": "2026-04-10T04:16:37Z"
+    },
+    {
+      "host": "192.252.209.155",
+      "ip": "192.252.209.155",
+      "port": 14455,
+      "delay": 1720,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "city": "Toronto",
+      "checks_up": 50076,
+      "checks_down": 31812,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 61,
+      "last_seen": "2026-04-10T04:16:33Z"
     }
   ]
 }

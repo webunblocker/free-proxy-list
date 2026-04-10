@@ -1,0 +1,3 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+45.88.0.114,3128,VG,"Virgin Islands, British",,,,,,HTTP,Transparent,11,3380,2026-04-10T04:24:07Z
+45.88.0.115,3128,VG,"Virgin Islands, British",,,,,,HTTP,Transparent,12,500,2026-04-10T04:24:07Z

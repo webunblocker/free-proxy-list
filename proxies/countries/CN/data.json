@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "host": "58.241.88.13",
+      "ip": "58.241.88.13",
+      "port": 800,
+      "delay": 2380,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 641,
+      "checks_down": 12,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-04-10T04:35:19Z"
+    },
+    {
+      "host": "58.216.109.8",
+      "ip": "58.216.109.8",
+      "port": 800,
+      "delay": 2360,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 594,
+      "checks_down": 27,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 95,
+      "last_seen": "2026-04-10T04:31:20Z"
+    },
+    {
+      "host": "58.241.88.17",
+      "ip": "58.241.88.17",
+      "port": 800,
+      "delay": 1000,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 626,
+      "checks_down": 11,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-04-10T04:27:18Z"
+    },
+    {
+      "host": "180.125.216.109",
+      "ip": "180.125.216.109",
+      "port": 8118,
+      "delay": 2240,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 22,
+      "checks_down": 52,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 29,
+      "last_seen": "2026-04-10T04:24:10Z"
+    }
+  ]
+}
