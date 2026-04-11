@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-85.117.63.207,8080,GE,Georgia,Tbilisi,,,,,HTTP,Transparent,5,5100,2026-04-10T04:24:14Z

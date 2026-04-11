@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "158.160.215.167",
-      "ip": "158.160.215.167",
-      "port": 8124,
-      "delay": 3500,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Moscow",
-      "checks_up": 363,
-      "checks_down": 256,
+      "host": "45.136.130.188",
+      "ip": "45.136.130.188",
+      "port": 8449,
+      "delay": 1260,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Redondo Beach",
+      "checks_up": 10,
+      "checks_down": 75,
       "anon": 4,
       "http": 0,
       "ssl": 1,
@@ -19,210 +19,8 @@
         "HTTPS"
       ],
       "anonymity_level": "Elite",
-      "uptime": 58,
-      "last_seen": "2026-04-10T04:50:04Z"
-    },
-    {
-      "host": "158.160.215.167",
-      "ip": "158.160.215.167",
-      "port": 8126,
-      "delay": 3400,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Moscow",
-      "checks_up": 331,
-      "checks_down": 239,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 58,
-      "last_seen": "2026-04-10T04:49:55Z"
-    },
-    {
-      "host": "158.160.215.167",
-      "ip": "158.160.215.167",
-      "port": 8125,
-      "delay": 1580,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Moscow",
-      "checks_up": 356,
-      "checks_down": 235,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-04-10T04:49:29Z"
-    },
-    {
-      "host": "185.114.73.2",
-      "ip": "185.114.73.2",
-      "port": 1080,
-      "delay": 3680,
-      "country_code": "ES",
-      "country_name": "Spain",
-      "city": "Madrid",
-      "checks_up": 89,
-      "checks_down": 155,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 36,
-      "last_seen": "2026-04-10T04:29:07Z"
-    },
-    {
-      "host": "20.24.43.214",
-      "ip": "20.24.43.214",
-      "port": 80,
-      "delay": 2560,
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "city": "Singapore",
-      "checks_up": 444,
-      "checks_down": 122,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 78,
-      "last_seen": "2026-04-10T04:25:57Z"
-    },
-    {
-      "host": "8.209.239.31",
-      "ip": "8.209.239.31",
-      "port": 30000,
-      "delay": 4320,
-      "country_code": "JP",
-      "country_name": "Japan",
-      "city": "Tokyo",
-      "checks_up": 277,
-      "checks_down": 119,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-04-10T04:25:45Z"
-    },
-    {
-      "host": "20.24.43.214",
-      "ip": "20.24.43.214",
-      "port": 8123,
-      "delay": 1520,
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "city": "Singapore",
-      "checks_up": 211,
-      "checks_down": 37,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 85,
-      "last_seen": "2026-04-10T04:24:14Z"
-    },
-    {
-      "host": "180.125.216.109",
-      "ip": "180.125.216.109",
-      "port": 8118,
-      "delay": 2240,
-      "country_code": "CN",
-      "country_name": "China",
-      "checks_up": 22,
-      "checks_down": 52,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 29,
-      "last_seen": "2026-04-10T04:24:10Z"
-    },
-    {
-      "host": "1.231.81.166",
-      "ip": "1.231.81.166",
-      "port": 3128,
-      "delay": 2500,
-      "country_code": "KR",
-      "country_name": "Korea",
-      "city": "Gangbuk-gu",
-      "checks_up": 627,
-      "checks_down": 167,
-      "anon": 1,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 78,
-      "last_seen": "2026-04-10T04:24:08Z"
-    },
-    {
-      "host": "158.160.215.167",
-      "ip": "158.160.215.167",
-      "port": 8127,
-      "delay": 600,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Moscow",
-      "checks_up": 357,
-      "checks_down": 238,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-04-10T04:24:07Z"
+      "uptime": 11,
+      "last_seen": "2026-04-11T04:24:46Z"
     }
   ]
 }

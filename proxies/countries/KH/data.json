@@ -23,27 +23,26 @@
       "last_seen": "2026-04-11T04:24:48Z"
     },
     {
-      "host": "192.252.215.5",
-      "ip": "192.252.215.5",
-      "port": 16137,
-      "delay": 1620,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "city": "Toronto",
-      "checks_up": 49333,
-      "checks_down": 26278,
+      "host": "103.63.190.72",
+      "ip": "103.63.190.72",
+      "port": 8080,
+      "delay": 1020,
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "city": "Phnom Penh",
+      "checks_up": 10330,
+      "checks_down": 6751,
       "anon": 4,
-      "http": 0,
+      "http": 1,
       "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
+      "socks4": 0,
+      "socks5": 0,
       "protocols": [
-        "SOCKS4",
-        "SOCKS5"
+        "HTTP"
       ],
       "anonymity_level": "Elite",
-      "uptime": 65,
-      "last_seen": "2026-04-11T04:24:46Z"
+      "uptime": 60,
+      "last_seen": "2026-04-11T04:21:04Z"
     }
   ]
 }

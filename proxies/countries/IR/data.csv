@@ -1,7 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-206.123.156.185,8226,IR,Iran,,,,,,SOCKS5,Elite,15,5100,2026-04-10T04:22:49Z
-206.123.156.200,6118,IR,Iran,,,,,,SOCKS5,Elite,20,5100,2026-04-10T04:19:01Z
-206.123.156.207,8806,IR,Iran,,,,,,SOCKS5,Elite,3,4700,2026-04-10T04:19:01Z
-206.123.156.214,6377,IR,Iran,,,,,,SOCKS5,Elite,23,5100,2026-04-10T04:18:58Z
-206.123.156.177,9401,IR,Iran,,,,,,SOCKS5,Elite,7,3540,2026-04-10T04:18:03Z
-206.123.156.184,6041,IR,Iran,,,,,,SOCKS5,Elite,18,3020,2026-04-10T04:17:11Z

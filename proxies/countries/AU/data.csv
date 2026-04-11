@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-170.64.170.204,1080,AU,Australia,Sydney,,,,,SOCKS5,Elite,95,2900,2026-04-10T04:17:53Z
