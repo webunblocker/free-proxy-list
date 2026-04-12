@@ -1,26 +1,3 @@
 {
-  "data": [
-    {
-      "host": "45.136.130.188",
-      "ip": "45.136.130.188",
-      "port": 8449,
-      "delay": 1260,
-      "country_code": "US",
-      "country_name": "United States",
-      "city": "Redondo Beach",
-      "checks_up": 10,
-      "checks_down": 75,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 11,
-      "last_seen": "2026-04-11T04:24:46Z"
-    }
-  ]
+  "data": []
 }

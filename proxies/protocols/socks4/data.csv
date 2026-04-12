@@ -1,3 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-122.252.179.66,5678,KH,Cambodia,Phnom Penh,,,,,SOCKS4,Elite,16,2860,2026-04-11T04:24:48Z
-192.252.215.5,16137,CA,Canada,Toronto,,,,,SOCKS4|SOCKS5,Elite,65,1620,2026-04-11T04:24:46Z

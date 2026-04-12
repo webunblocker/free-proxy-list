@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-192.252.215.5,16137,CA,Canada,Toronto,,,,,SOCKS4|SOCKS5,Elite,65,1620,2026-04-11T04:24:46Z
-185.180.230.211,9999,RU,Russian Federation,Moscow,,,,,SOCKS5,Elite,68,20,2026-04-11T04:24:33Z
+142.54.239.1,4145,US,United States,,,,,,SOCKS5,Elite,67,2020,2026-04-12T05:00:31Z
