@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "45.12.31.19",
-      "ip": "45.12.31.19",
+      "host": "45.12.30.214",
+      "ip": "45.12.30.214",
       "port": 80,
-      "delay": 2080,
+      "delay": 1040,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 13781,
+      "checks_up": 13797,
       "checks_down": 1389,
       "anon": 1,
       "http": 1,
@@ -19,17 +19,17 @@
       ],
       "anonymity_level": "Transparent",
       "uptime": 90,
-      "last_seen": "2026-04-12T05:00:12Z"
+      "last_seen": "2026-04-13T04:43:03Z"
     },
     {
-      "host": "45.12.31.225",
-      "ip": "45.12.31.225",
+      "host": "45.12.30.78",
+      "ip": "45.12.30.78",
       "port": 80,
-      "delay": 1060,
+      "delay": 1040,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 13613,
-      "checks_down": 1412,
+      "checks_up": 13733,
+      "checks_down": 1414,
       "anon": 1,
       "http": 1,
       "ssl": 0,
@@ -40,17 +40,17 @@
       ],
       "anonymity_level": "Transparent",
       "uptime": 90,
-      "last_seen": "2026-04-12T05:00:07Z"
+      "last_seen": "2026-04-13T04:37:03Z"
     },
     {
-      "host": "45.12.31.80",
-      "ip": "45.12.31.80",
+      "host": "45.85.118.129",
+      "ip": "45.85.118.129",
       "port": 80,
-      "delay": 1060,
+      "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 13688,
-      "checks_down": 1413,
+      "checks_up": 8415,
+      "checks_down": 1262,
       "anon": 1,
       "http": 1,
       "ssl": 0,
@@ -60,29 +60,8 @@
         "HTTP"
       ],
       "anonymity_level": "Transparent",
-      "uptime": 90,
-      "last_seen": "2026-04-12T05:00:03Z"
-    },
-    {
-      "host": "45.12.30.191",
-      "ip": "45.12.30.191",
-      "port": 80,
-      "delay": 40,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 13701,
-      "checks_down": 1411,
-      "anon": 1,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 90,
-      "last_seen": "2026-04-12T04:59:02Z"
+      "uptime": 86,
+      "last_seen": "2026-04-13T04:37:02Z"
     }
   ]
 }

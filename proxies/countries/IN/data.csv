@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.169.142.0,80,AU,Australia,,,,,,HTTP,Transparent,69,1060,2026-04-12T05:00:04Z
+103.12.246.45,4145,IN,India,,,,,,SOCKS4,Elite,4,2720,2026-04-13T04:36:38Z

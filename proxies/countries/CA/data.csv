@@ -1,11 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-23.227.39.20,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,88,2100,2026-04-12T05:00:20Z
-23.227.39.56,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,88,3140,2026-04-12T05:00:10Z
-23.227.39.204,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,86,2160,2026-04-12T05:00:09Z
-23.227.39.131,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,89,2140,2026-04-12T05:00:07Z
-23.227.38.154,80,CA,Canada,,,,,,HTTP,Transparent,91,2140,2026-04-12T05:00:07Z
-23.227.39.39,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,87,2120,2026-04-12T05:00:07Z
-23.227.38.203,80,CA,Canada,,,,,,HTTP,Transparent,91,60,2026-04-12T04:59:12Z
-23.227.39.12,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,86,80,2026-04-12T04:59:02Z
-23.227.39.207,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,89,1080,2026-04-12T04:57:16Z
-23.227.38.12,80,CA,Canada,,,,,,HTTP,Transparent,92,80,2026-04-12T04:57:15Z
+23.227.38.39,80,CA,Canada,,,,,,HTTP,Transparent,91,80,2026-04-13T04:39:02Z
+23.227.38.4,80,CA,Canada,,,,,,HTTP,Transparent,91,2100,2026-04-13T04:37:04Z
+23.227.39.149,80,CA,Canada,Ottawa,,,,,HTTP,Transparent,88,80,2026-04-13T04:37:02Z

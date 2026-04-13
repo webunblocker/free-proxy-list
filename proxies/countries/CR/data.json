@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.170.166.40",
-      "ip": "185.170.166.40",
+      "host": "190.93.246.211",
+      "ip": "190.93.246.211",
       "port": 80,
-      "delay": 40,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 8459,
-      "checks_down": 1290,
+      "delay": 100,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 8247,
+      "checks_down": 1195,
       "anon": 1,
       "http": 1,
       "ssl": 0,
@@ -18,7 +18,7 @@
         "HTTP"
       ],
       "anonymity_level": "Transparent",
-      "uptime": 86,
+      "uptime": 87,
       "last_seen": "2026-04-13T04:37:02Z"
     }
   ]

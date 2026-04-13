@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "103.12.246.45",
+      "ip": "103.12.246.45",
+      "port": 4145,
+      "delay": 2720,
+      "country_code": "IN",
+      "country_name": "India",
+      "checks_up": 3,
+      "checks_down": 66,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 4,
+      "last_seen": "2026-04-13T04:36:38Z"
+    }
+  ]
+}
