@@ -21,6 +21,27 @@
       "anonymity_level": "Elite",
       "uptime": 58,
       "last_seen": "2026-04-13T04:44:20Z"
+    },
+    {
+      "host": "31.12.75.210",
+      "ip": "31.12.75.210",
+      "port": 80,
+      "delay": 1080,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "checks_up": 29,
+      "checks_down": 30,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 49,
+      "last_seen": "2026-04-13T04:41:02Z"
     }
   ]
 }

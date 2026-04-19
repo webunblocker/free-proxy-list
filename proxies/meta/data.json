@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-04-18T04:36:59Z",
+  "timestamp": "2026-04-19T05:06:59Z",
   "source": {
     "api_base": "https://api.socks5proxies.com",
     "site_url": "https://socks5proxies.com"
@@ -22,10 +22,10 @@
       "IN": 1,
       "NL": 10,
       "RO": 3,
-      "RU": 1,
+      "RU": 2,
       "SG": 1,
       "US": 26,
-      "ZZ": 35
+      "ZZ": 34
     }
   },
   "downloads": {

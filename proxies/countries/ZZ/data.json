@@ -713,27 +713,6 @@
       "anonymity_level": "Transparent",
       "uptime": 64,
       "last_seen": "2026-04-13T04:35:03Z"
-    },
-    {
-      "host": "141.101.123.237",
-      "ip": "141.101.123.237",
-      "port": 80,
-      "delay": 80,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 10242,
-      "checks_down": 1177,
-      "anon": 1,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 89,
-      "last_seen": "2026-04-13T04:35:03Z"
     }
   ]
 }
