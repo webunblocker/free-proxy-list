@@ -1,28 +1,6 @@
 {
   "data": [
     {
-      "host": "184.185.2.12",
-      "ip": "184.185.2.12",
-      "port": 4145,
-      "delay": 1820,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 33804,
-      "checks_down": 10504,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 76,
-      "last_seen": "2026-04-13T04:37:46Z"
-    },
-    {
       "host": "184.182.240.12",
       "ip": "184.182.240.12",
       "port": 4145,
@@ -46,6 +24,51 @@
       "last_seen": "2026-04-13T04:37:46Z"
     },
     {
+      "host": "184.185.2.12",
+      "ip": "184.185.2.12",
+      "port": 4145,
+      "delay": 1820,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 33804,
+      "checks_down": 10504,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 76,
+      "last_seen": "2026-04-13T04:37:46Z"
+    },
+    {
+      "host": "184.182.240.211",
+      "ip": "184.182.240.211",
+      "port": 4145,
+      "delay": 1820,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Phoenix",
+      "checks_up": 1763,
+      "checks_down": 621,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 73,
+      "last_seen": "2026-04-13T04:37:45Z"
+    },
+    {
       "host": "184.181.217.220",
       "ip": "184.181.217.220",
       "port": 4145,
@@ -65,28 +88,6 @@
       ],
       "anonymity_level": "Elite",
       "uptime": 56,
-      "last_seen": "2026-04-13T04:37:45Z"
-    },
-    {
-      "host": "184.181.217.210",
-      "ip": "184.181.217.210",
-      "port": 4145,
-      "delay": 1680,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 50628,
-      "checks_down": 28854,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 63,
       "last_seen": "2026-04-13T04:37:45Z"
     },
     {
@@ -112,15 +113,14 @@
       "last_seen": "2026-04-13T04:37:45Z"
     },
     {
-      "host": "184.182.240.211",
-      "ip": "184.182.240.211",
+      "host": "184.181.217.210",
+      "ip": "184.181.217.210",
       "port": 4145,
-      "delay": 1820,
+      "delay": 1680,
       "country_code": "US",
       "country_name": "United States",
-      "city": "Phoenix",
-      "checks_up": 1763,
-      "checks_down": 621,
+      "checks_up": 50628,
+      "checks_down": 28854,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -131,7 +131,7 @@
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 73,
+      "uptime": 63,
       "last_seen": "2026-04-13T04:37:45Z"
     },
     {

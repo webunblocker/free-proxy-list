@@ -1,3 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
 158.160.215.167,8124,RU,Russian Federation,Moscow,,,,,HTTP,Elite,58,3860,2026-04-13T04:44:20Z
+45.67.215.142,80,RU,Russian Federation,Novosibirsk,,,,,HTTP,Transparent,56,1040,2026-04-13T04:43:03Z
 31.12.75.210,80,RU,Russian Federation,,,,,,HTTP,Transparent,49,1080,2026-04-13T04:41:02Z

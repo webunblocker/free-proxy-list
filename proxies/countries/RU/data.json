@@ -23,6 +23,28 @@
       "last_seen": "2026-04-13T04:44:20Z"
     },
     {
+      "host": "45.67.215.142",
+      "ip": "45.67.215.142",
+      "port": 80,
+      "delay": 1040,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "city": "Novosibirsk",
+      "checks_up": 22,
+      "checks_down": 17,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 56,
+      "last_seen": "2026-04-13T04:43:03Z"
+    },
+    {
       "host": "31.12.75.210",
       "ip": "31.12.75.210",
       "port": 80,

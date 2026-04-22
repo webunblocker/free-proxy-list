@@ -65,6 +65,28 @@
       "anonymity_level": "Transparent",
       "uptime": 91,
       "last_seen": "2026-04-13T04:37:02Z"
+    },
+    {
+      "host": "173.245.49.139",
+      "ip": "173.245.49.139",
+      "port": 80,
+      "delay": 80,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 8483,
+      "checks_down": 1135,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 88,
+      "last_seen": "2026-04-13T04:35:03Z"
     }
   ]
 }

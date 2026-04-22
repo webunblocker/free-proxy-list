@@ -3,11 +3,11 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 185.162.230.215,80,AM,Armenia,,,,,,HTTP,Transparent,90,2060,2026-04-13T04:44:05Z
 185.162.229.42,80,AM,Armenia,,,,,,HTTP,Transparent,90,1100,2026-04-13T04:41:02Z
 185.162.231.167,80,AM,Armenia,,,,,,HTTP,Transparent,92,40,2026-04-13T04:41:01Z
-185.162.230.8,80,AM,Armenia,,,,,,HTTP,Transparent,90,1060,2026-04-13T04:39:03Z
 185.162.230.99,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-13T04:39:03Z
+185.162.230.8,80,AM,Armenia,,,,,,HTTP,Transparent,90,1060,2026-04-13T04:39:03Z
 185.162.228.165,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-13T04:39:02Z
 185.162.229.64,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-13T04:39:02Z
 185.162.231.173,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-13T04:37:03Z
 185.162.228.3,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-13T04:37:02Z
-185.162.229.134,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-13T04:37:02Z
 185.162.228.182,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-13T04:37:02Z
+185.162.229.134,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-13T04:37:02Z
