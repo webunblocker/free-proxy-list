@@ -168,27 +168,6 @@
       "anonymity_level": "Transparent",
       "uptime": 87,
       "last_seen": "2026-04-13T04:35:04Z"
-    },
-    {
-      "host": "45.131.7.94",
-      "ip": "45.131.7.94",
-      "port": 80,
-      "delay": 40,
-      "country_code": "NL",
-      "country_name": "Netherlands",
-      "checks_up": 6993,
-      "checks_down": 1262,
-      "anon": 1,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 84,
-      "last_seen": "2026-04-13T04:35:03Z"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "154.92.9.53",
+      "ip": "154.92.9.53",
+      "port": 80,
+      "delay": 40,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "city": "Nicosia",
+      "checks_up": 17,
+      "checks_down": 3,
+      "anon": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Transparent",
+      "uptime": 85,
+      "last_seen": "2026-04-13T04:35:04Z"
+    }
+  ]
+}

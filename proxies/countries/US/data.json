@@ -532,27 +532,6 @@
       "anonymity_level": "Transparent",
       "uptime": 90,
       "last_seen": "2026-04-13T04:37:02Z"
-    },
-    {
-      "host": "172.67.180.59",
-      "ip": "172.67.180.59",
-      "port": 80,
-      "delay": 2140,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 15370,
-      "checks_down": 1312,
-      "anon": 1,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Transparent",
-      "uptime": 92,
-      "last_seen": "2026-04-13T04:35:04Z"
     }
   ]
 }

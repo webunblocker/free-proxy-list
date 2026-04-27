@@ -24,4 +24,3 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 159.112.235.100,80,US,United States,,,,,,HTTP,Transparent,86,20,2026-04-13T04:37:02Z
 172.67.145.90,80,US,United States,,,,,,HTTP,Transparent,89,80,2026-04-13T04:37:02Z
 172.67.166.241,80,US,United States,,,,,,HTTP,Transparent,90,80,2026-04-13T04:37:02Z
-172.67.180.59,80,US,United States,,,,,,HTTP,Transparent,92,2140,2026-04-13T04:35:04Z

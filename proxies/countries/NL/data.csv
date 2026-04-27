@@ -7,4 +7,3 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 45.131.6.163,80,NL,Netherlands,,,,,,HTTP,Transparent,84,20,2026-04-13T04:37:02Z
 45.131.208.56,80,NL,Netherlands,,,,,,HTTP,Transparent,86,40,2026-04-13T04:35:04Z
 45.131.5.190,80,NL,Netherlands,,,,,,HTTP,Transparent,87,1040,2026-04-13T04:35:04Z
-45.131.7.94,80,NL,Netherlands,,,,,,HTTP,Transparent,84,40,2026-04-13T04:35:03Z

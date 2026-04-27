@@ -29,6 +29,8 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 141.101.120.19,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,100,2026-04-13T04:41:01Z
 141.101.123.216,80,ZZ,Unknown,,,,,,HTTP,Transparent,93,80,2026-04-13T04:41:01Z
 185.162.231.167,80,AM,Armenia,,,,,,HTTP,Transparent,92,40,2026-04-13T04:41:01Z
+185.170.166.145,80,GB,United Kingdom,,,,,,HTTP,Transparent,83,40,2026-04-13T04:41:01Z
+206.123.156.193,6589,IR,Iran,,,,,,SOCKS5,Elite,60,4640,2026-04-13T04:39:10Z
 172.67.137.250,80,US,United States,,,,,,HTTP,Transparent,91,3140,2026-04-13T04:39:05Z
 172.64.95.63,80,ZZ,Unknown,,,,,,HTTP,Transparent,61,80,2026-04-13T04:39:03Z
 172.67.207.228,80,US,United States,,,,,,HTTP,Transparent,83,80,2026-04-13T04:39:03Z
@@ -93,9 +95,7 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 185.162.228.182,80,AM,Armenia,,,,,,HTTP,Transparent,90,20,2026-04-13T04:37:02Z
 185.162.229.134,80,AM,Armenia,,,,,,HTTP,Transparent,90,40,2026-04-13T04:37:02Z
 103.12.246.45,4145,IN,India,,,,,,SOCKS4,Elite,4,2720,2026-04-13T04:36:38Z
+103.12.246.41,4145,IN,India,,,,,,SOCKS4,Elite,100,2080,2026-04-13T04:36:38Z
+154.92.9.53,80,CY,Cyprus,Nicosia,,,,,HTTP,Transparent,85,40,2026-04-13T04:35:04Z
 45.131.208.56,80,NL,Netherlands,,,,,,HTTP,Transparent,86,40,2026-04-13T04:35:04Z
 45.131.5.190,80,NL,Netherlands,,,,,,HTTP,Transparent,87,1040,2026-04-13T04:35:04Z
-172.67.180.59,80,US,United States,,,,,,HTTP,Transparent,92,2140,2026-04-13T04:35:04Z
-172.67.82.57,80,ZZ,Unknown,,,,,,HTTP,Transparent,64,1120,2026-04-13T04:35:03Z
-45.131.7.94,80,NL,Netherlands,,,,,,HTTP,Transparent,84,40,2026-04-13T04:35:03Z
-173.245.49.139,80,FR,France,Paris,,,,,HTTP,Transparent,88,80,2026-04-13T04:35:03Z

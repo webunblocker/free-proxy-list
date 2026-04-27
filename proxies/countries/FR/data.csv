@@ -2,4 +2,3 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 173.245.49.183,80,FR,France,Paris,,,,,HTTP,Transparent,87,100,2026-04-13T04:37:04Z
 173.245.49.0,80,FR,France,Paris,,,,,HTTP,Transparent,93,80,2026-04-13T04:37:03Z
 173.245.49.84,80,FR,France,Paris,,,,,HTTP,Transparent,91,80,2026-04-13T04:37:02Z
-173.245.49.139,80,FR,France,Paris,,,,,HTTP,Transparent,88,80,2026-04-13T04:35:03Z

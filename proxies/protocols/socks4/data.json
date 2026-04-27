@@ -154,6 +154,27 @@
       "anonymity_level": "Elite",
       "uptime": 4,
       "last_seen": "2026-04-13T04:36:38Z"
+    },
+    {
+      "host": "103.12.246.41",
+      "ip": "103.12.246.41",
+      "port": 4145,
+      "delay": 2080,
+      "country_code": "IN",
+      "country_name": "India",
+      "checks_up": 1,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-04-13T04:36:38Z"
     }
   ]
 }

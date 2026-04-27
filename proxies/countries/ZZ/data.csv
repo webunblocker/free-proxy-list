@@ -31,4 +31,3 @@ ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymi
 141.101.123.209,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-13T04:37:02Z
 141.101.123.93,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-13T04:37:02Z
 141.101.122.148,80,ZZ,Unknown,,,,,,HTTP,Transparent,89,80,2026-04-13T04:37:02Z
-172.67.82.57,80,ZZ,Unknown,,,,,,HTTP,Transparent,64,1120,2026-04-13T04:35:03Z
