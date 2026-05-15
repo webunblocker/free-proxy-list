@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-190.93.246.211,80,CR,Costa Rica,,,,,,HTTP,Transparent,87,100,2026-04-13T04:37:02Z

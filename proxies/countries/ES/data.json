@@ -1,15 +1,36 @@
 {
   "data": [
     {
-      "host": "185.238.228.156",
-      "ip": "185.238.228.156",
+      "host": "185.238.228.163",
+      "ip": "185.238.228.163",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ES",
+      "country_name": "Spain",
+      "checks_up": 11565,
+      "checks_down": 1365,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-05-15T05:58:03Z"
+    },
+    {
+      "host": "185.238.228.252",
+      "ip": "185.238.228.252",
       "port": 80,
       "delay": 40,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11590,
-      "checks_down": 1337,
-      "anon": 1,
+      "checks_up": 11146,
+      "checks_down": 1330,
+      "anon": 3,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -17,20 +38,20 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Transparent",
+      "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-04-13T04:43:02Z"
+      "last_seen": "2026-05-15T05:58:03Z"
     },
     {
-      "host": "185.238.228.39",
-      "ip": "185.238.228.39",
+      "host": "185.238.228.155",
+      "ip": "185.238.228.155",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11548,
-      "checks_down": 1335,
-      "anon": 1,
+      "checks_up": 11617,
+      "checks_down": 1341,
+      "anon": 3,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -38,20 +59,20 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Transparent",
+      "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-04-13T04:43:02Z"
+      "last_seen": "2026-05-15T05:58:03Z"
     },
     {
-      "host": "185.238.228.221",
-      "ip": "185.238.228.221",
+      "host": "185.238.228.197",
+      "ip": "185.238.228.197",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11484,
-      "checks_down": 1357,
-      "anon": 1,
+      "checks_up": 12092,
+      "checks_down": 1368,
+      "anon": 3,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -59,9 +80,30 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Transparent",
+      "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-04-13T04:37:02Z"
+      "last_seen": "2026-05-15T05:58:02Z"
+    },
+    {
+      "host": "185.238.228.34",
+      "ip": "185.238.228.34",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ES",
+      "country_name": "Spain",
+      "checks_up": 11418,
+      "checks_down": 1336,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-05-15T05:58:02Z"
     }
   ]
 }
