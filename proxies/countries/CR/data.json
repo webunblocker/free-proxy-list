@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "103.169.142.24",
-      "ip": "103.169.142.24",
+      "host": "190.93.247.25",
+      "ip": "190.93.247.25",
       "port": 80,
       "delay": 20,
-      "country_code": "AU",
-      "country_name": "Australia",
-      "checks_up": 32,
-      "checks_down": 45,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 21968,
+      "checks_down": 1288,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 41,
-      "last_seen": "2026-05-15T05:58:02Z"
+      "uptime": 94,
+      "last_seen": "2026-05-16T05:32:01Z"
     }
   ]
 }
