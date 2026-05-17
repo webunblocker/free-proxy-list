@@ -1,3 +1,27 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "59.46.216.131",
+      "ip": "59.46.216.131",
+      "port": 30001,
+      "delay": 3060,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 1035,
+      "checks_down": 351,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 74,
+      "last_seen": "2026-05-17T05:32:40Z"
+    }
+  ]
 }

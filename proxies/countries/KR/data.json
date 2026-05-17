@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "219.249.37.107",
+      "ip": "219.249.37.107",
+      "port": 8382,
+      "delay": 760,
+      "country_code": "KR",
+      "country_name": "Korea",
+      "city": "Gangnam-gu",
+      "checks_up": 323,
+      "checks_down": 538,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 37,
+      "last_seen": "2026-05-17T05:32:32Z"
+    }
+  ]
+}

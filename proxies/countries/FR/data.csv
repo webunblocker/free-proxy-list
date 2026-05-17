@@ -1,4 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-173.245.49.204,80,FR,France,Paris,,,,,HTTP,Anonymous,87,20,2026-05-16T05:32:03Z
-173.245.49.251,80,FR,France,Paris,,,,,HTTP,Anonymous,88,20,2026-05-16T05:31:03Z
-173.245.49.101,80,FR,France,Paris,,,,,HTTP,Anonymous,91,20,2026-05-16T05:31:03Z
+212.47.232.28,80,FR,France,Paris,,,,,HTTP,Elite,50,420,2026-05-17T05:32:42Z
+37.187.74.125,80,FR,France,,,,,,HTTP,Elite,77,480,2026-05-17T05:32:41Z
+173.245.49.33,80,FR,France,Paris,,,,,HTTP,Anonymous,92,0,2026-05-17T05:31:03Z

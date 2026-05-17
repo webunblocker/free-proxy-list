@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "185.148.107.237",
+      "ip": "185.148.107.237",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "checks_up": 133,
+      "checks_down": 67,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 66,
+      "last_seen": "2026-05-17T05:31:03Z"
+    }
+  ]
+}
