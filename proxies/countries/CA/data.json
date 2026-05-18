@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "23.227.38.177",
-      "ip": "23.227.38.177",
+      "host": "23.227.38.46",
+      "ip": "23.227.38.46",
       "port": 80,
-      "delay": 0,
+      "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14209,
-      "checks_down": 1282,
+      "checks_up": 14214,
+      "checks_down": 1275,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,16 +19,39 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-05-17T05:32:03Z"
+      "last_seen": "2026-05-18T06:28:02Z"
     },
     {
-      "host": "23.227.39.65",
-      "ip": "23.227.39.65",
+      "host": "23.227.39.132",
+      "ip": "23.227.39.132",
       "port": 80,
-      "delay": 0,
+      "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 10215,
+      "city": "Ottawa",
+      "checks_up": 10055,
+      "checks_down": 1190,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-05-18T06:28:02Z"
+    },
+    {
+      "host": "23.227.39.148",
+      "ip": "23.227.39.148",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "city": "Ottawa",
+      "checks_up": 10120,
       "checks_down": 1183,
       "anon": 3,
       "http": 1,
@@ -40,28 +63,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-05-17T05:31:03Z"
-    },
-    {
-      "host": "23.227.38.20",
-      "ip": "23.227.38.20",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14861,
-      "checks_down": 1310,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-05-17T05:31:03Z"
+      "last_seen": "2026-05-18T06:28:02Z"
     }
   ]
 }

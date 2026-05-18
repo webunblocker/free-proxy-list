@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-147.231.163.133,80,CZ,Czech Republic,Prague,,,,,HTTP,Anonymous,36,4080,2026-05-17T05:32:49Z
-78.80.228.150,80,CZ,Czech Republic,Brno,,,,,HTTP,Elite,50,560,2026-05-17T05:32:46Z

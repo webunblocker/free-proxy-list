@@ -1,13 +1,14 @@
 {
   "data": [
     {
-      "host": "154.197.75.47",
-      "ip": "154.197.75.47",
+      "host": "154.92.9.176",
+      "ip": "154.92.9.176",
       "port": 80,
       "delay": 40,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 37,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "city": "Nicosia",
+      "checks_up": 43,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +20,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-05-17T05:31:03Z"
+      "last_seen": "2026-05-18T06:28:02Z"
     }
   ]
 }

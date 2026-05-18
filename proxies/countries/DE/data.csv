@@ -1,4 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-80.74.54.148,3128,DE,Germany,Wachtendonk,,,,,HTTP,Anonymous,53,480,2026-05-17T05:32:42Z
-46.249.100.124,80,DE,Germany,Frankfurt am Main,,,,,HTTP,Elite,60,480,2026-05-17T05:32:31Z
-89.58.55.33,80,DE,Germany,Nuremberg,,,,,HTTP,Elite,71,500,2026-05-17T05:32:31Z
