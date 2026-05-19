@@ -1,15 +1,16 @@
 {
   "data": [
     {
-      "host": "103.169.142.37",
-      "ip": "103.169.142.37",
-      "port": 80,
-      "delay": 20,
+      "host": "170.64.170.204",
+      "ip": "170.64.170.204",
+      "port": 8080,
+      "delay": 760,
       "country_code": "AU",
       "country_name": "Australia",
-      "checks_up": 142,
-      "checks_down": 78,
-      "anon": 3,
+      "city": "Sydney",
+      "checks_up": 361,
+      "checks_down": 29,
+      "anon": 4,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -17,9 +18,9 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 64,
-      "last_seen": "2026-05-18T06:28:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 92,
+      "last_seen": "2026-05-19T06:12:13Z"
     }
   ]
 }
