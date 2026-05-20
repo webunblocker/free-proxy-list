@@ -1,56 +1,14 @@
 {
   "data": [
     {
-      "host": "45.85.119.248",
-      "ip": "45.85.119.248",
-      "port": 80,
-      "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 8509,
-      "checks_down": 1270,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-05-19T06:12:05Z"
-    },
-    {
-      "host": "45.85.118.126",
-      "ip": "45.85.118.126",
+      "host": "45.12.31.163",
+      "ip": "45.12.31.163",
       "port": 80,
       "delay": 0,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 51,
-      "checks_down": 58,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 46,
-      "last_seen": "2026-05-19T06:12:05Z"
-    },
-    {
-      "host": "45.12.31.167",
-      "ip": "45.12.31.167",
-      "port": 80,
-      "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 13801,
-      "checks_down": 1388,
+      "checks_up": 13872,
+      "checks_down": 1394,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,7 +19,49 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-05-19T06:12:02Z"
+      "last_seen": "2026-05-20T06:12:03Z"
+    },
+    {
+      "host": "45.12.30.33",
+      "ip": "45.12.30.33",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RO",
+      "country_name": "Romania",
+      "checks_up": 13778,
+      "checks_down": 1397,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-05-20T06:12:01Z"
+    },
+    {
+      "host": "45.12.30.232",
+      "ip": "45.12.30.232",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RO",
+      "country_name": "Romania",
+      "checks_up": 13776,
+      "checks_down": 1444,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-05-20T06:12:01Z"
     }
   ]
 }
