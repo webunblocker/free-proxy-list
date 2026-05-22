@@ -21,28 +21,6 @@
       "anonymity_level": "Elite",
       "uptime": 5,
       "last_seen": "2026-05-22T06:12:43Z"
-    },
-    {
-      "host": "213.19.205.18",
-      "ip": "213.19.205.18",
-      "port": 54321,
-      "delay": 560,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Cambrai",
-      "checks_up": 1985,
-      "checks_down": 11145,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 0,
-      "protocols": [
-        "SOCKS4"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 15,
-      "last_seen": "2026-05-22T06:12:27Z"
     }
   ]
 }
