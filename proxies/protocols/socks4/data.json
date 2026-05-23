@@ -1,48 +1,27 @@
 {
   "data": [
     {
-      "host": "213.7.196.26",
-      "ip": "213.7.196.26",
-      "port": 4153,
-      "delay": 2820,
-      "country_code": "CY",
-      "country_name": "Cyprus",
-      "city": "Limassol",
-      "checks_up": 48,
-      "checks_down": 875,
+      "host": "103.75.118.84",
+      "ip": "103.75.118.84",
+      "port": 1080,
+      "delay": 1940,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 687,
+      "checks_down": 183,
       "anon": 4,
       "http": 0,
       "ssl": 0,
       "socks4": 1,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "SOCKS4"
+        "SOCKS4",
+        "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 5,
-      "last_seen": "2026-05-22T06:12:43Z"
-    },
-    {
-      "host": "213.19.205.18",
-      "ip": "213.19.205.18",
-      "port": 54321,
-      "delay": 560,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Cambrai",
-      "checks_up": 1985,
-      "checks_down": 11145,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 0,
-      "protocols": [
-        "SOCKS4"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 15,
-      "last_seen": "2026-05-22T06:12:27Z"
+      "uptime": 78,
+      "last_seen": "2026-05-23T05:42:46Z"
     }
   ]
 }

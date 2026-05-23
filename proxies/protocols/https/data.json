@@ -1,27 +1,25 @@
 {
   "data": [
     {
-      "host": "195.158.8.123",
-      "ip": "195.158.8.123",
+      "host": "150.107.140.238",
+      "ip": "150.107.140.238",
       "port": 3128,
-      "delay": 4360,
-      "country_code": "UZ",
-      "country_name": "Uzbekistan",
-      "city": "Tashkent",
-      "checks_up": 1595,
-      "checks_down": 4656,
+      "delay": 5100,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 317,
+      "checks_down": 864,
       "anon": 4,
-      "http": 1,
+      "http": 0,
       "ssl": 1,
       "socks4": 0,
       "socks5": 0,
       "protocols": [
-        "HTTP",
         "HTTPS"
       ],
       "anonymity_level": "Elite",
-      "uptime": 25,
-      "last_seen": "2026-05-22T06:12:22Z"
+      "uptime": 26,
+      "last_seen": "2026-05-23T05:42:53Z"
     }
   ]
 }

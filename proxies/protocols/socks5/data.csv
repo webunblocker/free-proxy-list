@@ -1,1 +1,5 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+223.25.109.146,8199,ID,Indonesia,,,,,,SOCKS5,Elite,20,2560,2026-05-23T05:42:54Z
+103.75.118.84,1080,JP,Japan,Tokyo,,,,,SOCKS4|SOCKS5,Elite,78,1940,2026-05-23T05:42:46Z
+194.233.68.54,1088,SG,Singapore,Singapore,,,,,SOCKS5,Elite,74,2180,2026-05-23T05:42:45Z
+8.210.54.203,1080,HK,Hong Kong,Hong Kong,,,,,SOCKS5,Elite,30,1160,2026-05-23T05:42:43Z
