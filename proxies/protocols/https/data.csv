@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-150.107.140.238,3128,ID,Indonesia,,,,,,HTTPS,Elite,26,5100,2026-05-23T05:42:53Z
+158.160.215.167,8124,RU,Russian Federation,Moscow,,,,,HTTP|HTTPS,Elite,59,2300,2026-05-24T06:08:16Z

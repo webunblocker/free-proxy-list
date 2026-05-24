@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "183.110.216.128",
+      "ip": "183.110.216.128",
+      "port": 8090,
+      "delay": 2860,
+      "country_code": "KR",
+      "country_name": "Korea",
+      "checks_up": 350,
+      "checks_down": 619,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 36,
+      "last_seen": "2026-05-24T06:08:14Z"
+    }
+  ]
+}

@@ -1,4 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-31.43.179.62,80,KZ,Kazakstan,,,,,,HTTP,Anonymous,89,0,2026-05-23T05:42:04Z
-31.43.179.42,80,KZ,Kazakstan,,,,,,HTTP,Anonymous,89,0,2026-05-23T05:42:03Z
-185.176.26.124,80,KZ,Kazakstan,Almaty,,,,,HTTP,Anonymous,76,20,2026-05-23T05:42:03Z
+185.176.26.79,80,KZ,Kazakstan,Almaty,,,,,HTTP,Anonymous,79,20,2026-05-24T06:08:02Z

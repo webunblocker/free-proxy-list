@@ -1,25 +1,27 @@
 {
   "data": [
     {
-      "host": "150.107.140.238",
-      "ip": "150.107.140.238",
-      "port": 3128,
-      "delay": 5100,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "checks_up": 317,
-      "checks_down": 864,
+      "host": "158.160.215.167",
+      "ip": "158.160.215.167",
+      "port": 8124,
+      "delay": 2300,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "city": "Moscow",
+      "checks_up": 433,
+      "checks_down": 297,
       "anon": 4,
-      "http": 0,
+      "http": 1,
       "ssl": 1,
       "socks4": 0,
       "socks5": 0,
       "protocols": [
+        "HTTP",
         "HTTPS"
       ],
       "anonymity_level": "Elite",
-      "uptime": 26,
-      "last_seen": "2026-05-23T05:42:53Z"
+      "uptime": 59,
+      "last_seen": "2026-05-24T06:08:16Z"
     }
   ]
 }

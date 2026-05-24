@@ -1,27 +1,3 @@
 {
-  "data": [
-    {
-      "host": "103.75.118.84",
-      "ip": "103.75.118.84",
-      "port": 1080,
-      "delay": 1940,
-      "country_code": "JP",
-      "country_name": "Japan",
-      "city": "Tokyo",
-      "checks_up": 687,
-      "checks_down": 183,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 78,
-      "last_seen": "2026-05-23T05:42:46Z"
-    }
-  ]
+  "data": []
 }
