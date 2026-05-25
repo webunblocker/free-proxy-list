@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "103.213.97.78",
-      "ip": "103.213.97.78",
-      "port": 80,
-      "delay": 1660,
+      "host": "218.77.183.214",
+      "ip": "218.77.183.214",
+      "port": 5224,
+      "delay": 920,
       "country_code": "CN",
       "country_name": "China",
-      "checks_up": 1786,
-      "checks_down": 218,
+      "checks_up": 4623,
+      "checks_down": 903,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-05-24T06:08:05Z"
+      "uptime": 83,
+      "last_seen": "2026-05-25T06:42:04Z"
     }
   ]
 }
