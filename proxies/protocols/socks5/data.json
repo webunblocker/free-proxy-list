@@ -1,3 +1,48 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "124.248.177.43",
+      "ip": "124.248.177.43",
+      "port": 1080,
+      "delay": 2360,
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "city": "Phnom Penh",
+      "checks_up": 310,
+      "checks_down": 439,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 41,
+      "last_seen": "2026-05-26T12:48:16Z"
+    },
+    {
+      "host": "5.255.103.55",
+      "ip": "5.255.103.55",
+      "port": 1080,
+      "delay": 3280,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "city": "Dronten",
+      "checks_up": 170,
+      "checks_down": 34,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 83,
+      "last_seen": "2026-05-26T12:48:06Z"
+    }
+  ]
 }

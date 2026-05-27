@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "160.123.255.10",
+      "ip": "160.123.255.10",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 5595,
+      "checks_down": 1267,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 81,
+      "last_seen": "2026-05-26T12:48:01Z"
+    }
+  ]
+}

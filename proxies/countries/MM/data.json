@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "203.81.75.202",
+      "ip": "203.81.75.202",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "MM",
+      "country_name": "Myanmar",
+      "checks_up": 16,
+      "checks_down": 151,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 9,
+      "last_seen": "2026-05-26T12:48:54Z"
+    }
+  ]
+}
