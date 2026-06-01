@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-212.183.88.153,80,AT,Austria,,,,,,HTTP,Anonymous,86,20,2026-05-26T12:48:01Z

@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "host": "134.122.64.174",
+      "ip": "134.122.64.174",
+      "port": 1080,
+      "delay": 660,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "city": "Frankfurt am Main",
+      "checks_up": 231,
+      "checks_down": 4,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-06-01T07:18:03Z"
+    },
+    {
+      "host": "85.121.53.198",
+      "ip": "85.121.53.198",
+      "port": 80,
+      "delay": 1480,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "city": "Frankfurt am Main",
+      "checks_up": 62,
+      "checks_down": 67,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 48,
+      "last_seen": "2026-06-01T07:17:12Z"
+    }
+  ]
+}

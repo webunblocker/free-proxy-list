@@ -7,7 +7,7 @@
       "delay": 20,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 5595,
+      "checks_up": 5658,
       "checks_down": 1267,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 81,
-      "last_seen": "2026-05-26T12:48:01Z"
+      "last_seen": "2026-06-01T07:17:03Z"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "host": "46.62.214.3",
+      "ip": "46.62.214.3",
+      "port": 1080,
+      "delay": 680,
+      "country_code": "FI",
+      "country_name": "Finland",
+      "city": "Helsinki",
+      "checks_up": 277,
+      "checks_down": 2,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 99,
+      "last_seen": "2026-06-01T07:18:04Z"
+    }
+  ]
+}
