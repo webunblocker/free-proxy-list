@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.238.228.165,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-01T07:17:03Z
+181.233.50.233,8787,EC,Ecuador,Loja,,,,,HTTP,Anonymous,6,4560,2026-06-02T06:51:44Z

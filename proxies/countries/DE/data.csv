@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-134.122.64.174,1080,DE,Germany,Frankfurt am Main,,,,,SOCKS5,Elite,98,660,2026-06-01T07:18:03Z
-85.121.53.198,80,DE,Germany,Frankfurt am Main,,,,,HTTP,Anonymous,48,1480,2026-06-01T07:17:12Z

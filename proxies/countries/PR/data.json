@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "23.143.160.193",
+      "ip": "23.143.160.193",
+      "port": 999,
+      "delay": 4140,
+      "country_code": "PR",
+      "country_name": "Puerto Rico",
+      "city": "Ponce",
+      "checks_up": 11,
+      "checks_down": 123,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 8,
+      "last_seen": "2026-06-02T06:51:45Z"
+    }
+  ]
+}
