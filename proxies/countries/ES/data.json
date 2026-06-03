@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "212.231.191.23",
+      "ip": "212.231.191.23",
+      "port": 80,
+      "delay": 5100,
+      "country_code": "ES",
+      "country_name": "Spain",
+      "checks_up": 108,
+      "checks_down": 81,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 57,
+      "last_seen": "2026-06-03T07:01:22Z"
+    }
+  ]
+}
