@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "45.194.33.12",
+      "ip": "45.194.33.12",
+      "port": 30001,
+      "delay": 1180,
+      "country_code": "SC",
+      "country_name": "Seychelles",
+      "checks_up": 198,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-06-04T06:50:05Z"
+    }
+  ]
+}

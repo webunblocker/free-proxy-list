@@ -1,1 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+203.25.208.163,1011,CN,China,,,,,,SOCKS5,Elite,49,1840,2026-06-04T06:50:07Z
+45.194.33.12,30001,SC,Seychelles,,,,,,SOCKS5,Elite,100,1180,2026-06-04T06:50:05Z
+72.205.0.67,4145,US,United States,Fredericksburg,,,,,SOCKS4|SOCKS5,Elite,67,520,2026-06-04T06:50:04Z
