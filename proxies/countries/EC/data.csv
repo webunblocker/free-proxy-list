@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.239.48.99,999,EC,Ecuador,Quito,,,,,HTTP,Anonymous,53,3000,2026-06-04T06:50:24Z
-45.186.6.104,3128,EC,Ecuador,Quito,,,,,HTTP,Anonymous,95,300,2026-06-04T06:49:14Z

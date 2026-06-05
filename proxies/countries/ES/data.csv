@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.238.228.59,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-04T06:50:03Z
-185.238.228.67,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-04T06:50:02Z
+185.238.228.227,80,ES,Spain,,,,,,HTTP,Anonymous,87,20,2026-06-05T06:40:04Z

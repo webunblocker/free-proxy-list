@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-72.205.0.67,4145,US,United States,Fredericksburg,,,,,SOCKS4|SOCKS5,Elite,67,520,2026-06-04T06:50:04Z
+67.201.35.145,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,81,260,2026-06-05T06:40:03Z
