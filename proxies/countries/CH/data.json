@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "194.152.44.250",
-      "ip": "194.152.44.250",
+      "host": "185.18.250.173",
+      "ip": "185.18.250.173",
       "port": 80,
       "delay": 20,
-      "country_code": "EE",
-      "country_name": "Estonia",
-      "checks_up": 7943,
-      "checks_down": 1286,
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "checks_up": 352,
+      "checks_down": 96,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 86,
-      "last_seen": "2026-06-05T06:40:03Z"
+      "uptime": 78,
+      "last_seen": "2026-06-06T06:00:03Z"
     }
   ]
 }
