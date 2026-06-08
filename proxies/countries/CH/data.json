@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "host": "185.18.250.120",
+      "ip": "185.18.250.120",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "checks_up": 363,
+      "checks_down": 55,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 86,
+      "last_seen": "2026-06-08T07:00:03Z"
+    },
+    {
+      "host": "185.18.250.156",
+      "ip": "185.18.250.156",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "checks_up": 6402,
+      "checks_down": 1251,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 83,
+      "last_seen": "2026-06-08T07:00:02Z"
+    }
+  ]
+}
