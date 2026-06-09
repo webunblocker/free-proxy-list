@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-213.14.144.16,3310,TR,Turkey,Istanbul,,,,,HTTP|HTTPS,Elite,61,1440,2026-06-08T07:00:17Z
