@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "79.110.202.131",
+      "ip": "79.110.202.131",
+      "port": 8081,
+      "delay": 560,
+      "country_code": "PL",
+      "country_name": "Poland",
+      "city": "Wroclaw",
+      "checks_up": 19584,
+      "checks_down": 5525,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 77,
+      "last_seen": "2026-06-10T06:34:04Z"
+    }
+  ]
+}
