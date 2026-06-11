@@ -1,3 +1,137 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "142.54.231.38",
+      "ip": "142.54.231.38",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 23425,
+      "checks_down": 13391,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 63,
+      "last_seen": "2026-06-11T01:44:05Z"
+    },
+    {
+      "host": "184.170.245.148",
+      "ip": "184.170.245.148",
+      "port": 4145,
+      "delay": 360,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 25560,
+      "checks_down": 20657,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 55,
+      "last_seen": "2026-06-11T01:44:05Z"
+    },
+    {
+      "host": "68.71.240.210",
+      "ip": "68.71.240.210",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 8640,
+      "checks_down": 1936,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 81,
+      "last_seen": "2026-06-11T01:44:05Z"
+    },
+    {
+      "host": "184.170.249.65",
+      "ip": "184.170.249.65",
+      "port": 4145,
+      "delay": 360,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Peachtree Corners",
+      "checks_up": 25544,
+      "checks_down": 21892,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 53,
+      "last_seen": "2026-06-11T01:44:04Z"
+    },
+    {
+      "host": "192.111.139.165",
+      "ip": "192.111.139.165",
+      "port": 4145,
+      "delay": 360,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 52760,
+      "checks_down": 34925,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 60,
+      "last_seen": "2026-06-11T01:44:03Z"
+    },
+    {
+      "host": "199.116.112.6",
+      "ip": "199.116.112.6",
+      "port": 4145,
+      "delay": 360,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 14059,
+      "checks_down": 3256,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 81,
+      "last_seen": "2026-06-11T01:44:03Z"
+    }
+  ]
 }
