@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.146.173.33,80,SE,Sweden,,,,,,HTTP,Anonymous,81,40,2026-06-11T01:44:04Z
+188.42.88.0,80,LU,Luxembourg,,,,,,HTTP,Anonymous,92,0,2026-06-12T06:50:03Z

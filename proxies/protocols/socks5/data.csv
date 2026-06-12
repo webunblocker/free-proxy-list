@@ -1,7 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-142.54.231.38,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,63,260,2026-06-11T01:44:05Z
-184.170.245.148,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,55,360,2026-06-11T01:44:05Z
-68.71.240.210,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,81,260,2026-06-11T01:44:05Z
-184.170.249.65,4145,US,United States,Peachtree Corners,,,,,SOCKS4|SOCKS5,Elite,53,360,2026-06-11T01:44:04Z
-192.111.139.165,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,60,360,2026-06-11T01:44:03Z
-199.116.112.6,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,81,360,2026-06-11T01:44:03Z
