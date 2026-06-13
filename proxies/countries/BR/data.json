@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "45.239.175.60",
+      "ip": "45.239.175.60",
+      "port": 8080,
+      "delay": 720,
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "city": "Lagarto",
+      "checks_up": 252,
+      "checks_down": 202,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 55,
+      "last_seen": "2026-06-13T06:30:04Z"
+    }
+  ]
+}
