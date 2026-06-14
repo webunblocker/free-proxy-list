@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.239.175.60,8080,BR,Brazil,Lagarto,,,,,HTTP,Elite,55,720,2026-06-13T06:30:04Z
