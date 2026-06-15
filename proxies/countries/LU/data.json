@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.148.107.145",
-      "ip": "185.148.107.145",
+      "host": "188.42.89.204",
+      "ip": "188.42.89.204",
       "port": 80,
       "delay": 20,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 494,
-      "checks_down": 86,
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "checks_up": 168,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,7 +18,7 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 85,
+      "uptime": 100,
       "last_seen": "2026-06-15T07:30:03Z"
     }
   ]

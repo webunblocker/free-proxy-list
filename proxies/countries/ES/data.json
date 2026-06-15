@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.238.228.68",
-      "ip": "185.238.228.68",
+      "host": "185.238.228.30",
+      "ip": "185.238.228.30",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 10104,
-      "checks_down": 1318,
+      "checks_up": 10539,
+      "checks_down": 1334,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 88,
-      "last_seen": "2026-06-14T06:50:01Z"
+      "last_seen": "2026-06-15T07:30:03Z"
     }
   ]
 }

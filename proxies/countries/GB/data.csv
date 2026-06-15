@@ -1,3 +1,3 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-164.38.155.65,80,GB,United Kingdom,,,,,,HTTP,Anonymous,86,0,2026-06-14T06:50:03Z
-164.38.155.76,80,GB,United Kingdom,,,,,,HTTP,Anonymous,86,20,2026-06-14T06:50:02Z
+91.193.58.25,80,GB,United Kingdom,,,,,,HTTP,Anonymous,100,0,2026-06-15T07:30:03Z
+185.193.29.207,80,GB,United Kingdom,,,,,,HTTP,Anonymous,86,0,2026-06-15T07:30:02Z
