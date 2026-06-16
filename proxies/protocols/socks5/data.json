@@ -1,3 +1,181 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "160.250.54.7",
+      "ip": "160.250.54.7",
+      "port": 9000,
+      "delay": 4740,
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "checks_up": 57,
+      "checks_down": 160,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 26,
+      "last_seen": "2026-06-16T07:38:23Z"
+    },
+    {
+      "host": "149.62.186.244",
+      "ip": "149.62.186.244",
+      "port": 1080,
+      "delay": 760,
+      "country_code": "IT",
+      "country_name": "Italy",
+      "checks_up": 923,
+      "checks_down": 440,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 67,
+      "last_seen": "2026-06-16T07:38:05Z"
+    },
+    {
+      "host": "186.26.95.249",
+      "ip": "186.26.95.249",
+      "port": 61445,
+      "delay": 840,
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "city": "S?o Jo?o de Meriti",
+      "checks_up": 370,
+      "checks_down": 1200,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 23,
+      "last_seen": "2026-06-16T07:37:09Z"
+    },
+    {
+      "host": "67.201.39.14",
+      "ip": "67.201.39.14",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 8440,
+      "checks_down": 1945,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 81,
+      "last_seen": "2026-06-16T07:37:05Z"
+    },
+    {
+      "host": "184.178.172.17",
+      "ip": "184.178.172.17",
+      "port": 4145,
+      "delay": 480,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Choctaw",
+      "checks_up": 27620,
+      "checks_down": 19371,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 58,
+      "last_seen": "2026-06-16T07:37:05Z"
+    },
+    {
+      "host": "68.71.249.158",
+      "ip": "68.71.249.158",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 8144,
+      "checks_down": 1906,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 81,
+      "last_seen": "2026-06-16T07:37:05Z"
+    },
+    {
+      "host": "184.170.249.65",
+      "ip": "184.170.249.65",
+      "port": 4145,
+      "delay": 340,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Peachtree Corners",
+      "checks_up": 25584,
+      "checks_down": 21904,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 53,
+      "last_seen": "2026-06-16T07:37:04Z"
+    },
+    {
+      "host": "192.252.216.81",
+      "ip": "192.252.216.81",
+      "port": 4145,
+      "delay": 340,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 25549,
+      "checks_down": 21717,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 54,
+      "last_seen": "2026-06-16T07:37:04Z"
+    }
+  ]
 }

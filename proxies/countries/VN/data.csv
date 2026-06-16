@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.95.232.35,3128,CH,Switzerland,Zurich,,,,,HTTP|HTTPS,Elite,55,5100,2026-06-16T07:38:27Z
+160.250.54.7,9000,VN,Vietnam,,,,,,SOCKS5,Elite,26,4740,2026-06-16T07:38:23Z

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "81.181.104.227",
+      "ip": "81.181.104.227",
+      "port": 80,
+      "delay": 480,
+      "country_code": "PL",
+      "country_name": "Poland",
+      "city": "Warsaw",
+      "checks_up": 151,
+      "checks_down": 57,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 72,
+      "last_seen": "2026-06-16T07:38:14Z"
+    }
+  ]
+}

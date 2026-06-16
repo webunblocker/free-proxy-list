@@ -1,1 +1,10 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+149.104.68.53,1080,US,United States,,,,,,HTTP|SOCKS4,Elite,42,5100,2026-06-16T07:38:39Z
+109.71.246.44,1080,NL,Netherlands,Amsterdam,,,,,SOCKS4,Elite,62,5100,2026-06-16T07:38:24Z
+190.104.8.142,14888,BO,Bolivia,La Paz,,,,,SOCKS4,Elite,77,2820,2026-06-16T07:38:12Z
+149.62.186.244,1080,IT,Italy,,,,,,SOCKS4|SOCKS5,Elite,67,760,2026-06-16T07:38:05Z
+67.201.39.14,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,81,260,2026-06-16T07:37:05Z
+184.178.172.17,4145,US,United States,Choctaw,,,,,SOCKS4|SOCKS5,Elite,58,480,2026-06-16T07:37:05Z
+68.71.249.158,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,81,260,2026-06-16T07:37:05Z
+184.170.249.65,4145,US,United States,Peachtree Corners,,,,,SOCKS4|SOCKS5,Elite,53,340,2026-06-16T07:37:04Z
+192.252.216.81,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,54,340,2026-06-16T07:37:04Z

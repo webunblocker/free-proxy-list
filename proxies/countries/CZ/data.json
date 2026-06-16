@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "188.42.89.204",
-      "ip": "188.42.89.204",
+      "host": "195.85.23.63",
+      "ip": "195.85.23.63",
       "port": 80,
-      "delay": 20,
-      "country_code": "LU",
-      "country_name": "Luxembourg",
-      "checks_up": 168,
+      "delay": 0,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 326,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-06-15T07:30:03Z"
+      "last_seen": "2026-06-16T07:38:01Z"
     }
   ]
 }

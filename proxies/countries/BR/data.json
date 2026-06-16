@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "186.26.95.249",
+      "ip": "186.26.95.249",
+      "port": 61445,
+      "delay": 840,
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "city": "S?o Jo?o de Meriti",
+      "checks_up": 370,
+      "checks_down": 1200,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 23,
+      "last_seen": "2026-06-16T07:37:09Z"
+    }
+  ]
+}
