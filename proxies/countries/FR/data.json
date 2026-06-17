@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "173.245.49.17",
+      "ip": "173.245.49.17",
+      "port": 80,
+      "delay": 0,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 17558,
+      "checks_down": 1263,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 93,
+      "last_seen": "2026-06-17T07:22:04Z"
+    }
+  ]
+}

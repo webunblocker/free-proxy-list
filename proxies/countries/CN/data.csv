@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-195.85.23.63,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,0,2026-06-16T07:38:01Z
+122.224.198.218,1080,CN,China,,,,,,SOCKS5,Elite,65,5100,2026-06-17T07:21:23Z

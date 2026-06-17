@@ -1,5 +1,5 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.238.228.208,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-16T07:38:02Z
-185.238.228.70,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-16T07:38:02Z
-185.238.228.113,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-16T07:38:01Z
-185.238.228.81,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-16T07:37:04Z
+185.238.228.247,80,ES,Spain,,,,,,HTTP,Anonymous,86,20,2026-06-17T07:22:03Z
+185.238.228.20,80,ES,Spain,,,,,,HTTP,Anonymous,90,0,2026-06-17T07:22:03Z
+185.238.228.181,80,ES,Spain,,,,,,HTTP,Anonymous,89,0,2026-06-17T07:22:02Z
+185.238.228.211,80,ES,Spain,,,,,,HTTP,Anonymous,89,20,2026-06-17T07:22:02Z

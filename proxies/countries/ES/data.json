@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.238.228.208",
-      "ip": "185.238.228.208",
+      "host": "185.238.228.247",
+      "ip": "185.238.228.247",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 10706,
-      "checks_down": 1323,
+      "checks_up": 8119,
+      "checks_down": 1285,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,18 +18,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-06-16T07:38:02Z"
+      "uptime": 86,
+      "last_seen": "2026-06-17T07:22:03Z"
     },
     {
-      "host": "185.238.228.70",
-      "ip": "185.238.228.70",
+      "host": "185.238.228.20",
+      "ip": "185.238.228.20",
       "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11639,
-      "checks_down": 1355,
+      "checks_up": 12455,
+      "checks_down": 1356,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,18 +39,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-06-16T07:38:02Z"
+      "uptime": 90,
+      "last_seen": "2026-06-17T07:22:03Z"
     },
     {
-      "host": "185.238.228.113",
-      "ip": "185.238.228.113",
+      "host": "185.238.228.181",
+      "ip": "185.238.228.181",
       "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11818,
-      "checks_down": 1316,
+      "checks_up": 11749,
+      "checks_down": 1352,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,17 +61,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-06-16T07:38:01Z"
+      "last_seen": "2026-06-17T07:22:02Z"
     },
     {
-      "host": "185.238.228.81",
-      "ip": "185.238.228.81",
+      "host": "185.238.228.211",
+      "ip": "185.238.228.211",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11813,
-      "checks_down": 1348,
+      "checks_up": 11784,
+      "checks_down": 1347,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -82,7 +82,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-06-16T07:37:04Z"
+      "last_seen": "2026-06-17T07:22:02Z"
     }
   ]
 }

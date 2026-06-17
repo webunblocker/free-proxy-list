@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "62.72.166.22",
+      "ip": "62.72.166.22",
+      "port": 80,
+      "delay": 20,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 497,
+      "checks_down": 82,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 85,
+      "last_seen": "2026-06-17T07:22:03Z"
+    }
+  ]
+}
