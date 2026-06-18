@@ -1,15 +1,37 @@
 {
   "data": [
     {
-      "host": "173.245.49.17",
-      "ip": "173.245.49.17",
+      "host": "173.245.49.60",
+      "ip": "173.245.49.60",
       "port": 80,
-      "delay": 0,
+      "delay": 20,
       "country_code": "FR",
       "country_name": "France",
       "city": "Paris",
-      "checks_up": 17558,
-      "checks_down": 1263,
+      "checks_up": 14520,
+      "checks_down": 1272,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-06-18T07:02:05Z"
+    },
+    {
+      "host": "173.245.49.18",
+      "ip": "173.245.49.18",
+      "port": 80,
+      "delay": 20,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 17519,
+      "checks_down": 1291,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -20,7 +42,51 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 93,
-      "last_seen": "2026-06-17T07:22:04Z"
+      "last_seen": "2026-06-18T07:02:05Z"
+    },
+    {
+      "host": "173.245.49.8",
+      "ip": "173.245.49.8",
+      "port": 80,
+      "delay": 0,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 17654,
+      "checks_down": 1296,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 93,
+      "last_seen": "2026-06-18T07:02:05Z"
+    },
+    {
+      "host": "173.245.49.68",
+      "ip": "173.245.49.68",
+      "port": 80,
+      "delay": 20,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 14517,
+      "checks_down": 1320,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-06-18T07:01:03Z"
     }
   ]
 }

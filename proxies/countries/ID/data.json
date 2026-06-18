@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "202.154.18.72",
+      "ip": "202.154.18.72",
+      "port": 8084,
+      "delay": 700,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 105,
+      "checks_down": 85,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 55,
+      "last_seen": "2026-06-18T07:01:20Z"
+    }
+  ]
+}
