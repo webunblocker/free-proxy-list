@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "188.42.89.143",
+      "ip": "188.42.89.143",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "checks_up": 392,
+      "checks_down": 2,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-06-19T07:22:01Z"
+    }
+  ]
+}
