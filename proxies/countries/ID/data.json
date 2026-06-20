@@ -1,89 +1,26 @@
 {
   "data": [
     {
-      "host": "103.188.169.95",
-      "ip": "103.188.169.95",
-      "port": 8080,
+      "host": "103.87.81.86",
+      "ip": "103.87.81.86",
+      "port": 5678,
       "delay": 5100,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "checks_up": 7,
-      "checks_down": 110,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 5,
-      "last_seen": "2026-06-19T07:22:59Z"
-    },
-    {
-      "host": "103.59.45.249",
-      "ip": "103.59.45.249",
-      "port": 8080,
-      "delay": 5100,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "checks_up": 10,
-      "checks_down": 109,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 8,
-      "last_seen": "2026-06-19T07:22:54Z"
-    },
-    {
-      "host": "101.255.151.245",
-      "ip": "101.255.151.245",
-      "port": 8080,
-      "delay": 4480,
       "country_code": "ID",
       "country_name": "Indonesia",
       "city": "Jakarta",
-      "checks_up": 33,
-      "checks_down": 67,
-      "anon": 3,
-      "http": 1,
+      "checks_up": 109,
+      "checks_down": 84,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
-      "socks4": 0,
+      "socks4": 1,
       "socks5": 0,
       "protocols": [
-        "HTTP"
+        "SOCKS4"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 33,
-      "last_seen": "2026-06-19T07:22:50Z"
-    },
-    {
-      "host": "103.125.36.120",
-      "ip": "103.125.36.120",
-      "port": 8080,
-      "delay": 4780,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "checks_up": 11,
-      "checks_down": 61,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 15,
-      "last_seen": "2026-06-19T07:22:47Z"
+      "anonymity_level": "Elite",
+      "uptime": 56,
+      "last_seen": "2026-06-20T06:38:23Z"
     }
   ]
 }

@@ -1,2 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-159.54.148.142,1080,MX,Mexico,,,,,,SOCKS5,Elite,81,200,2026-06-19T07:22:03Z
