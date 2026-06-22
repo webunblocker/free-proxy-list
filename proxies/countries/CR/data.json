@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.18.250.32",
-      "ip": "185.18.250.32",
+      "host": "190.93.246.202",
+      "ip": "190.93.246.202",
       "port": 80,
       "delay": 20,
-      "country_code": "CH",
-      "country_name": "Switzerland",
-      "checks_up": 523,
-      "checks_down": 90,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 9473,
+      "checks_down": 1154,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 85,
-      "last_seen": "2026-06-21T07:01:07Z"
+      "uptime": 89,
+      "last_seen": "2026-06-22T07:32:05Z"
     }
   ]
 }

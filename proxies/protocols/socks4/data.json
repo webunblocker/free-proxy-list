@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "36.94.119.218",
+      "ip": "36.94.119.218",
+      "port": 4145,
+      "delay": 2320,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Jakarta",
+      "checks_up": 42,
+      "checks_down": 60,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 41,
+      "last_seen": "2026-06-22T07:32:15Z"
+    }
+  ]
 }
