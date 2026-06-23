@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "190.93.246.202",
-      "ip": "190.93.246.202",
+      "host": "160.123.255.42",
+      "ip": "160.123.255.42",
       "port": 80,
       "delay": 20,
-      "country_code": "CR",
-      "country_name": "Costa Rica",
-      "checks_up": 9473,
-      "checks_down": 1154,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 534,
+      "checks_down": 92,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-06-22T07:32:05Z"
+      "uptime": 85,
+      "last_seen": "2026-06-23T06:12:02Z"
     }
   ]
 }
