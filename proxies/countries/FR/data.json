@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "31.43.179.120",
-      "ip": "31.43.179.120",
+      "host": "173.245.49.204",
+      "ip": "173.245.49.204",
       "port": 80,
       "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 12595,
-      "checks_down": 1383,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 8891,
+      "checks_down": 1184,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,7 +19,7 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 90,
+      "uptime": 88,
       "last_seen": "2026-06-24T06:12:02Z"
     }
   ]

@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.80.108.194,80,EE,Estonia,,,,,,HTTP,Anonymous,88,20,2026-06-23T06:12:02Z
-45.80.110.239,80,EE,Estonia,,,,,,HTTP,Anonymous,100,0,2026-06-23T06:11:05Z
