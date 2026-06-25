@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "host": "41.59.90.170",
+      "ip": "41.59.90.170",
+      "port": 80,
+      "delay": 4540,
+      "country_code": "TZ",
+      "country_name": "Tanzania",
+      "city": "Dar es Salaam",
+      "checks_up": 254,
+      "checks_down": 6,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 97,
+      "last_seen": "2026-06-25T06:12:08Z"
+    },
+    {
+      "host": "41.59.90.171",
+      "ip": "41.59.90.171",
+      "port": 80,
+      "delay": 4520,
+      "country_code": "TZ",
+      "country_name": "Tanzania",
+      "city": "Dar es Salaam",
+      "checks_up": 233,
+      "checks_down": 9,
+      "anon": 2,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 96,
+      "last_seen": "2026-06-25T06:12:08Z"
+    }
+  ]
+}

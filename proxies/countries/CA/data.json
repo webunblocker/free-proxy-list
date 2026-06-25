@@ -1,78 +1,14 @@
 {
   "data": [
     {
-      "host": "23.227.38.40",
-      "ip": "23.227.38.40",
+      "host": "23.227.39.212",
+      "ip": "23.227.39.212",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14548,
-      "checks_down": 1298,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-06-24T06:12:02Z"
-    },
-    {
-      "host": "23.227.38.182",
-      "ip": "23.227.38.182",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14666,
-      "checks_down": 1289,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-06-24T06:12:02Z"
-    },
-    {
-      "host": "23.227.38.82",
-      "ip": "23.227.38.82",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14543,
-      "checks_down": 1284,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-06-24T06:12:01Z"
-    },
-    {
-      "host": "23.227.39.214",
-      "ip": "23.227.39.214",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "city": "Ottawa",
-      "checks_up": 10475,
-      "checks_down": 1150,
+      "checks_up": 11230,
+      "checks_down": 1162,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -83,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-06-24T06:12:01Z"
+      "last_seen": "2026-06-25T06:12:02Z"
     }
   ]
 }
