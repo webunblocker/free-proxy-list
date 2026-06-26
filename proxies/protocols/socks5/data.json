@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "149.62.186.244",
+      "ip": "149.62.186.244",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "IT",
+      "country_name": "Italy",
+      "checks_up": 1055,
+      "checks_down": 458,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 69,
+      "last_seen": "2026-06-26T06:17:12Z"
+    }
+  ]
 }

@@ -1,1 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+149.62.186.244,1080,IT,Italy,,,,,,SOCKS4|SOCKS5,Elite,69,5100,2026-06-26T06:17:12Z

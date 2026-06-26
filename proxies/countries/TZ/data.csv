@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-41.59.90.170,80,TZ,Tanzania,Dar es Salaam,,,,,HTTP,Anonymous,97,4540,2026-06-25T06:12:08Z
-41.59.90.171,80,TZ,Tanzania,Dar es Salaam,,,,,HTTP,Anonymous,96,4520,2026-06-25T06:12:08Z
