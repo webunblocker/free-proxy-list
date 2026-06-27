@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "149.62.186.244",
-      "ip": "149.62.186.244",
-      "port": 1080,
-      "delay": 5100,
-      "country_code": "IT",
-      "country_name": "Italy",
-      "checks_up": 1055,
-      "checks_down": 458,
+      "host": "199.102.106.94",
+      "ip": "199.102.106.94",
+      "port": 4145,
+      "delay": 280,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 23858,
+      "checks_down": 11662,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -19,8 +19,8 @@
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-06-26T06:17:12Z"
+      "uptime": 67,
+      "last_seen": "2026-06-27T05:58:03Z"
     }
   ]
 }
