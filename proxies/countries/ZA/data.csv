@@ -1,2 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-160.123.255.248,80,ZA,South Africa,,,,,,HTTP,Anonymous,100,20,2026-06-27T05:57:03Z
+196.223.129.21,80,ZA,South Africa,Cape Town,,,,,HTTP,Elite,36,5100,2026-06-28T06:32:27Z
+160.123.255.5,80,ZA,South Africa,,,,,,HTTP,Anonymous,79,0,2026-06-28T06:32:04Z
+102.177.176.74,80,ZA,South Africa,,,,,,HTTP,Anonymous,100,0,2026-06-28T06:32:04Z

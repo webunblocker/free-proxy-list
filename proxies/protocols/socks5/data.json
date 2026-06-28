@@ -1,26 +1,3 @@
 {
-  "data": [
-    {
-      "host": "199.102.106.94",
-      "ip": "199.102.106.94",
-      "port": 4145,
-      "delay": 280,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 23858,
-      "checks_down": 11662,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 67,
-      "last_seen": "2026-06-27T05:58:03Z"
-    }
-  ]
+  "data": []
 }

@@ -1,13 +1,56 @@
 {
   "data": [
     {
-      "host": "160.123.255.248",
-      "ip": "160.123.255.248",
+      "host": "196.223.129.21",
+      "ip": "196.223.129.21",
       "port": 80,
-      "delay": 20,
+      "delay": 5100,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 478,
+      "city": "Cape Town",
+      "checks_up": 2660,
+      "checks_down": 4552,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 36,
+      "last_seen": "2026-06-28T06:32:27Z"
+    },
+    {
+      "host": "160.123.255.5",
+      "ip": "160.123.255.5",
+      "port": 80,
+      "delay": 0,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 4965,
+      "checks_down": 1295,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 79,
+      "last_seen": "2026-06-28T06:32:04Z"
+    },
+    {
+      "host": "102.177.176.74",
+      "ip": "102.177.176.74",
+      "port": 80,
+      "delay": 0,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 382,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +62,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-06-27T05:57:03Z"
+      "last_seen": "2026-06-28T06:32:04Z"
     }
   ]
 }

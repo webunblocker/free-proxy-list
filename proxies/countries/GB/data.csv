@@ -1,12 +1,3 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-194.36.55.98,80,GB,United Kingdom,,,,,,HTTP,Anonymous,100,0,2026-06-27T05:58:03Z
-164.38.155.23,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:02Z
-185.170.166.30,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:02Z
-164.38.155.29,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:02Z
-185.170.166.4,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:02Z
-185.170.166.69,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:01Z
-185.170.166.16,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,0,2026-06-27T05:58:01Z
-185.170.166.32,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:01Z
-164.38.155.44,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:01Z
-164.38.155.93,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-27T05:58:01Z
-164.38.155.41,80,GB,United Kingdom,,,,,,HTTP,Anonymous,86,20,2026-06-27T05:57:03Z
+185.193.31.87,80,GB,United Kingdom,,,,,,HTTP,Anonymous,62,0,2026-06-28T06:32:04Z
+164.38.155.32,80,GB,United Kingdom,,,,,,HTTP,Anonymous,87,20,2026-06-28T06:32:03Z

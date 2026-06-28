@@ -1,2 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-199.102.106.94,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,67,280,2026-06-27T05:58:03Z
