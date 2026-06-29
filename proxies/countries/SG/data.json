@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "host": "206.238.236.236",
+      "ip": "206.238.236.236",
+      "port": 80,
+      "delay": 20,
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "city": "Singapore",
+      "checks_up": 156,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-06-29T06:57:02Z"
+    },
+    {
+      "host": "154.194.12.166",
+      "ip": "154.194.12.166",
+      "port": 80,
+      "delay": 20,
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "city": "Singapore",
+      "checks_up": 570,
+      "checks_down": 67,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-06-29T06:55:03Z"
+    }
+  ]
+}

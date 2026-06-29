@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "185.176.26.197",
-      "ip": "185.176.26.197",
+      "host": "185.176.26.63",
+      "ip": "185.176.26.63",
       "port": 80,
-      "delay": 0,
+      "delay": 40,
       "country_code": "KZ",
       "country_name": "Kazakstan",
       "city": "Almaty",
-      "checks_up": 526,
-      "checks_down": 50,
+      "checks_up": 207,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,18 +19,19 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-06-28T06:32:04Z"
+      "uptime": 100,
+      "last_seen": "2026-06-29T06:57:04Z"
     },
     {
-      "host": "31.43.179.177",
-      "ip": "31.43.179.177",
+      "host": "185.176.26.126",
+      "ip": "185.176.26.126",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "checks_up": 12037,
-      "checks_down": 1322,
+      "city": "Almaty",
+      "checks_up": 599,
+      "checks_down": 64,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -41,7 +42,49 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-06-28T06:31:04Z"
+      "last_seen": "2026-06-29T06:57:02Z"
+    },
+    {
+      "host": "31.43.179.214",
+      "ip": "31.43.179.214",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "checks_up": 12821,
+      "checks_down": 1344,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-06-29T06:56:02Z"
+    },
+    {
+      "host": "31.43.179.57",
+      "ip": "31.43.179.57",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "checks_up": 11874,
+      "checks_down": 1366,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-06-29T06:56:02Z"
     }
   ]
 }

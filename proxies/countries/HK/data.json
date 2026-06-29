@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "218.252.100.222",
+      "ip": "218.252.100.222",
+      "port": 80,
+      "delay": 780,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "checks_up": 1076,
+      "checks_down": 469,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 69,
+      "last_seen": "2026-06-29T06:56:05Z"
+    }
+  ]
+}
