@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-89.116.250.32,80,LT,Lithuania,,,,,,HTTP,Anonymous,100,20,2026-06-29T06:57:02Z

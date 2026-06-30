@@ -1,37 +1,14 @@
 {
   "data": [
     {
-      "host": "185.176.26.63",
-      "ip": "185.176.26.63",
+      "host": "31.43.179.118",
+      "ip": "31.43.179.118",
       "port": 80,
-      "delay": 40,
+      "delay": 0,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "city": "Almaty",
-      "checks_up": 207,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-06-29T06:57:04Z"
-    },
-    {
-      "host": "185.176.26.126",
-      "ip": "185.176.26.126",
-      "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "city": "Almaty",
-      "checks_up": 599,
-      "checks_down": 64,
+      "checks_up": 12759,
+      "checks_down": 1356,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -42,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-06-29T06:57:02Z"
+      "last_seen": "2026-06-30T06:26:04Z"
     },
     {
-      "host": "31.43.179.214",
-      "ip": "31.43.179.214",
+      "host": "31.43.179.80",
+      "ip": "31.43.179.80",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "checks_up": 12821,
-      "checks_down": 1344,
+      "checks_up": 12084,
+      "checks_down": 1322,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -63,28 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-06-29T06:56:02Z"
-    },
-    {
-      "host": "31.43.179.57",
-      "ip": "31.43.179.57",
-      "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 11874,
-      "checks_down": 1366,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-06-29T06:56:02Z"
+      "last_seen": "2026-06-30T06:26:02Z"
     }
   ]
 }
