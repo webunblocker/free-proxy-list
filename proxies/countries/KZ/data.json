@@ -1,35 +1,14 @@
 {
   "data": [
     {
-      "host": "31.43.179.118",
-      "ip": "31.43.179.118",
-      "port": 80,
-      "delay": 0,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 12759,
-      "checks_down": 1356,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-06-30T06:26:04Z"
-    },
-    {
-      "host": "31.43.179.80",
-      "ip": "31.43.179.80",
+      "host": "31.43.179.194",
+      "ip": "31.43.179.194",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "checks_up": 12084,
-      "checks_down": 1322,
+      "checks_up": 12370,
+      "checks_down": 1366,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,7 +19,28 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-06-30T06:26:02Z"
+      "last_seen": "2026-07-01T06:36:02Z"
+    },
+    {
+      "host": "31.43.179.3",
+      "ip": "31.43.179.3",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "checks_up": 12607,
+      "checks_down": 1375,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-07-01T06:36:02Z"
     }
   ]
 }
