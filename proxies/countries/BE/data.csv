@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-61.158.175.38,9002,CN,China,Shangqiu,,,,,HTTP,Elite,82,2340,2026-07-01T06:36:06Z
+35.241.172.224,80,BE,Belgium,Brussels,,,,,HTTP,Anonymous,79,460,2026-07-02T06:02:04Z

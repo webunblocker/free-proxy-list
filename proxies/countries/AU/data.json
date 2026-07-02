@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "103.169.142.24",
+      "ip": "103.169.142.24",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 542,
+      "checks_down": 46,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 92,
+      "last_seen": "2026-07-02T06:02:02Z"
+    }
+  ]
+}

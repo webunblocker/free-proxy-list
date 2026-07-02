@@ -1,1 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+62.133.62.249,1081,FR,France,Paris,,,,,HTTP|HTTPS|SOCKS5,Elite,69,2920,2026-07-02T06:01:16Z

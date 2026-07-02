@@ -1,0 +1,4 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+45.80.111.29,80,DE,Germany,,,,,,HTTP,Anonymous,100,20,2026-07-02T06:02:03Z
+45.80.111.103,80,DE,Germany,,,,,,HTTP,Anonymous,100,20,2026-07-02T06:02:03Z
+45.80.111.197,80,DE,Germany,,,,,,HTTP,Anonymous,100,20,2026-07-02T06:02:02Z

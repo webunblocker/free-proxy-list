@@ -1,6 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-142.54.231.38,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,63,360,2026-07-01T06:36:03Z
-72.214.108.67,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,75,400,2026-07-01T06:36:03Z
-184.182.240.12,4145,US,United States,Phoenix,,,,,SOCKS4|SOCKS5,Elite,76,1320,2026-07-01T06:35:08Z
-72.207.109.5,4145,US,United States,San Diego,,,,,SOCKS4|SOCKS5,Elite,90,400,2026-07-01T06:35:04Z
-184.181.217.210,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,63,400,2026-07-01T06:35:03Z
+62.133.62.249,1081,FR,France,Paris,,,,,HTTP|HTTPS|SOCKS5,Elite,69,2920,2026-07-02T06:01:16Z
