@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "173.245.49.139",
-      "ip": "173.245.49.139",
+      "host": "173.245.49.162",
+      "ip": "173.245.49.162",
       "port": 80,
       "delay": 20,
       "country_code": "FR",
       "country_name": "France",
       "city": "Paris",
-      "checks_up": 9008,
-      "checks_down": 1135,
+      "checks_up": 9062,
+      "checks_down": 1147,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -20,53 +20,51 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 88,
-      "last_seen": "2026-07-02T06:02:03Z"
+      "last_seen": "2026-07-03T05:56:04Z"
     },
     {
-      "host": "173.245.49.192",
-      "ip": "173.245.49.192",
-      "port": 80,
-      "delay": 0,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Paris",
-      "checks_up": 9015,
-      "checks_down": 1180,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-07-02T06:02:02Z"
-    },
-    {
-      "host": "62.133.62.249",
-      "ip": "62.133.62.249",
+      "host": "62.133.62.184",
+      "ip": "62.133.62.184",
       "port": 1081,
-      "delay": 2920,
+      "delay": 4500,
       "country_code": "FR",
       "country_name": "France",
       "city": "Paris",
-      "checks_up": 151,
-      "checks_down": 66,
+      "checks_up": 125,
+      "checks_down": 80,
       "anon": 4,
-      "http": 1,
+      "http": 0,
       "ssl": 1,
       "socks4": 0,
-      "socks5": 1,
+      "socks5": 0,
       "protocols": [
-        "HTTP",
-        "HTTPS",
-        "SOCKS5"
+        "HTTPS"
       ],
       "anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-07-02T06:01:16Z"
+      "uptime": 60,
+      "last_seen": "2026-07-03T05:55:23Z"
+    },
+    {
+      "host": "46.35.9.110",
+      "ip": "46.35.9.110",
+      "port": 80,
+      "delay": 420,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Courri?res",
+      "checks_up": 9323,
+      "checks_down": 8210,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 53,
+      "last_seen": "2026-07-03T05:55:05Z"
     }
   ]
 }

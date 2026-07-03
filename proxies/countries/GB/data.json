@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.193.31.87",
-      "ip": "185.193.31.87",
+      "host": "164.38.155.59",
+      "ip": "164.38.155.59",
       "port": 80,
       "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 2148,
-      "checks_down": 1272,
+      "checks_up": 8763,
+      "checks_down": 1268,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 62,
-      "last_seen": "2026-07-02T06:02:03Z"
+      "uptime": 87,
+      "last_seen": "2026-07-03T05:56:04Z"
     }
   ]
 }

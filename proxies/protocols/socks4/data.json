@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "107.181.168.145",
+      "ip": "107.181.168.145",
+      "port": 4145,
+      "delay": 260,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 20759,
+      "checks_down": 13261,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 61,
+      "last_seen": "2026-07-03T05:55:05Z"
+    }
+  ]
 }

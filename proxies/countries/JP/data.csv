@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.169.142.24,80,AU,Australia,,,,,,HTTP,Anonymous,92,20,2026-07-02T06:02:02Z
+8.216.32.38,1080,JP,Japan,Tokyo,,,,,SOCKS5,Elite,80,5100,2026-07-03T05:55:21Z

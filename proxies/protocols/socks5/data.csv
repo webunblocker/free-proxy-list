@@ -1,2 +1,6 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-62.133.62.249,1081,FR,France,Paris,,,,,HTTP|HTTPS|SOCKS5,Elite,69,2920,2026-07-02T06:01:16Z
+103.66.46.150,69,ID,Indonesia,,,,,,SOCKS5,Elite,50,5100,2026-07-03T05:55:24Z
+8.216.32.38,1080,JP,Japan,Tokyo,,,,,SOCKS5,Elite,80,5100,2026-07-03T05:55:21Z
+103.191.218.119,69,ID,Indonesia,Kuningan,,,,,SOCKS5,Elite,50,3400,2026-07-03T05:55:16Z
+213.188.215.27,1080,US,United States,,,,,,SOCKS5,Elite,60,1520,2026-07-03T05:55:16Z
+107.181.168.145,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,61,260,2026-07-03T05:55:05Z

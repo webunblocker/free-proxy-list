@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "176.98.80.71",
+      "ip": "176.98.80.71",
+      "port": 8080,
+      "delay": 620,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Uman",
+      "checks_up": 204,
+      "checks_down": 110,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 64,
+      "last_seen": "2026-07-03T05:56:03Z"
+    }
+  ]
+}
