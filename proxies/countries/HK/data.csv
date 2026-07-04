@@ -1,4 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-43.161.239.147,8888,HK,Hong Kong,Hong Kong,,,,,HTTPS,Elite,68,2060,2026-07-03T05:55:20Z
-39.109.113.97,4090,HK,Hong Kong,,,,,,HTTP,Elite,64,800,2026-07-03T05:55:06Z
-218.252.100.222,80,HK,Hong Kong,,,,,,HTTP,Elite,69,740,2026-07-03T05:55:06Z

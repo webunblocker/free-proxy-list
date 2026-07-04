@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-46.249.100.124,80,DE,Germany,Frankfurt am Main,,,,,HTTP,Elite,64,460,2026-07-03T05:56:05Z
-128.140.113.110,4145,DE,Germany,Falkenstein,,,,,HTTP,Elite,50,500,2026-07-03T05:55:13Z

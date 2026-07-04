@@ -1,48 +1,97 @@
 {
   "data": [
     {
-      "host": "62.133.62.184",
-      "ip": "62.133.62.184",
-      "port": 1081,
-      "delay": 4500,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Paris",
-      "checks_up": 125,
-      "checks_down": 80,
+      "host": "92.118.112.25",
+      "ip": "92.118.112.25",
+      "port": 1082,
+      "delay": 3160,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Atlanta",
+      "checks_up": 226,
+      "checks_down": 106,
       "anon": 4,
       "http": 0,
       "ssl": 1,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-07-03T05:55:23Z"
-    },
-    {
-      "host": "43.161.239.147",
-      "ip": "43.161.239.147",
-      "port": 8888,
-      "delay": 2060,
-      "country_code": "HK",
-      "country_name": "Hong Kong",
-      "city": "Hong Kong",
-      "checks_up": 237,
-      "checks_down": 109,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
+        "HTTPS",
+        "SOCKS5"
       ],
       "anonymity_level": "Elite",
       "uptime": 68,
-      "last_seen": "2026-07-03T05:55:20Z"
+      "last_seen": "2026-07-04T05:51:38Z"
+    },
+    {
+      "host": "92.118.112.25",
+      "ip": "92.118.112.25",
+      "port": 1081,
+      "delay": 1920,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Atlanta",
+      "checks_up": 181,
+      "checks_down": 76,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 70,
+      "last_seen": "2026-07-04T05:51:34Z"
+    },
+    {
+      "host": "92.118.234.124",
+      "ip": "92.118.234.124",
+      "port": 1080,
+      "delay": 4660,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "checks_up": 74,
+      "checks_down": 85,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 46,
+      "last_seen": "2026-07-04T05:51:34Z"
+    },
+    {
+      "host": "92.118.112.32",
+      "ip": "92.118.112.32",
+      "port": 1082,
+      "delay": 2220,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Atlanta",
+      "checks_up": 222,
+      "checks_down": 95,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 70,
+      "last_seen": "2026-07-04T05:51:25Z"
     }
   ]
 }

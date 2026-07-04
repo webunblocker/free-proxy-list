@@ -1,112 +1,75 @@
 {
   "data": [
     {
-      "host": "103.66.46.150",
-      "ip": "103.66.46.150",
-      "port": 69,
-      "delay": 5100,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "checks_up": 128,
-      "checks_down": 126,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 50,
-      "last_seen": "2026-07-03T05:55:24Z"
-    },
-    {
-      "host": "8.216.32.38",
-      "ip": "8.216.32.38",
-      "port": 1080,
-      "delay": 5100,
-      "country_code": "JP",
-      "country_name": "Japan",
-      "city": "Tokyo",
-      "checks_up": 204,
-      "checks_down": 51,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 80,
-      "last_seen": "2026-07-03T05:55:21Z"
-    },
-    {
-      "host": "103.191.218.119",
-      "ip": "103.191.218.119",
-      "port": 69,
-      "delay": 3400,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "city": "Kuningan",
-      "checks_up": 185,
-      "checks_down": 179,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 50,
-      "last_seen": "2026-07-03T05:55:16Z"
-    },
-    {
-      "host": "213.188.215.27",
-      "ip": "213.188.215.27",
-      "port": 1080,
-      "delay": 1520,
+      "host": "92.118.112.25",
+      "ip": "92.118.112.25",
+      "port": 1082,
+      "delay": 3160,
       "country_code": "US",
       "country_name": "United States",
-      "checks_up": 93,
-      "checks_down": 62,
+      "city": "Atlanta",
+      "checks_up": 226,
+      "checks_down": 106,
       "anon": 4,
       "http": 0,
-      "ssl": 0,
+      "ssl": 1,
       "socks4": 0,
       "socks5": 1,
       "protocols": [
+        "HTTPS",
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-07-03T05:55:16Z"
+      "uptime": 68,
+      "last_seen": "2026-07-04T05:51:38Z"
     },
     {
-      "host": "107.181.168.145",
-      "ip": "107.181.168.145",
-      "port": 4145,
-      "delay": 260,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 20759,
-      "checks_down": 13261,
+      "host": "92.118.234.124",
+      "ip": "92.118.234.124",
+      "port": 1080,
+      "delay": 4660,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "checks_up": 74,
+      "checks_down": 85,
       "anon": 4,
-      "http": 0,
-      "ssl": 0,
+      "http": 1,
+      "ssl": 1,
       "socks4": 1,
       "socks5": 1,
       "protocols": [
+        "HTTP",
+        "HTTPS",
         "SOCKS4",
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 61,
-      "last_seen": "2026-07-03T05:55:05Z"
+      "uptime": 46,
+      "last_seen": "2026-07-04T05:51:34Z"
+    },
+    {
+      "host": "92.118.112.32",
+      "ip": "92.118.112.32",
+      "port": 1081,
+      "delay": 380,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Atlanta",
+      "checks_up": 203,
+      "checks_down": 73,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 73,
+      "last_seen": "2026-07-04T05:51:26Z"
     }
   ]
 }
