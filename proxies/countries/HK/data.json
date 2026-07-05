@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "47.52.223.161",
+      "ip": "47.52.223.161",
+      "port": 5872,
+      "delay": 800,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 327,
+      "checks_down": 86,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 79,
+      "last_seen": "2026-07-05T06:11:16Z"
+    }
+  ]
+}

@@ -1,4 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-92.118.112.25,1082,US,United States,Atlanta,,,,,HTTPS|SOCKS5,Elite,68,3160,2026-07-04T05:51:38Z
-92.118.234.124,1080,CY,Cyprus,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,46,4660,2026-07-04T05:51:34Z
-92.118.112.32,1081,US,United States,Atlanta,,,,,HTTP|SOCKS4|SOCKS5,Elite,73,380,2026-07-04T05:51:26Z
+178.208.88.28,1080,NL,Netherlands,Amsterdam,,,,,SOCKS5,Elite,56,1480,2026-07-05T06:11:06Z

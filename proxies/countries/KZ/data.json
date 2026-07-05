@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "31.43.179.60",
-      "ip": "31.43.179.60",
+      "host": "185.176.26.45",
+      "ip": "185.176.26.45",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "checks_up": 11918,
-      "checks_down": 1334,
+      "city": "Almaty",
+      "checks_up": 635,
+      "checks_down": 61,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +19,72 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-04T05:52:02Z"
+      "uptime": 91,
+      "last_seen": "2026-07-05T06:12:03Z"
+    },
+    {
+      "host": "185.176.26.197",
+      "ip": "185.176.26.197",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "city": "Almaty",
+      "checks_up": 595,
+      "checks_down": 50,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 92,
+      "last_seen": "2026-07-05T06:11:02Z"
+    },
+    {
+      "host": "31.43.179.76",
+      "ip": "31.43.179.76",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "checks_up": 12798,
+      "checks_down": 1343,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-07-05T06:11:02Z"
+    },
+    {
+      "host": "31.43.179.197",
+      "ip": "31.43.179.197",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "checks_up": 12759,
+      "checks_down": 1354,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-07-05T06:11:02Z"
     }
   ]
 }

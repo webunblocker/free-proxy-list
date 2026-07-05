@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "89.116.250.119",
+      "ip": "89.116.250.119",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "checks_up": 569,
+      "checks_down": 51,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-07-05T06:11:02Z"
+    }
+  ]
+}
