@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "23.227.38.145",
-      "ip": "23.227.38.145",
+      "host": "23.227.38.84",
+      "ip": "23.227.38.84",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14674,
-      "checks_down": 1280,
+      "checks_up": 14704,
+      "checks_down": 1291,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,61 +19,18 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-07-05T06:12:03Z"
+      "last_seen": "2026-07-06T06:42:03Z"
     },
     {
-      "host": "23.227.38.19",
-      "ip": "23.227.38.19",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 15489,
-      "checks_down": 1312,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 92,
-      "last_seen": "2026-07-05T06:11:03Z"
-    },
-    {
-      "host": "23.227.39.147",
-      "ip": "23.227.39.147",
+      "host": "23.227.39.144",
+      "ip": "23.227.39.144",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
       "city": "Ottawa",
-      "checks_up": 8646,
-      "checks_down": 1146,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-07-05T06:11:02Z"
-    },
-    {
-      "host": "23.227.39.161",
-      "ip": "23.227.39.161",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "city": "Ottawa",
-      "checks_up": 7891,
-      "checks_down": 1156,
+      "checks_up": 8549,
+      "checks_down": 1182,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -84,7 +41,28 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 87,
-      "last_seen": "2026-07-05T06:11:02Z"
+      "last_seen": "2026-07-06T06:41:04Z"
+    },
+    {
+      "host": "23.227.38.169",
+      "ip": "23.227.38.169",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 14616,
+      "checks_down": 1299,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-07-06T06:41:04Z"
     }
   ]
 }

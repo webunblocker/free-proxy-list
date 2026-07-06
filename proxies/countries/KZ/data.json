@@ -1,15 +1,14 @@
 {
   "data": [
     {
-      "host": "185.176.26.45",
-      "ip": "185.176.26.45",
+      "host": "31.43.179.161",
+      "ip": "31.43.179.161",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "city": "Almaty",
-      "checks_up": 635,
-      "checks_down": 61,
+      "checks_up": 11832,
+      "checks_down": 1353,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,40 +18,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-07-05T06:12:03Z"
+      "uptime": 89,
+      "last_seen": "2026-07-06T06:42:02Z"
     },
     {
-      "host": "185.176.26.197",
-      "ip": "185.176.26.197",
+      "host": "31.43.179.99",
+      "ip": "31.43.179.99",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "city": "Almaty",
-      "checks_up": 595,
-      "checks_down": 50,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 92,
-      "last_seen": "2026-07-05T06:11:02Z"
-    },
-    {
-      "host": "31.43.179.76",
-      "ip": "31.43.179.76",
-      "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 12798,
-      "checks_down": 1343,
+      "checks_up": 12713,
+      "checks_down": 1355,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -63,28 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-05T06:11:02Z"
-    },
-    {
-      "host": "31.43.179.197",
-      "ip": "31.43.179.197",
-      "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 12759,
-      "checks_down": 1354,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-05T06:11:02Z"
+      "last_seen": "2026-07-06T06:41:04Z"
     }
   ]
 }

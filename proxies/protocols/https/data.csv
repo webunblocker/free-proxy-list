@@ -1,4 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-139.167.218.162,3127,IN,India,Bulandshahr,,,,,HTTP|HTTPS,Anonymous,72,900,2026-07-05T06:11:55Z
-81.19.210.10,80,GB,United Kingdom,City of London,,,,,HTTP|HTTPS,Anonymous,72,400,2026-07-05T06:11:43Z
-212.58.132.5,8888,US,United States,,,,,,HTTP|HTTPS,Anonymous,75,740,2026-07-05T06:10:54Z

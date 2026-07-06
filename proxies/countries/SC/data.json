@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "62.72.166.46",
-      "ip": "62.72.166.46",
+      "host": "154.197.75.80",
+      "ip": "154.197.75.80",
       "port": 80,
       "delay": 20,
-      "country_code": "JO",
-      "country_name": "Jordan",
-      "checks_up": 150,
-      "checks_down": 0,
+      "country_code": "SC",
+      "country_name": "Seychelles",
+      "checks_up": 5370,
+      "checks_down": 1249,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-05T06:12:03Z"
+      "uptime": 81,
+      "last_seen": "2026-07-06T06:41:04Z"
     }
   ]
 }

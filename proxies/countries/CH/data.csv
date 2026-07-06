@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.18.250.77,80,CH,Switzerland,,,,,,HTTP,Anonymous,100,20,2026-07-05T06:12:03Z
