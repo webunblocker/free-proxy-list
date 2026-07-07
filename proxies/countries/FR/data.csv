@@ -1,4 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-173.245.49.173,80,FR,France,Paris,,,,,HTTP,Anonymous,88,20,2026-07-06T06:42:03Z
-173.245.49.143,80,FR,France,Paris,,,,,HTTP,Anonymous,88,20,2026-07-06T06:42:03Z
-173.245.49.138,80,FR,France,Paris,,,,,HTTP,Anonymous,88,20,2026-07-06T06:41:04Z
+173.245.49.51,80,FR,France,Paris,,,,,HTTP,Anonymous,93,20,2026-07-07T06:12:03Z

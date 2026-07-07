@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-206.238.236.249,80,SG,Singapore,Singapore,,,,,HTTP,Anonymous,61,20,2026-07-06T06:42:05Z
-206.238.237.153,80,SG,Singapore,Singapore,,,,,HTTP,Anonymous,86,20,2026-07-06T06:42:03Z
+154.194.12.41,80,SG,Singapore,Singapore,,,,,HTTP,Anonymous,100,20,2026-07-07T06:12:02Z

@@ -1,0 +1,4 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+62.72.166.114,80,JO,Jordan,,,,,,HTTP,Anonymous,100,20,2026-07-07T06:12:03Z
+62.72.166.152,80,JO,Jordan,,,,,,HTTP,Anonymous,100,20,2026-07-07T06:12:03Z
+62.72.166.80,80,JO,Jordan,,,,,,HTTP,Anonymous,100,20,2026-07-07T06:12:02Z

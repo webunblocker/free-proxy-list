@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "host": "89.116.250.76",
+      "ip": "89.116.250.76",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "checks_up": 488,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-07T06:12:04Z"
+    },
+    {
+      "host": "89.116.250.48",
+      "ip": "89.116.250.48",
+      "port": 80,
+      "delay": 20,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "checks_up": 342,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-07T06:12:02Z"
+    }
+  ]
+}
