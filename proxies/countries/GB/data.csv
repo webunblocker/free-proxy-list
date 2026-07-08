@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.193.28.64,80,GB,United Kingdom,,,,,,HTTP,Anonymous,99,20,2026-07-07T06:12:02Z

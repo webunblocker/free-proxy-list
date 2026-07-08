@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.238.228.51",
-      "ip": "185.238.228.51",
+      "host": "185.238.228.211",
+      "ip": "185.238.228.211",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11928,
-      "checks_down": 1329,
+      "checks_up": 11990,
+      "checks_down": 1347,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-07-07T06:12:03Z"
+      "last_seen": "2026-07-08T05:26:05Z"
     },
     {
-      "host": "185.238.228.38",
-      "ip": "185.238.228.38",
+      "host": "185.238.228.129",
+      "ip": "185.238.228.129",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 11445,
-      "checks_down": 1330,
+      "checks_up": 12600,
+      "checks_down": 1354,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,18 +39,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-07T06:12:03Z"
+      "uptime": 90,
+      "last_seen": "2026-07-08T05:26:05Z"
     },
     {
-      "host": "185.238.228.152",
-      "ip": "185.238.228.152",
+      "host": "185.238.228.181",
+      "ip": "185.238.228.181",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 12019,
-      "checks_down": 1378,
+      "checks_up": 11954,
+      "checks_down": 1352,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,7 +61,28 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-07-07T06:12:02Z"
+      "last_seen": "2026-07-08T05:26:04Z"
+    },
+    {
+      "host": "185.238.228.245",
+      "ip": "185.238.228.245",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ES",
+      "country_name": "Spain",
+      "checks_up": 11930,
+      "checks_down": 1364,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-07-08T05:26:03Z"
     }
   ]
 }
