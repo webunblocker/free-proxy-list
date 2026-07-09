@@ -1,14 +1,13 @@
 {
   "data": [
     {
-      "host": "206.238.236.175",
-      "ip": "206.238.236.175",
+      "host": "160.123.255.145",
+      "ip": "160.123.255.145",
       "port": 80,
       "delay": 20,
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "city": "Singapore",
-      "checks_up": 222,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 401,
       "checks_down": 0,
       "anon": 3,
       "http": 1,

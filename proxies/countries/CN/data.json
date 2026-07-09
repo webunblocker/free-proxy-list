@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "39.175.75.53",
+      "ip": "39.175.75.53",
+      "port": 30001,
+      "delay": 1080,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 282,
+      "checks_down": 102,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 73,
+      "last_seen": "2026-07-09T06:11:06Z"
+    }
+  ]
+}
