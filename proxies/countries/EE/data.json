@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "5.45.118.209",
+      "ip": "5.45.118.209",
+      "port": 1080,
+      "delay": 760,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "city": "J?hvi",
+      "checks_up": 389,
+      "checks_down": 81,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 82,
+      "last_seen": "2026-07-10T06:05:07Z"
+    }
+  ]
+}

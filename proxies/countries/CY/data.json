@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "92.118.234.124",
+      "ip": "92.118.234.124",
+      "port": 1080,
+      "delay": 3840,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "checks_up": 115,
+      "checks_down": 115,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 50,
+      "last_seen": "2026-07-10T06:05:25Z"
+    }
+  ]
+}

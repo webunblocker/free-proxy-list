@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "host": "8.216.32.38",
+      "ip": "8.216.32.38",
+      "port": 1080,
+      "delay": 1840,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 252,
+      "checks_down": 67,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 78,
+      "last_seen": "2026-07-10T06:05:15Z"
+    }
+  ]
+}

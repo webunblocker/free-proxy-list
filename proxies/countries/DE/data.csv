@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-190.93.246.9,80,CR,Costa Rica,,,,,,HTTP,Anonymous,92,20,2026-07-09T06:12:02Z
+157.90.183.51,5555,DE,Germany,Falkenstein,,,,,SOCKS5,Elite,100,740,2026-07-10T06:05:06Z

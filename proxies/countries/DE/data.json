@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "157.90.183.51",
+      "ip": "157.90.183.51",
+      "port": 5555,
+      "delay": 740,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "city": "Falkenstein",
+      "checks_up": 252,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-07-10T06:05:06Z"
+    }
+  ]
+}

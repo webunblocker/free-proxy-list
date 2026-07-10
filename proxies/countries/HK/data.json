@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "103.117.120.10",
+      "ip": "103.117.120.10",
+      "port": 5555,
+      "delay": 5100,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "checks_up": 87,
+      "checks_down": 63,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 57,
+      "last_seen": "2026-07-10T06:05:20Z"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "62.72.166.235",
-      "ip": "62.72.166.235",
+      "host": "62.72.166.129",
+      "ip": "62.72.166.129",
       "port": 80,
       "delay": 20,
       "country_code": "JO",
       "country_name": "Jordan",
-      "checks_up": 182,
+      "checks_up": 519,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,28 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-09T06:12:03Z"
-    },
-    {
-      "host": "62.72.166.182",
-      "ip": "62.72.166.182",
-      "port": 80,
-      "delay": 20,
-      "country_code": "JO",
-      "country_name": "Jordan",
-      "checks_up": 142,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-09T06:12:01Z"
+      "last_seen": "2026-07-10T06:06:02Z"
     }
   ]
 }
