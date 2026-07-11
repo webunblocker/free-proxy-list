@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.227.195.121,8082,BR,Brazil,Conc?rdia,,,,,HTTP,Anonymous,6,5100,2026-07-10T06:06:29Z
-131.161.68.41,35944,BR,Brazil,Rio de Janeiro,,,,,SOCKS4,Elite,23,680,2026-07-10T06:06:19Z

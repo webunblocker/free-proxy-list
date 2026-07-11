@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "45.12.31.128",
-      "ip": "45.12.31.128",
+      "host": "45.12.31.156",
+      "ip": "45.12.31.156",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 14322,
+      "checks_up": 14340,
       "checks_down": 1423,
       "anon": 3,
       "http": 1,
@@ -19,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-10T06:06:04Z"
+      "last_seen": "2026-07-11T05:16:03Z"
     },
     {
-      "host": "45.12.31.102",
-      "ip": "45.12.31.102",
+      "host": "45.12.31.140",
+      "ip": "45.12.31.140",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 14292,
-      "checks_down": 1397,
+      "checks_up": 14702,
+      "checks_down": 1394,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,17 +40,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-07-10T06:06:04Z"
+      "last_seen": "2026-07-11T05:15:05Z"
     },
     {
-      "host": "45.12.31.178",
-      "ip": "45.12.31.178",
+      "host": "45.85.119.117",
+      "ip": "45.85.119.117",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 14381,
-      "checks_down": 1372,
+      "checks_up": 9058,
+      "checks_down": 1305,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,8 +60,29 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-07-10T06:06:02Z"
+      "uptime": 87,
+      "last_seen": "2026-07-11T05:15:03Z"
+    },
+    {
+      "host": "45.85.118.196",
+      "ip": "45.85.118.196",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RO",
+      "country_name": "Romania",
+      "checks_up": 8929,
+      "checks_down": 1252,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 87,
+      "last_seen": "2026-07-11T05:15:03Z"
     }
   ]
 }

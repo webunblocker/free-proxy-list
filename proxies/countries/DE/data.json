@@ -1,26 +1,25 @@
 {
   "data": [
     {
-      "host": "157.90.183.51",
-      "ip": "157.90.183.51",
-      "port": 5555,
-      "delay": 740,
+      "host": "45.80.111.152",
+      "ip": "45.80.111.152",
+      "port": 80,
+      "delay": 20,
       "country_code": "DE",
       "country_name": "Germany",
-      "city": "Falkenstein",
-      "checks_up": 252,
-      "checks_down": 0,
-      "anon": 4,
-      "http": 0,
+      "checks_up": 620,
+      "checks_down": 4,
+      "anon": 3,
+      "http": 1,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "HTTP"
       ],
-      "anonymity_level": "Elite",
-      "uptime": 100,
-      "last_seen": "2026-07-10T06:05:06Z"
+      "anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-07-11T05:15:03Z"
     }
   ]
 }

@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-160.123.255.253,80,ZA,South Africa,,,,,,HTTP,Anonymous,100,20,2026-07-10T06:06:04Z
-102.177.176.244,80,ZA,South Africa,,,,,,HTTP,Anonymous,100,20,2026-07-10T06:06:04Z

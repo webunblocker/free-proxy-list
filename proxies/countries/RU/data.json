@@ -1,16 +1,15 @@
 {
   "data": [
     {
-      "host": "95.66.138.21",
-      "ip": "95.66.138.21",
-      "port": 8880,
-      "delay": 640,
+      "host": "185.148.106.15",
+      "ip": "185.148.106.15",
+      "port": 80,
+      "delay": 20,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "city": "Vladimir",
-      "checks_up": 561,
-      "checks_down": 242,
-      "anon": 4,
+      "checks_up": 167,
+      "checks_down": 0,
+      "anon": 3,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -18,31 +17,9 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-07-10T06:06:04Z"
-    },
-    {
-      "host": "89.169.168.25",
-      "ip": "89.169.168.25",
-      "port": 6101,
-      "delay": 5100,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 282,
-      "checks_down": 83,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 77,
-      "last_seen": "2026-07-10T06:05:26Z"
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-11T05:16:03Z"
     }
   ]
 }
