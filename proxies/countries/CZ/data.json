@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "host": "195.85.23.76",
+      "ip": "195.85.23.76",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 635,
+      "checks_down": 3,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-07-12T05:32:04Z"
+    },
+    {
+      "host": "195.85.23.206",
+      "ip": "195.85.23.206",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 329,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-12T05:32:04Z"
+    },
+    {
+      "host": "195.85.23.93",
+      "ip": "195.85.23.93",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 246,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-12T05:32:03Z"
+    },
+    {
+      "host": "195.85.23.196",
+      "ip": "195.85.23.196",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 247,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-12T05:32:03Z"
+    },
+    {
+      "host": "195.85.23.66",
+      "ip": "195.85.23.66",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 247,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-12T05:32:03Z"
+    },
+    {
+      "host": "195.85.23.229",
+      "ip": "195.85.23.229",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 247,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-12T05:31:05Z"
+    }
+  ]
+}

@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "154.197.75.29",
-      "ip": "154.197.75.29",
+      "host": "188.42.89.173",
+      "ip": "188.42.89.173",
       "port": 80,
       "delay": 20,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 715,
-      "checks_down": 174,
+      "country_code": "LU",
+      "country_name": "Luxembourg",
+      "checks_up": 428,
+      "checks_down": 1,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 80,
-      "last_seen": "2026-07-11T05:16:03Z"
+      "uptime": 99,
+      "last_seen": "2026-07-12T05:32:03Z"
     }
   ]
 }
