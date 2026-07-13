@@ -1,4 +1,3 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.8.211.90,80,RU,Russian Federation,,,,,,HTTP,Anonymous,87,20,2026-07-12T05:32:04Z
-45.8.211.113,80,RU,Russian Federation,,,,,,HTTP,Anonymous,87,20,2026-07-12T05:32:03Z
-185.148.105.180,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-07-12T05:32:03Z
+45.8.211.33,80,RU,Russian Federation,,,,,,HTTP,Anonymous,80,20,2026-07-13T05:41:04Z
+45.8.211.177,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-07-13T05:41:04Z

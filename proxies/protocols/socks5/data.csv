@@ -1,1 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+82.193.116.160,21003,UA,Ukraine,Kyiv,,,,,SOCKS5,Elite,61,1000,2026-07-13T05:42:19Z
+103.121.120.242,1080,PK,Pakistan,,,,,,SOCKS5,Elite,57,5100,2026-07-13T05:42:17Z
+92.118.234.124,1080,CY,Cyprus,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,53,920,2026-07-13T05:42:10Z

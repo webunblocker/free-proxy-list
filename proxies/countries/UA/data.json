@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "82.193.116.160",
+      "ip": "82.193.116.160",
+      "port": 21003,
+      "delay": 1000,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Kyiv",
+      "checks_up": 330,
+      "checks_down": 207,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 61,
+      "last_seen": "2026-07-13T05:42:19Z"
+    }
+  ]
+}

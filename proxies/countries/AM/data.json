@@ -1,119 +1,14 @@
 {
   "data": [
     {
-      "host": "185.162.228.205",
-      "ip": "185.162.228.205",
+      "host": "185.162.228.143",
+      "ip": "185.162.228.143",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14285,
-      "checks_down": 1415,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-12T05:32:04Z"
-    },
-    {
-      "host": "185.162.228.218",
-      "ip": "185.162.228.218",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14267,
-      "checks_down": 1430,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-12T05:32:04Z"
-    },
-    {
-      "host": "185.162.230.9",
-      "ip": "185.162.230.9",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 7549,
-      "checks_down": 1268,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 85,
-      "last_seen": "2026-07-12T05:32:04Z"
-    },
-    {
-      "host": "185.162.230.123",
-      "ip": "185.162.230.123",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14239,
-      "checks_down": 1441,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-12T05:32:03Z"
-    },
-    {
-      "host": "185.162.228.237",
-      "ip": "185.162.228.237",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 12032,
-      "checks_down": 1385,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-12T05:32:03Z"
-    },
-    {
-      "host": "185.162.229.99",
-      "ip": "185.162.229.99",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14469,
-      "checks_down": 1406,
+      "checks_up": 14299,
+      "checks_down": 1413,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -124,16 +19,16 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "last_seen": "2026-07-13T05:42:04Z"
     },
     {
-      "host": "185.162.231.130",
-      "ip": "185.162.231.130",
+      "host": "185.162.231.87",
+      "ip": "185.162.231.87",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14206,
+      "checks_up": 14479,
       "checks_down": 1464,
       "anon": 3,
       "http": 1,
@@ -145,17 +40,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "last_seen": "2026-07-13T05:42:03Z"
     },
     {
-      "host": "185.162.228.140",
-      "ip": "185.162.228.140",
+      "host": "185.162.230.240",
+      "ip": "185.162.230.240",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14137,
-      "checks_down": 1412,
+      "checks_up": 7568,
+      "checks_down": 1268,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -165,18 +60,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "uptime": 85,
+      "last_seen": "2026-07-13T05:41:05Z"
     },
     {
-      "host": "185.162.228.251",
-      "ip": "185.162.228.251",
+      "host": "185.162.231.52",
+      "ip": "185.162.231.52",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14442,
-      "checks_down": 1397,
+      "checks_up": 14304,
+      "checks_down": 1410,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -187,17 +82,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "last_seen": "2026-07-13T05:41:05Z"
     },
     {
-      "host": "185.162.228.20",
-      "ip": "185.162.228.20",
+      "host": "185.162.230.120",
+      "ip": "185.162.230.120",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14270,
-      "checks_down": 1441,
+      "checks_up": 14336,
+      "checks_down": 1432,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -208,17 +103,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "last_seen": "2026-07-13T05:41:04Z"
     },
     {
-      "host": "185.162.228.110",
-      "ip": "185.162.228.110",
+      "host": "185.162.231.50",
+      "ip": "185.162.231.50",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 12680,
-      "checks_down": 1331,
+      "checks_up": 14285,
+      "checks_down": 1434,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -229,17 +124,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "last_seen": "2026-07-13T05:41:03Z"
     },
     {
-      "host": "185.162.230.220",
-      "ip": "185.162.230.220",
+      "host": "185.162.229.177",
+      "ip": "185.162.229.177",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14353,
-      "checks_down": 1425,
+      "checks_up": 14286,
+      "checks_down": 1423,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -250,7 +145,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-12T05:32:03Z"
+      "last_seen": "2026-07-13T05:41:03Z"
     }
   ]
 }
