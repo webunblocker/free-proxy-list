@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "host": "196.1.97.198",
+      "ip": "196.1.97.198",
+      "port": 80,
+      "delay": 1660,
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "checks_up": 780,
+      "checks_down": 846,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 47,
+      "last_seen": "2026-07-14T05:02:15Z"
+    },
+    {
+      "host": "196.1.93.10",
+      "ip": "196.1.93.10",
+      "port": 80,
+      "delay": 680,
+      "country_code": "SN",
+      "country_name": "Senegal",
+      "city": "Dakar",
+      "checks_up": 597,
+      "checks_down": 1027,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 36,
+      "last_seen": "2026-07-14T05:01:15Z"
+    }
+  ]
+}
