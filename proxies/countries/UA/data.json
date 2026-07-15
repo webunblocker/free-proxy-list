@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "176.111.37.216",
+      "ip": "176.111.37.216",
+      "port": 39811,
+      "delay": 700,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Dobropol'ye",
+      "checks_up": 1118,
+      "checks_down": 66,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 94,
+      "last_seen": "2026-07-15T05:06:14Z"
+    }
+  ]
+}

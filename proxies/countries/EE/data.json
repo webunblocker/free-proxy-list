@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "154.197.75.58",
-      "ip": "154.197.75.58",
+      "host": "45.80.108.245",
+      "ip": "45.80.108.245",
       "port": 80,
       "delay": 20,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 293,
-      "checks_down": 56,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "checks_up": 444,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 83,
-      "last_seen": "2026-07-15T05:05:04Z"
+      "uptime": 100,
+      "last_seen": "2026-07-15T05:06:03Z"
     }
   ]
 }

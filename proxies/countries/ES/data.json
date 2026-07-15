@@ -1,15 +1,14 @@
 {
   "data": [
     {
-      "host": "173.245.49.246",
-      "ip": "173.245.49.246",
+      "host": "185.238.228.60",
+      "ip": "185.238.228.60",
       "port": 80,
       "delay": 20,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Paris",
-      "checks_up": 9224,
-      "checks_down": 1138,
+      "country_code": "ES",
+      "country_name": "Spain",
+      "checks_up": 11959,
+      "checks_down": 1352,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -20,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-07-15T05:05:03Z"
+      "last_seen": "2026-07-15T05:06:02Z"
     }
   ]
 }
