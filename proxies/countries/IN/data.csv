@@ -1,0 +1,7 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+117.236.124.166,3128,IN,India,,,,,,HTTP|HTTPS,Elite,91,900,2026-07-16T05:10:33Z
+122.160.30.99,80,IN,India,Faridabad,,,,,HTTP,Elite,31,1060,2026-07-16T05:10:32Z
+27.34.242.98,80,IN,India,Bengaluru,,,,,HTTP,Anonymous,88,1100,2026-07-16T05:10:23Z
+103.51.223.133,8080,IN,India,,,,,,HTTP,Elite,86,1100,2026-07-16T05:10:23Z
+175.101.240.38,80,IN,India,,,,,,HTTP,Elite,41,1020,2026-07-16T05:10:23Z
+103.227.210.95,8443,IN,India,,,,,,HTTP,Elite,89,920,2026-07-16T05:10:23Z

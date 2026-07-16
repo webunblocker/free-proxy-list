@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "117.236.124.166",
+      "ip": "117.236.124.166",
+      "port": 3128,
+      "delay": 900,
+      "country_code": "IN",
+      "country_name": "India",
+      "checks_up": 651,
+      "checks_down": 59,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 91,
+      "last_seen": "2026-07-16T05:10:33Z"
+    }
+  ]
 }

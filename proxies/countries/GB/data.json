@@ -1,15 +1,14 @@
 {
   "data": [
     {
-      "host": "5.10.245.141",
-      "ip": "5.10.245.141",
+      "host": "185.193.29.124",
+      "ip": "185.193.29.124",
       "port": 80,
       "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "city": "London",
-      "checks_up": 6436,
-      "checks_down": 1272,
+      "checks_up": 2504,
+      "checks_down": 1244,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,71 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 83,
-      "last_seen": "2026-07-15T05:05:03Z"
-    },
-    {
-      "host": "185.170.166.15",
-      "ip": "185.170.166.15",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 9086,
-      "checks_down": 1284,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-15T05:05:03Z"
-    },
-    {
-      "host": "185.170.166.93",
-      "ip": "185.170.166.93",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 9137,
-      "checks_down": 1271,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-15T05:05:03Z"
-    },
-    {
-      "host": "185.170.166.64",
-      "ip": "185.170.166.64",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 9185,
-      "checks_down": 1267,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-15T05:05:02Z"
+      "uptime": 66,
+      "last_seen": "2026-07-16T05:09:04Z"
     }
   ]
 }
