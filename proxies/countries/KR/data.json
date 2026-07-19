@@ -1,25 +1,26 @@
 {
   "data": [
     {
-      "host": "183.110.216.159",
-      "ip": "183.110.216.159",
-      "port": 8091,
-      "delay": 1720,
+      "host": "218.52.249.121",
+      "ip": "218.52.249.121",
+      "port": 1080,
+      "delay": 1060,
       "country_code": "KR",
       "country_name": "Korea",
-      "checks_up": 460,
-      "checks_down": 348,
-      "anon": 2,
-      "http": 1,
+      "city": "Bupyeong-gu",
+      "checks_up": 290,
+      "checks_down": 76,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 56,
-      "last_seen": "2026-07-18T05:01:09Z"
+      "anonymity_level": "Elite",
+      "uptime": 79,
+      "last_seen": "2026-07-19T05:26:27Z"
     }
   ]
 }

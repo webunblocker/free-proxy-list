@@ -1,0 +1,3 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+89.169.168.25,6101,RU,Russian Federation,,,,,,SOCKS5,Elite,76,5020,2026-07-19T05:26:42Z
+194.59.186.35,1080,RU,Russian Federation,,,,,,SOCKS4|SOCKS5,Elite,86,660,2026-07-19T05:26:26Z

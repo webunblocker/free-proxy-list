@@ -1,3 +1,73 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "45.76.223.103",
+      "ip": "45.76.223.103",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Minamishinagawa",
+      "checks_up": 60,
+      "checks_down": 53,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS",
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 53,
+      "last_seen": "2026-07-19T05:26:54Z"
+    },
+    {
+      "host": "81.168.119.85",
+      "ip": "81.168.119.85",
+      "port": 443,
+      "delay": 520,
+      "country_code": "GB",
+      "country_name": "United Kingdom",
+      "checks_up": 795,
+      "checks_down": 65,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "HTTPS",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 92,
+      "last_seen": "2026-07-19T05:26:40Z"
+    },
+    {
+      "host": "92.118.234.124",
+      "ip": "92.118.234.124",
+      "port": 1080,
+      "delay": 2700,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "checks_up": 215,
+      "checks_down": 136,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 61,
+      "last_seen": "2026-07-19T05:26:37Z"
+    }
+  ]
 }

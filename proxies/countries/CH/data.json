@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "188.42.88.223",
-      "ip": "188.42.88.223",
+      "host": "185.18.250.203",
+      "ip": "185.18.250.203",
       "port": 80,
       "delay": 20,
-      "country_code": "LU",
-      "country_name": "Luxembourg",
-      "checks_up": 477,
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "checks_up": 448,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-18T05:02:04Z"
+      "last_seen": "2026-07-19T05:26:05Z"
     }
   ]
 }

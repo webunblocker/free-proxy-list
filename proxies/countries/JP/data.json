@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "host": "45.76.223.103",
+      "ip": "45.76.223.103",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Minamishinagawa",
+      "checks_up": 60,
+      "checks_down": 53,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS",
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 53,
+      "last_seen": "2026-07-19T05:26:54Z"
+    },
+    {
+      "host": "8.216.32.38",
+      "ip": "8.216.32.38",
+      "port": 1080,
+      "delay": 2060,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 322,
+      "checks_down": 81,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 79,
+      "last_seen": "2026-07-19T05:26:28Z"
+    },
+    {
+      "host": "34.84.162.206",
+      "ip": "34.84.162.206",
+      "port": 38081,
+      "delay": 1300,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 206,
+      "checks_down": 204,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 50,
+      "last_seen": "2026-07-19T05:26:05Z"
+    }
+  ]
+}

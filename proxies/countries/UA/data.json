@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "212.3.127.242",
+      "ip": "212.3.127.242",
+      "port": 10801,
+      "delay": 1920,
+      "country_code": "UA",
+      "country_name": "Ukraine",
+      "city": "Dnipro",
+      "checks_up": 52,
+      "checks_down": 61,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 46,
+      "last_seen": "2026-07-19T05:26:41Z"
+    }
+  ]
+}

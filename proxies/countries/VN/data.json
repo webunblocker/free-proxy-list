@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "118.70.67.11",
+      "ip": "118.70.67.11",
+      "port": 1080,
+      "delay": 2320,
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "city": "Hanoi",
+      "checks_up": 97,
+      "checks_down": 111,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 46,
+      "last_seen": "2026-07-19T05:26:41Z"
+    }
+  ]
+}

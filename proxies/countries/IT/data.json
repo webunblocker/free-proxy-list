@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "212.77.75.25",
+      "ip": "212.77.75.25",
+      "port": 1088,
+      "delay": 1160,
+      "country_code": "IT",
+      "country_name": "Italy",
+      "checks_up": 262,
+      "checks_down": 2,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 99,
+      "last_seen": "2026-07-19T05:26:27Z"
+    }
+  ]
+}
