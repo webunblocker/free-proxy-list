@@ -1,7 +1,9 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-213.176.113.24,50001,NL,Netherlands,Amsterdam,,,,,SOCKS4|SOCKS5,Elite,90,1480,2026-07-19T05:26:30Z
-45.131.4.177,80,NL,Netherlands,,,,,,HTTP,Anonymous,88,20,2026-07-19T05:26:04Z
-45.131.7.253,80,NL,Netherlands,,,,,,HTTP,Anonymous,88,20,2026-07-19T05:26:04Z
-45.131.4.74,80,NL,Netherlands,,,,,,HTTP,Anonymous,89,20,2026-07-19T05:26:04Z
-45.131.7.18,80,NL,Netherlands,,,,,,HTTP,Anonymous,88,20,2026-07-19T05:26:03Z
-45.131.5.226,80,NL,Netherlands,,,,,,HTTP,Anonymous,88,20,2026-07-19T05:26:03Z
+188.114.97.19,80,NL,Netherlands,Amsterdam,,,,,HTTP,Anonymous,90,0,2026-07-20T05:42:04Z
+45.131.6.165,80,NL,Netherlands,,,,,,HTTP,Anonymous,85,20,2026-07-20T05:42:03Z
+45.131.7.23,80,NL,Netherlands,,,,,,HTTP,Anonymous,85,20,2026-07-20T05:42:03Z
+45.131.4.40,80,NL,Netherlands,,,,,,HTTP,Anonymous,88,20,2026-07-20T05:42:03Z
+45.131.211.163,80,NL,Netherlands,,,,,,HTTP,Anonymous,100,20,2026-07-20T05:42:02Z
+194.152.44.29,80,NL,Netherlands,,,,,,HTTP,Anonymous,100,20,2026-07-20T05:42:02Z
+45.131.210.23,80,NL,Netherlands,,,,,,HTTP,Anonymous,100,20,2026-07-20T05:41:06Z
+188.114.97.1,80,NL,Netherlands,Amsterdam,,,,,HTTP,Anonymous,89,0,2026-07-20T05:41:04Z

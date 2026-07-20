@@ -1,4 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.76.223.103,1080,JP,Japan,Minamishinagawa,,,,,HTTPS|SOCKS4,Elite,53,5100,2026-07-19T05:26:54Z
-81.168.119.85,443,GB,United Kingdom,,,,,,HTTPS|SOCKS5,Elite,92,520,2026-07-19T05:26:40Z
-92.118.234.124,1080,CY,Cyprus,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,61,2700,2026-07-19T05:26:37Z

@@ -1,34 +1,13 @@
 {
   "data": [
     {
-      "host": "23.227.38.27",
-      "ip": "23.227.38.27",
+      "host": "23.227.38.252",
+      "ip": "23.227.38.252",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14734,
-      "checks_down": 1299,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-07-19T05:26:04Z"
-    },
-    {
-      "host": "23.227.38.57",
-      "ip": "23.227.38.57",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14835,
+      "checks_up": 14672,
       "checks_down": 1308,
       "anon": 3,
       "http": 1,
@@ -40,28 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-07-19T05:26:04Z"
-    },
-    {
-      "host": "23.227.38.138",
-      "ip": "23.227.38.138",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14894,
-      "checks_down": 1280,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 92,
-      "last_seen": "2026-07-19T05:26:03Z"
+      "last_seen": "2026-07-20T05:42:04Z"
     }
   ]
 }

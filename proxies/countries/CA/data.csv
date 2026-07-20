@@ -1,4 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-23.227.38.27,80,CA,Canada,,,,,,HTTP,Anonymous,91,20,2026-07-19T05:26:04Z
-23.227.38.57,80,CA,Canada,,,,,,HTTP,Anonymous,91,20,2026-07-19T05:26:04Z
-23.227.38.138,80,CA,Canada,,,,,,HTTP,Anonymous,92,20,2026-07-19T05:26:03Z
+23.227.38.252,80,CA,Canada,,,,,,HTTP,Anonymous,91,20,2026-07-20T05:42:04Z
