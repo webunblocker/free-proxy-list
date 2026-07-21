@@ -1,34 +1,35 @@
 {
   "data": [
     {
-      "host": "160.123.255.88",
-      "ip": "160.123.255.88",
-      "port": 80,
-      "delay": 20,
+      "host": "168.253.92.93",
+      "ip": "168.253.92.93",
+      "port": 10808,
+      "delay": 2780,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 132,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
+      "city": "Rustenburg",
+      "checks_up": 256,
+      "checks_down": 651,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-20T05:42:02Z"
+      "anonymity_level": "Elite",
+      "uptime": 28,
+      "last_seen": "2026-07-21T05:26:14Z"
     },
     {
-      "host": "102.177.176.220",
-      "ip": "102.177.176.220",
+      "host": "160.123.255.142",
+      "ip": "160.123.255.142",
       "port": 80,
       "delay": 20,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 131,
+      "checks_up": 138,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -40,7 +41,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-20T05:42:02Z"
+      "last_seen": "2026-07-21T05:26:04Z"
     }
   ]
 }

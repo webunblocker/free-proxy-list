@@ -1,2 +1,6 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-206.123.156.231,15316,IR,Iran,,,,,,SOCKS5,Elite,15,5100,2026-07-20T05:41:24Z
+203.189.135.73,1080,KH,Cambodia,Phnom Penh,,,,,SOCKS5,Elite,29,5100,2026-07-21T05:26:21Z
+160.250.54.5,9000,VN,Vietnam,,,,,,SOCKS4|SOCKS5,Elite,28,5100,2026-07-21T05:26:21Z
+115.127.53.114,1080,BD,Bangladesh,Dhaka,,,,,SOCKS5,Elite,43,4600,2026-07-21T05:26:18Z
+168.253.92.93,10808,ZA,South Africa,Rustenburg,,,,,SOCKS5,Elite,28,2780,2026-07-21T05:26:14Z
+144.124.232.204,5222,NL,Netherlands,Amsterdam,,,,,SOCKS5,Elite,57,640,2026-07-21T05:26:04Z

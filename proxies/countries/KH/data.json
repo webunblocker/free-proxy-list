@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "203.189.135.73",
+      "ip": "203.189.135.73",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "KH",
+      "country_name": "Cambodia",
+      "city": "Phnom Penh",
+      "checks_up": 215,
+      "checks_down": 514,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 29,
+      "last_seen": "2026-07-21T05:26:21Z"
+    }
+  ]
+}
