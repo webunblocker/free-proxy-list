@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.80.110.115,80,EE,Estonia,,,,,,HTTP,Anonymous,100,20,2026-07-21T05:26:02Z
+103.103.8.222,8080,IN,India,Chengalpattu,,,,,HTTP,Anonymous,66,1760,2026-07-22T05:22:20Z

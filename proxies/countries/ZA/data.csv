@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-168.253.92.93,10808,ZA,South Africa,Rustenburg,,,,,SOCKS5,Elite,28,2780,2026-07-21T05:26:14Z
-160.123.255.142,80,ZA,South Africa,,,,,,HTTP,Anonymous,100,20,2026-07-21T05:26:04Z
+102.177.176.19,80,ZA,South Africa,,,,,,HTTP,Anonymous,100,40,2026-07-22T05:22:01Z

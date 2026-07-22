@@ -1,26 +1,3 @@
 {
-  "data": [
-    {
-      "host": "160.250.54.5",
-      "ip": "160.250.54.5",
-      "port": 9000,
-      "delay": 5100,
-      "country_code": "VN",
-      "country_name": "Vietnam",
-      "checks_up": 111,
-      "checks_down": 284,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 28,
-      "last_seen": "2026-07-21T05:26:21Z"
-    }
-  ]
+  "data": []
 }
