@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "65.108.203.37",
+      "ip": "65.108.203.37",
+      "port": 28080,
+      "delay": 720,
+      "country_code": "FI",
+      "country_name": "Finland",
+      "city": "Helsinki",
+      "checks_up": 106,
+      "checks_down": 966,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 9,
+      "last_seen": "2026-07-23T05:25:16Z"
+    }
+  ]
+}

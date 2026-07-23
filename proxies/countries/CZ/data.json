@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "102.177.176.19",
-      "ip": "102.177.176.19",
+      "host": "195.85.23.77",
+      "ip": "195.85.23.77",
       "port": 80,
-      "delay": 40,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 286,
+      "delay": 20,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 620,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-22T05:22:01Z"
+      "last_seen": "2026-07-23T05:26:03Z"
     }
   ]
 }

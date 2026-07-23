@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "206.238.236.127",
-      "ip": "206.238.236.127",
+      "host": "206.238.238.86",
+      "ip": "206.238.238.86",
       "port": 80,
       "delay": 20,
       "country_code": "SG",
       "country_name": "Singapore",
       "city": "Singapore",
-      "checks_up": 144,
+      "checks_up": 354,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -20,39 +20,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-22T05:22:03Z"
+      "last_seen": "2026-07-23T05:26:05Z"
     },
     {
-      "host": "206.238.239.185",
-      "ip": "206.238.239.185",
-      "port": 80,
-      "delay": 40,
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "city": "Singapore",
-      "checks_up": 409,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-22T05:22:01Z"
-    },
-    {
-      "host": "206.238.236.136",
-      "ip": "206.238.236.136",
+      "host": "206.238.237.230",
+      "ip": "206.238.237.230",
       "port": 80,
       "delay": 20,
       "country_code": "SG",
       "country_name": "Singapore",
       "city": "Singapore",
-      "checks_up": 280,
+      "checks_up": 355,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -64,7 +42,29 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-22T05:22:01Z"
+      "last_seen": "2026-07-23T05:26:05Z"
+    },
+    {
+      "host": "206.238.236.254",
+      "ip": "206.238.236.254",
+      "port": 80,
+      "delay": 20,
+      "country_code": "SG",
+      "country_name": "Singapore",
+      "city": "Singapore",
+      "checks_up": 3517,
+      "checks_down": 1267,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 73,
+      "last_seen": "2026-07-23T05:26:03Z"
     }
   ]
 }

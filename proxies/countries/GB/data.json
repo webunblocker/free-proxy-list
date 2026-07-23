@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.170.166.35",
-      "ip": "185.170.166.35",
+      "host": "185.170.166.19",
+      "ip": "185.170.166.19",
       "port": 80,
-      "delay": 40,
+      "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 9266,
-      "checks_down": 1256,
+      "checks_up": 9211,
+      "checks_down": 1268,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,18 +18,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-07-22T05:22:01Z"
+      "uptime": 87,
+      "last_seen": "2026-07-23T05:26:05Z"
     },
     {
-      "host": "185.193.31.238",
-      "ip": "185.193.31.238",
+      "host": "185.170.166.2",
+      "ip": "185.170.166.2",
       "port": 80,
-      "delay": 40,
+      "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 284,
-      "checks_down": 0,
+      "checks_up": 9135,
+      "checks_down": 1299,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,18 +39,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-22T05:22:01Z"
+      "uptime": 87,
+      "last_seen": "2026-07-23T05:26:05Z"
     },
     {
-      "host": "185.193.31.124",
-      "ip": "185.193.31.124",
+      "host": "91.193.59.217",
+      "ip": "91.193.59.217",
       "port": 80,
-      "delay": 40,
+      "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 150,
-      "checks_down": 0,
+      "checks_up": 751,
+      "checks_down": 68,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,18 +60,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-22T05:22:01Z"
+      "uptime": 91,
+      "last_seen": "2026-07-23T05:26:05Z"
     },
     {
-      "host": "194.36.55.150",
-      "ip": "194.36.55.150",
+      "host": "185.170.166.61",
+      "ip": "185.170.166.61",
       "port": 80,
-      "delay": 40,
+      "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 147,
-      "checks_down": 0,
+      "checks_up": 9227,
+      "checks_down": 1261,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -81,8 +81,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-22T05:22:01Z"
+      "uptime": 87,
+      "last_seen": "2026-07-23T05:26:03Z"
     }
   ]
 }
