@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "31.43.179.63",
-      "ip": "31.43.179.63",
+      "host": "45.80.108.120",
+      "ip": "45.80.108.120",
       "port": 80,
       "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 12263,
-      "checks_down": 1369,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "checks_up": 162,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-24T05:22:04Z"
+      "uptime": 100,
+      "last_seen": "2026-07-24T05:22:03Z"
     }
   ]
 }

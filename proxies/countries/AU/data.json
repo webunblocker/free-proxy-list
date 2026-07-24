@@ -1,34 +1,13 @@
 {
   "data": [
     {
-      "host": "185.146.173.43",
-      "ip": "185.146.173.43",
+      "host": "103.169.142.211",
+      "ip": "103.169.142.211",
       "port": 80,
       "delay": 20,
-      "country_code": "SE",
-      "country_name": "Sweden",
-      "checks_up": 734,
-      "checks_down": 43,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 94,
-      "last_seen": "2026-07-23T05:26:05Z"
-    },
-    {
-      "host": "185.146.173.241",
-      "ip": "185.146.173.241",
-      "port": 80,
-      "delay": 20,
-      "country_code": "SE",
-      "country_name": "Sweden",
-      "checks_up": 222,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 124,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -40,7 +19,28 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-23T05:26:05Z"
+      "last_seen": "2026-07-24T05:22:03Z"
+    },
+    {
+      "host": "103.169.142.150",
+      "ip": "103.169.142.150",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 293,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-24T05:21:06Z"
     }
   ]
 }
