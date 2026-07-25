@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "212.47.232.28",
+      "ip": "212.47.232.28",
+      "port": 80,
+      "delay": 420,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 1273,
+      "checks_down": 863,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 59,
+      "last_seen": "2026-07-25T05:16:14Z"
+    }
+  ]
+}

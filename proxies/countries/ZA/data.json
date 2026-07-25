@@ -1,33 +1,12 @@
 {
   "data": [
     {
-      "host": "45.12.31.230",
-      "ip": "45.12.31.230",
+      "host": "102.177.176.9",
+      "ip": "102.177.176.9",
       "port": 80,
       "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 14525,
-      "checks_down": 1427,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-07-25T05:16:04Z"
-    },
-    {
-      "host": "45.85.118.65",
-      "ip": "45.85.118.65",
-      "port": 80,
-      "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
+      "country_code": "ZA",
+      "country_name": "South Africa",
       "checks_up": 166,
       "checks_down": 0,
       "anon": 3,
@@ -40,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-25T05:16:04Z"
+      "last_seen": "2026-07-25T05:16:03Z"
     },
     {
-      "host": "45.12.30.253",
-      "ip": "45.12.30.253",
+      "host": "102.177.176.44",
+      "ip": "102.177.176.44",
       "port": 80,
       "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 14459,
-      "checks_down": 1409,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 164,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,17 +39,38 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-07-25T05:15:04Z"
+      "uptime": 100,
+      "last_seen": "2026-07-25T05:16:03Z"
     },
     {
-      "host": "45.85.118.147",
-      "ip": "45.85.118.147",
+      "host": "160.123.255.141",
+      "ip": "160.123.255.141",
       "port": 80,
       "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 176,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 168,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-07-25T05:16:03Z"
+    },
+    {
+      "host": "102.177.176.145",
+      "ip": "102.177.176.145",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 168,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
