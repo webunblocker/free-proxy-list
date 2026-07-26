@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "157.20.157.82",
+      "ip": "157.20.157.82",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Madiun",
+      "checks_up": 61,
+      "checks_down": 56,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 52,
+      "last_seen": "2026-07-26T05:36:26Z"
+    }
+  ]
+}

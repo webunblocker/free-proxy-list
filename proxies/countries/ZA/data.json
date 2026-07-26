@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "102.177.176.9",
-      "ip": "102.177.176.9",
+      "host": "102.177.176.189",
+      "ip": "102.177.176.189",
       "port": 80,
       "delay": 20,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 166,
+      "checks_up": 548,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,16 +19,16 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-25T05:16:03Z"
+      "last_seen": "2026-07-26T05:36:04Z"
     },
     {
-      "host": "102.177.176.44",
-      "ip": "102.177.176.44",
+      "host": "160.123.255.182",
+      "ip": "160.123.255.182",
       "port": 80,
       "delay": 20,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 164,
+      "checks_up": 362,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -40,49 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-25T05:16:03Z"
-    },
-    {
-      "host": "160.123.255.141",
-      "ip": "160.123.255.141",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 168,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-25T05:16:03Z"
-    },
-    {
-      "host": "102.177.176.145",
-      "ip": "102.177.176.145",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 168,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-25T05:15:04Z"
+      "last_seen": "2026-07-26T05:36:04Z"
     }
   ]
 }

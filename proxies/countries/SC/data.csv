@@ -1,4 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-154.83.2.113,80,SC,Seychelles,,,,,,HTTP,Anonymous,100,20,2026-07-25T05:16:03Z
-45.194.53.131,80,SC,Seychelles,,,,,,HTTP,Anonymous,100,20,2026-07-25T05:15:04Z
-45.194.53.130,80,SC,Seychelles,,,,,,HTTP,Anonymous,100,20,2026-07-25T05:15:04Z
+154.197.75.50,80,SC,Seychelles,,,,,,HTTP,Anonymous,100,20,2026-07-26T05:36:04Z
