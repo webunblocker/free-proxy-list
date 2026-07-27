@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "45.131.4.202",
-      "ip": "45.131.4.202",
+      "host": "safeselfieacademy.se",
+      "ip": "188.114.99.234",
       "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 3798,
-      "checks_down": 1285,
+      "city": "Amsterdam",
+      "checks_up": 6585,
+      "checks_down": 1159,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,18 +19,19 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 74,
-      "last_seen": "2026-07-26T05:36:04Z"
+      "uptime": 85,
+      "last_seen": "2026-07-27T05:56:03Z"
     },
     {
-      "host": "45.131.6.19",
-      "ip": "45.131.6.19",
+      "host": "188.114.96.70",
+      "ip": "188.114.96.70",
       "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 9916,
-      "checks_down": 1272,
+      "city": "Amsterdam",
+      "checks_up": 9434,
+      "checks_down": 1235,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,17 +42,18 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 88,
-      "last_seen": "2026-07-26T05:36:03Z"
+      "last_seen": "2026-07-27T05:56:03Z"
     },
     {
-      "host": "45.131.5.78",
-      "ip": "45.131.5.78",
+      "host": "160.153.0.18",
+      "ip": "160.153.0.18",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 9078,
-      "checks_down": 1276,
+      "city": "Amsterdam",
+      "checks_up": 8841,
+      "checks_down": 1261,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,7 +64,50 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 87,
-      "last_seen": "2026-07-26T05:36:03Z"
+      "last_seen": "2026-07-27T05:56:02Z"
+    },
+    {
+      "host": "188.114.96.72",
+      "ip": "188.114.96.72",
+      "port": 80,
+      "delay": 0,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "city": "Amsterdam",
+      "checks_up": 10802,
+      "checks_down": 1264,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-07-27T05:56:02Z"
+    },
+    {
+      "host": "194.152.44.135",
+      "ip": "194.152.44.135",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 2388,
+      "checks_down": 1279,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 65,
+      "last_seen": "2026-07-27T05:56:02Z"
     }
   ]
 }
