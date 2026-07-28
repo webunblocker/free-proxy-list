@@ -1,56 +1,14 @@
 {
   "data": [
     {
-      "host": "195.114.209.50",
-      "ip": "195.114.209.50",
-      "port": 80,
-      "delay": 5100,
-      "country_code": "ES",
-      "country_name": "Spain",
-      "checks_up": 22982,
-      "checks_down": 15029,
-      "anon": 4,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-07-27T05:56:25Z"
-    },
-    {
-      "host": "185.238.228.175",
-      "ip": "185.238.228.175",
+      "host": "185.238.228.229",
+      "ip": "185.238.228.229",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 12175,
-      "checks_down": 1379,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-07-27T05:56:02Z"
-    },
-    {
-      "host": "185.238.228.62",
-      "ip": "185.238.228.62",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ES",
-      "country_name": "Spain",
-      "checks_up": 12603,
-      "checks_down": 1332,
+      "checks_up": 12630,
+      "checks_down": 1346,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,7 +19,28 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-27T05:56:02Z"
+      "last_seen": "2026-07-28T05:16:04Z"
+    },
+    {
+      "host": "185.238.228.179",
+      "ip": "185.238.228.179",
+      "port": 80,
+      "delay": 20,
+      "country_code": "ES",
+      "country_name": "Spain",
+      "checks_up": 12198,
+      "checks_down": 1347,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-07-28T05:16:04Z"
     }
   ]
 }

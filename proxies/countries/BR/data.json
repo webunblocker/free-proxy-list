@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "170.244.27.58",
+      "ip": "170.244.27.58",
+      "port": 8888,
+      "delay": 720,
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "city": "Tapejara",
+      "checks_up": 146,
+      "checks_down": 84,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 63,
+      "last_seen": "2026-07-28T05:16:05Z"
+    }
+  ]
+}

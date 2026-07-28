@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "45.80.111.247",
+      "ip": "45.80.111.247",
+      "port": 80,
+      "delay": 20,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "checks_up": 4182,
+      "checks_down": 1281,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 76,
+      "last_seen": "2026-07-28T05:16:03Z"
+    }
+  ]
+}
