@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.238.228.229",
-      "ip": "185.238.228.229",
+      "host": "185.238.228.71",
+      "ip": "185.238.228.71",
       "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 12630,
-      "checks_down": 1346,
+      "checks_up": 12378,
+      "checks_down": 1352,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-28T05:16:04Z"
+      "last_seen": "2026-07-29T05:26:04Z"
     },
     {
-      "host": "185.238.228.179",
-      "ip": "185.238.228.179",
+      "host": "185.238.228.187",
+      "ip": "185.238.228.187",
       "port": 80,
       "delay": 20,
       "country_code": "ES",
       "country_name": "Spain",
-      "checks_up": 12198,
-      "checks_down": 1347,
+      "checks_up": 12245,
+      "checks_down": 1338,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,7 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-07-28T05:16:04Z"
+      "last_seen": "2026-07-29T05:26:04Z"
     }
   ]
 }

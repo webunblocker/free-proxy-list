@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-212.183.88.43,80,AT,Austria,Vienna,,,,,HTTP,Anonymous,100,20,2026-07-28T05:16:03Z
+219.132.37.53,3128,CN,China,,,,,,HTTP|HTTPS,Elite,81,3080,2026-07-29T05:25:19Z

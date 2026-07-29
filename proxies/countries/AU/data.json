@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "154.92.9.100",
-      "ip": "154.92.9.100",
+      "host": "103.169.142.166",
+      "ip": "103.169.142.166",
       "port": 80,
-      "delay": 20,
-      "country_code": "HK",
-      "country_name": "Hong Kong",
-      "checks_up": 226,
+      "delay": 0,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 268,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-28T05:16:04Z"
+      "last_seen": "2026-07-29T05:26:02Z"
     }
   ]
 }

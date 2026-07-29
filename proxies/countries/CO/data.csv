@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-206.238.239.222,80,SG,Singapore,Singapore,,,,,HTTP,Anonymous,87,20,2026-07-28T05:16:03Z
+149.130.182.81,1080,CO,Colombia,Cota,,,,,SOCKS5,Elite,90,520,2026-07-29T05:26:06Z
