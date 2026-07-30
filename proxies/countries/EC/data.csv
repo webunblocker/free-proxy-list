@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-181.214.1.124,80,AE,United Arab Emirates,,,,,,HTTP,Anonymous,100,0,2026-07-29T05:26:03Z
+186.5.94.206,999,EC,Ecuador,Guayaquil,,,,,HTTP,Anonymous,63,1200,2026-07-30T05:11:15Z

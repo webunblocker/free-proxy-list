@@ -1,26 +1,25 @@
 {
   "data": [
     {
-      "host": "219.132.37.53",
-      "ip": "219.132.37.53",
-      "port": 3128,
-      "delay": 3080,
+      "host": "203.19.38.114",
+      "ip": "203.19.38.114",
+      "port": 1080,
+      "delay": 1000,
       "country_code": "CN",
       "country_name": "China",
-      "checks_up": 122,
-      "checks_down": 27,
+      "checks_up": 30340,
+      "checks_down": 19994,
       "anon": 4,
       "http": 1,
-      "ssl": 1,
+      "ssl": 0,
       "socks4": 0,
       "socks5": 0,
       "protocols": [
-        "HTTP",
-        "HTTPS"
+        "HTTP"
       ],
       "anonymity_level": "Elite",
-      "uptime": 81,
-      "last_seen": "2026-07-29T05:25:19Z"
+      "uptime": 60,
+      "last_seen": "2026-07-30T05:11:06Z"
     }
   ]
 }
