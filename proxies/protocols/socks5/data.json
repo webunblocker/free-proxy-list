@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "159.195.49.27",
+      "ip": "159.195.49.27",
+      "port": 1080,
+      "delay": 720,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "city": "Nuremberg",
+      "checks_up": 436,
+      "checks_down": 45,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 90,
+      "last_seen": "2026-07-31T05:42:56Z"
+    }
+  ]
 }

@@ -1,14 +1,100 @@
 {
   "data": [
     {
-      "host": "23.227.38.132",
-      "ip": "23.227.38.132",
+      "host": "23.227.39.226",
+      "ip": "23.227.39.226",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14913,
-      "checks_down": 1301,
+      "checks_up": 11920,
+      "checks_down": 1184,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-07-31T05:42:04Z"
+    },
+    {
+      "host": "23.227.60.255",
+      "ip": "23.227.60.255",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 212,
+      "checks_down": 1,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-07-31T05:42:04Z"
+    },
+    {
+      "host": "23.227.39.250",
+      "ip": "23.227.39.250",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "city": "Ottawa",
+      "checks_up": 10224,
+      "checks_down": 1128,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-07-31T05:42:03Z"
+    },
+    {
+      "host": "23.227.39.49",
+      "ip": "23.227.39.49",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "city": "Ottawa",
+      "checks_up": 10303,
+      "checks_down": 1208,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-07-31T05:42:03Z"
+    },
+    {
+      "host": "23.227.38.22",
+      "ip": "23.227.38.22",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 14845,
+      "checks_down": 1316,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,39 +105,18 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-07-30T05:12:04Z"
+      "last_seen": "2026-07-31T05:42:03Z"
     },
     {
-      "host": "23.227.60.123",
-      "ip": "23.227.60.123",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 211,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-07-30T05:12:03Z"
-    },
-    {
-      "host": "23.227.39.102",
-      "ip": "23.227.39.102",
+      "host": "23.227.39.31",
+      "ip": "23.227.39.31",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
       "city": "Ottawa",
-      "checks_up": 8046,
-      "checks_down": 1145,
+      "checks_up": 9157,
+      "checks_down": 1171,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,29 +126,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-07-30T05:11:03Z"
-    },
-    {
-      "host": "23.227.38.126",
-      "ip": "23.227.38.126",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "checks_up": 14847,
-      "checks_down": 1284,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 92,
-      "last_seen": "2026-07-30T05:11:03Z"
+      "uptime": 88,
+      "last_seen": "2026-07-31T05:42:03Z"
     }
   ]
 }

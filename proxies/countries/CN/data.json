@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "203.19.38.114",
-      "ip": "203.19.38.114",
-      "port": 1080,
-      "delay": 1000,
+      "host": "122.246.4.6",
+      "ip": "122.246.4.6",
+      "port": 17981,
+      "delay": 1140,
       "country_code": "CN",
       "country_name": "China",
-      "checks_up": 30340,
-      "checks_down": 19994,
+      "checks_up": 176,
+      "checks_down": 5,
       "anon": 4,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Elite",
-      "uptime": 60,
-      "last_seen": "2026-07-30T05:11:06Z"
+      "uptime": 97,
+      "last_seen": "2026-07-31T05:42:07Z"
     }
   ]
 }
