@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "45.80.108.143",
-      "ip": "45.80.108.143",
+      "host": "45.80.108.120",
+      "ip": "45.80.108.120",
       "port": 80,
       "delay": 20,
       "country_code": "EE",
       "country_name": "Estonia",
-      "checks_up": 334,
+      "checks_up": 226,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-07-31T05:42:04Z"
+      "last_seen": "2026-08-01T05:32:03Z"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
   "data": [
     {
-      "host": "159.195.49.27",
-      "ip": "159.195.49.27",
-      "port": 1080,
-      "delay": 720,
-      "country_code": "DE",
-      "country_name": "Germany",
-      "city": "Nuremberg",
-      "checks_up": 436,
-      "checks_down": 45,
+      "host": "199.116.112.6",
+      "ip": "199.116.112.6",
+      "port": 4145,
+      "delay": 460,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 14499,
+      "checks_down": 3311,
       "anon": 4,
       "http": 0,
       "ssl": 0,
-      "socks4": 0,
+      "socks4": 1,
       "socks5": 1,
       "protocols": [
+        "SOCKS4",
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 90,
-      "last_seen": "2026-07-31T05:42:56Z"
+      "uptime": 81,
+      "last_seen": "2026-08-01T05:32:03Z"
     }
   ]
 }

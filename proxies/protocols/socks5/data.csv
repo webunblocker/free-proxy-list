@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-159.195.49.27,1080,DE,Germany,Nuremberg,,,,,SOCKS5,Elite,90,720,2026-07-31T05:42:56Z
+199.116.112.6,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,81,460,2026-08-01T05:32:03Z

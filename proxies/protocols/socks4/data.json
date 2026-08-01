@@ -1,26 +1,26 @@
 {
   "data": [
     {
-      "host": "91.150.189.122",
-      "ip": "91.150.189.122",
-      "port": 60647,
-      "delay": 2800,
-      "country_code": "PL",
-      "country_name": "Poland",
-      "city": "Rzesz?w",
-      "checks_up": 4186,
-      "checks_down": 9822,
+      "host": "199.116.112.6",
+      "ip": "199.116.112.6",
+      "port": 4145,
+      "delay": 460,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 14499,
+      "checks_down": 3311,
       "anon": 4,
       "http": 0,
       "ssl": 0,
       "socks4": 1,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "SOCKS4"
+        "SOCKS4",
+        "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 29,
-      "last_seen": "2026-07-31T05:41:43Z"
+      "uptime": 81,
+      "last_seen": "2026-08-01T05:32:03Z"
     }
   ]
 }
