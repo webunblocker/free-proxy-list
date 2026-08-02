@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-188.42.88.125,80,LU,Luxembourg,,,,,,HTTP,Anonymous,100,20,2026-08-01T05:32:03Z
-188.42.89.248,80,LU,Luxembourg,,,,,,HTTP,Anonymous,100,20,2026-08-01T05:32:02Z
+188.42.89.108,80,LU,Luxembourg,,,,,,HTTP,Anonymous,99,20,2026-08-02T05:32:03Z
