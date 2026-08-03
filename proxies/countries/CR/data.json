@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "154.83.2.18",
-      "ip": "154.83.2.18",
+      "host": "190.93.247.8",
+      "ip": "190.93.247.8",
       "port": 80,
       "delay": 20,
-      "country_code": "PH",
-      "country_name": "Philippines",
-      "checks_up": 373,
-      "checks_down": 0,
+      "country_code": "CR",
+      "country_name": "Costa Rica",
+      "checks_up": 5569,
+      "checks_down": 1170,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-02T05:32:04Z"
+      "uptime": 82,
+      "last_seen": "2026-08-03T05:46:03Z"
     }
   ]
 }

@@ -1,2 +1,7 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-23.166.88.69,8085,CH,Switzerland,Zurich,,,,,HTTP,Anonymous,97,640,2026-08-02T05:32:04Z
+185.18.250.220,80,CH,Switzerland,,,,,,HTTP,Anonymous,93,20,2026-08-03T05:46:03Z
+185.18.250.199,80,CH,Switzerland,,,,,,HTTP,Anonymous,93,20,2026-08-03T05:46:03Z
+185.18.250.197,80,CH,Switzerland,,,,,,HTTP,Anonymous,91,20,2026-08-03T05:46:03Z
+185.18.250.43,80,CH,Switzerland,,,,,,HTTP,Anonymous,96,20,2026-08-03T05:46:02Z
+185.18.250.241,80,CH,Switzerland,,,,,,HTTP,Anonymous,93,20,2026-08-03T05:46:02Z
+185.18.250.203,80,CH,Switzerland,,,,,,HTTP,Anonymous,100,20,2026-08-03T05:46:02Z

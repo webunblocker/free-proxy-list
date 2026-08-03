@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "193.32.177.152",
+      "ip": "193.32.177.152",
+      "port": 1080,
+      "delay": 5100,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Secaucus",
+      "checks_up": 51,
+      "checks_down": 52,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 49,
+      "last_seen": "2026-08-03T05:46:25Z"
+    }
+  ]
 }

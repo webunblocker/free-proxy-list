@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "129.226.72.101",
+      "ip": "129.226.72.101",
+      "port": 18080,
+      "delay": 1680,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 99,
+      "checks_down": 51,
+      "anon": 4,
+      "http": 0,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTPS"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 66,
+      "last_seen": "2026-08-03T05:45:21Z"
+    }
+  ]
 }

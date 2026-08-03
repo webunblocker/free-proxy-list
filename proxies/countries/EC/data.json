@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "181.39.25.196",
+      "ip": "181.39.25.196",
+      "port": 8118,
+      "delay": 600,
+      "country_code": "EC",
+      "country_name": "Ecuador",
+      "city": "Guayaquil",
+      "checks_up": 279,
+      "checks_down": 18,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 93,
+      "last_seen": "2026-08-03T05:45:14Z"
+    }
+  ]
+}
