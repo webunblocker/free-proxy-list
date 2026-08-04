@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "host": "154.83.2.197",
+      "ip": "154.83.2.197",
+      "port": 80,
+      "delay": 20,
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "checks_up": 319,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-04T05:16:04Z"
+    },
+    {
+      "host": "154.83.2.237",
+      "ip": "154.83.2.237",
+      "port": 80,
+      "delay": 20,
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "checks_up": 612,
+      "checks_down": 1,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-08-04T05:16:03Z"
+    },
+    {
+      "host": "154.83.2.9",
+      "ip": "154.83.2.9",
+      "port": 80,
+      "delay": 20,
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "checks_up": 319,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-04T05:16:03Z"
+    }
+  ]
+}

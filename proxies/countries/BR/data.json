@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "186.216.208.98",
+      "ip": "186.216.208.98",
+      "port": 3128,
+      "delay": 4980,
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "city": "Bras?lia",
+      "checks_up": 95,
+      "checks_down": 139,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 40,
+      "last_seen": "2026-08-04T05:16:24Z"
+    }
+  ]
+}

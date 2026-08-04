@@ -1,2 +1,3 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-129.226.72.101,18080,HK,Hong Kong,Hong Kong,,,,,HTTPS,Elite,66,1680,2026-08-03T05:45:21Z
+117.236.124.166,3128,IN,India,,,,,,HTTP|HTTPS,Elite,92,1020,2026-08-04T05:16:17Z
+212.58.132.5,8888,US,United States,,,,,,HTTPS,Elite,83,1120,2026-08-04T05:16:16Z
