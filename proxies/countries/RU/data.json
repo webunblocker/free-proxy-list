@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "host": "193.233.139.106",
+      "ip": "193.233.139.106",
+      "port": 1080,
+      "delay": 780,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "checks_up": 371,
+      "checks_down": 253,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 59,
+      "last_seen": "2026-08-05T05:16:55Z"
+    },
+    {
+      "host": "31.43.194.184",
+      "ip": "31.43.194.184",
+      "port": 1080,
+      "delay": 1080,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "city": "Biysk",
+      "checks_up": 80,
+      "checks_down": 112,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 41,
+      "last_seen": "2026-08-05T05:16:55Z"
+    }
+  ]
+}

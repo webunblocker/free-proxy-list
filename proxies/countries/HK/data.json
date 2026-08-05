@@ -1,48 +1,70 @@
 {
   "data": [
     {
-      "host": "156.225.72.78",
-      "ip": "156.225.72.78",
-      "port": 80,
-      "delay": 20,
+      "host": "119.28.13.138",
+      "ip": "119.28.13.138",
+      "port": 1080,
+      "delay": 1820,
       "country_code": "HK",
       "country_name": "Hong Kong",
       "city": "Hong Kong",
-      "checks_up": 255,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
+      "checks_up": 338,
+      "checks_down": 6,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-04T05:16:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-08-05T05:17:00Z"
     },
     {
-      "host": "156.225.72.174",
-      "ip": "156.225.72.174",
-      "port": 80,
-      "delay": 20,
+      "host": "123.58.219.171",
+      "ip": "123.58.219.171",
+      "port": 10808,
+      "delay": 1820,
       "country_code": "HK",
       "country_name": "Hong Kong",
       "city": "Hong Kong",
-      "checks_up": 258,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
+      "checks_up": 288,
+      "checks_down": 107,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-04T05:16:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 72,
+      "last_seen": "2026-08-05T05:16:56Z"
+    },
+    {
+      "host": "124.156.185.140",
+      "ip": "124.156.185.140",
+      "port": 1080,
+      "delay": 1160,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 293,
+      "checks_down": 5,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-08-05T05:16:55Z"
     }
   ]
 }

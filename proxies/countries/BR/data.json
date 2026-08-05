@@ -1,26 +1,26 @@
 {
   "data": [
     {
-      "host": "186.216.208.98",
-      "ip": "186.216.208.98",
-      "port": 3128,
-      "delay": 4980,
+      "host": "144.22.165.206",
+      "ip": "144.22.165.206",
+      "port": 1088,
+      "delay": 1740,
       "country_code": "BR",
       "country_name": "Brazil",
-      "city": "Bras?lia",
-      "checks_up": 95,
-      "checks_down": 139,
-      "anon": 3,
-      "http": 1,
+      "city": "S?o Paulo",
+      "checks_up": 222,
+      "checks_down": 3,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 40,
-      "last_seen": "2026-08-04T05:16:24Z"
+      "anonymity_level": "Elite",
+      "uptime": 98,
+      "last_seen": "2026-08-05T05:16:58Z"
     }
   ]
 }

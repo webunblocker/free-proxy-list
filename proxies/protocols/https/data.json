@@ -1,36 +1,14 @@
 {
   "data": [
     {
-      "host": "117.236.124.166",
-      "ip": "117.236.124.166",
+      "host": "162.214.3.183",
+      "ip": "162.214.3.183",
       "port": 3128,
-      "delay": 1020,
-      "country_code": "IN",
-      "country_name": "India",
-      "checks_up": 861,
-      "checks_down": 65,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 92,
-      "last_seen": "2026-08-04T05:16:17Z"
-    },
-    {
-      "host": "212.58.132.5",
-      "ip": "212.58.132.5",
-      "port": 8888,
-      "delay": 1120,
+      "delay": 240,
       "country_code": "US",
       "country_name": "United States",
-      "checks_up": 805,
-      "checks_down": 158,
+      "checks_up": 7704,
+      "checks_down": 7032,
       "anon": 4,
       "http": 0,
       "ssl": 1,
@@ -40,8 +18,8 @@
         "HTTPS"
       ],
       "anonymity_level": "Elite",
-      "uptime": 83,
-      "last_seen": "2026-08-04T05:16:16Z"
+      "uptime": 52,
+      "last_seen": "2026-08-05T05:16:12Z"
     }
   ]
 }

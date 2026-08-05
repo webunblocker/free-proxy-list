@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "195.85.23.44",
-      "ip": "195.85.23.44",
+      "host": "195.85.23.73",
+      "ip": "195.85.23.73",
       "port": 80,
       "delay": 20,
       "country_code": "CZ",
       "country_name": "Czech Republic",
-      "checks_up": 433,
+      "checks_up": 256,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,28 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-04T05:16:03Z"
-    },
-    {
-      "host": "195.85.23.163",
-      "ip": "195.85.23.163",
-      "port": 80,
-      "delay": 20,
-      "country_code": "CZ",
-      "country_name": "Czech Republic",
-      "checks_up": 407,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-04T05:16:03Z"
+      "last_seen": "2026-08-05T05:16:04Z"
     }
   ]
 }

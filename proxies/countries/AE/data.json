@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "181.214.1.231",
-      "ip": "181.214.1.231",
+      "host": "181.214.1.183",
+      "ip": "181.214.1.183",
       "port": 80,
       "delay": 20,
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "checks_up": 253,
+      "checks_up": 570,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-04T05:16:03Z"
+      "last_seen": "2026-08-05T05:16:03Z"
     }
   ]
 }
