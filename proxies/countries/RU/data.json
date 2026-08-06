@@ -1,47 +1,50 @@
 {
   "data": [
     {
-      "host": "193.233.139.106",
-      "ip": "193.233.139.106",
-      "port": 1080,
-      "delay": 780,
+      "host": "176.99.134.183",
+      "ip": "176.99.134.183",
+      "port": 8090,
+      "delay": 3740,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "checks_up": 371,
-      "checks_down": 253,
+      "city": "Moscow",
+      "checks_up": 507,
+      "checks_down": 11,
       "anon": 4,
-      "http": 0,
-      "ssl": 0,
+      "http": 1,
+      "ssl": 1,
       "socks4": 0,
-      "socks5": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "HTTP",
+        "HTTPS"
       ],
       "anonymity_level": "Elite",
-      "uptime": 59,
-      "last_seen": "2026-08-05T05:16:55Z"
+      "uptime": 97,
+      "last_seen": "2026-08-06T05:22:24Z"
     },
     {
-      "host": "31.43.194.184",
-      "ip": "31.43.194.184",
-      "port": 1080,
-      "delay": 1080,
+      "host": "178.250.156.112",
+      "ip": "178.250.156.112",
+      "port": 443,
+      "delay": 660,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "city": "Biysk",
-      "checks_up": 80,
-      "checks_down": 112,
+      "checks_up": 346,
+      "checks_down": 82,
       "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "HTTP",
+        "HTTPS",
+        "SOCKS4"
       ],
       "anonymity_level": "Elite",
-      "uptime": 41,
-      "last_seen": "2026-08-05T05:16:55Z"
+      "uptime": 80,
+      "last_seen": "2026-08-06T05:22:12Z"
     }
   ]
 }

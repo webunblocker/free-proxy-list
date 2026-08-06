@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.18.250.128,80,CH,Switzerland,,,,,,HTTP,Anonymous,100,20,2026-08-06T05:22:03Z
+103.243.82.38,8008,BD,Bangladesh,,,,,,SOCKS5,Elite,42,2520,2026-08-06T05:21:17Z

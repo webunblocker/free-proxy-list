@@ -1,2 +1,3 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-181.214.1.183,80,AE,United Arab Emirates,,,,,,HTTP,Anonymous,100,20,2026-08-05T05:16:03Z
+47.91.104.88,3128,AE,United Arab Emirates,Dubai,,,,,HTTP,Elite,69,920,2026-08-06T05:22:06Z
+181.214.1.161,80,AE,United Arab Emirates,,,,,,HTTP,Anonymous,100,20,2026-08-06T05:22:06Z
