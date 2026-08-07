@@ -1,25 +1,26 @@
 {
   "data": [
     {
-      "host": "103.243.82.38",
-      "ip": "103.243.82.38",
-      "port": 8008,
-      "delay": 2520,
+      "host": "115.127.31.66",
+      "ip": "115.127.31.66",
+      "port": 8080,
+      "delay": 1060,
       "country_code": "BD",
       "country_name": "Bangladesh",
-      "checks_up": 189,
-      "checks_down": 252,
+      "city": "Dhaka",
+      "checks_up": 10488,
+      "checks_down": 4965,
       "anon": 4,
-      "http": 0,
+      "http": 1,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "HTTP"
       ],
       "anonymity_level": "Elite",
-      "uptime": 42,
-      "last_seen": "2026-08-06T05:21:17Z"
+      "uptime": 67,
+      "last_seen": "2026-08-07T02:56:05Z"
     }
   ]
 }

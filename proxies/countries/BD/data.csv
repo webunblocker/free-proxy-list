@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.243.82.38,8008,BD,Bangladesh,,,,,,SOCKS5,Elite,42,2520,2026-08-06T05:21:17Z
+115.127.31.66,8080,BD,Bangladesh,Dhaka,,,,,HTTP,Elite,67,1060,2026-08-07T02:56:05Z

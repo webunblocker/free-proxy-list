@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "host": "45.80.110.207",
+      "ip": "45.80.110.207",
+      "port": 80,
+      "delay": 20,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "checks_up": 276,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-07T02:56:03Z"
+    },
+    {
+      "host": "45.80.110.136",
+      "ip": "45.80.110.136",
+      "port": 80,
+      "delay": 20,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "checks_up": 276,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-07T02:56:02Z"
+    },
+    {
+      "host": "45.80.108.238",
+      "ip": "45.80.108.238",
+      "port": 80,
+      "delay": 20,
+      "country_code": "EE",
+      "country_name": "Estonia",
+      "checks_up": 276,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-07T02:56:02Z"
+    }
+  ]
+}
