@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "45.12.31.117",
-      "ip": "45.12.31.117",
+      "host": "45.12.30.50",
+      "ip": "45.12.30.50",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 14535,
-      "checks_down": 1414,
+      "checks_up": 14550,
+      "checks_down": 1403,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,59 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-08-07T02:56:04Z"
+      "last_seen": "2026-08-08T03:36:04Z"
     },
     {
-      "host": "45.85.119.216",
-      "ip": "45.85.119.216",
+      "host": "45.12.30.0",
+      "ip": "45.12.30.0",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 277,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-07T02:56:04Z"
-    },
-    {
-      "host": "45.85.118.173",
-      "ip": "45.85.118.173",
-      "port": 80,
-      "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 276,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-07T02:56:03Z"
-    },
-    {
-      "host": "45.12.31.196",
-      "ip": "45.12.31.196",
-      "port": 80,
-      "delay": 20,
-      "country_code": "RO",
-      "country_name": "Romania",
-      "checks_up": 14703,
-      "checks_down": 1378,
+      "checks_up": 14528,
+      "checks_down": 1422,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -82,7 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-08-07T02:56:02Z"
+      "last_seen": "2026-08-08T03:35:05Z"
     }
   ]
 }

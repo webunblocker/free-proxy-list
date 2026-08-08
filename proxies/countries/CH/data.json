@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "185.191.239.248",
+      "ip": "185.191.239.248",
+      "port": 3128,
+      "delay": 1740,
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "checks_up": 345,
+      "checks_down": 210,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 62,
+      "last_seen": "2026-08-08T03:36:16Z"
+    }
+  ]
+}
