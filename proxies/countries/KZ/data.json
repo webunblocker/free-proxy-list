@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "31.43.179.236",
-      "ip": "31.43.179.236",
+      "host": "31.43.179.239",
+      "ip": "31.43.179.239",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
-      "checks_up": 12955,
-      "checks_down": 1378,
+      "checks_up": 12452,
+      "checks_down": 1348,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-08-08T03:36:04Z"
+      "last_seen": "2026-08-09T03:45:02Z"
     }
   ]
 }

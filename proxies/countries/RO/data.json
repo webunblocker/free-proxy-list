@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "45.12.30.50",
-      "ip": "45.12.30.50",
+      "host": "45.85.118.190",
+      "ip": "45.85.118.190",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 14550,
-      "checks_down": 1403,
+      "checks_up": 292,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,18 +18,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-08-08T03:36:04Z"
+      "uptime": 100,
+      "last_seen": "2026-08-09T03:46:04Z"
     },
     {
-      "host": "45.12.30.0",
-      "ip": "45.12.30.0",
+      "host": "45.85.119.101",
+      "ip": "45.85.119.101",
       "port": 80,
       "delay": 20,
       "country_code": "RO",
       "country_name": "Romania",
-      "checks_up": 14528,
-      "checks_down": 1422,
+      "checks_up": 516,
+      "checks_down": 51,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,7 +40,49 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-08-08T03:35:05Z"
+      "last_seen": "2026-08-09T03:46:03Z"
+    },
+    {
+      "host": "45.12.30.110",
+      "ip": "45.12.30.110",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RO",
+      "country_name": "Romania",
+      "checks_up": 14620,
+      "checks_down": 1405,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-08-09T03:45:03Z"
+    },
+    {
+      "host": "45.12.30.243",
+      "ip": "45.12.30.243",
+      "port": 80,
+      "delay": 20,
+      "country_code": "RO",
+      "country_name": "Romania",
+      "checks_up": 14589,
+      "checks_down": 1402,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-08-09T03:45:03Z"
     }
   ]
 }

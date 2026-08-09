@@ -1,3 +1,1 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-172.171.83.26,8080,US,United States,Washington,,,,,HTTP|HTTPS,Elite,86,260,2026-08-08T03:36:13Z
-219.151.182.122,18255,CN,China,,,,,,HTTP|HTTPS,Elite,81,5100,2026-08-08T03:35:14Z
