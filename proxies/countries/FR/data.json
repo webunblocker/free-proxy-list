@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "173.245.49.148",
-      "ip": "173.245.49.148",
+      "host": "173.245.49.142",
+      "ip": "173.245.49.142",
       "port": 80,
       "delay": 20,
       "country_code": "FR",
       "country_name": "France",
       "city": "Paris",
-      "checks_up": 9427,
-      "checks_down": 1163,
+      "checks_up": 9530,
+      "checks_down": 1145,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -20,40 +20,18 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 89,
-      "last_seen": "2026-08-10T04:02:04Z"
+      "last_seen": "2026-08-11T03:46:04Z"
     },
     {
-      "host": "173.245.49.6",
-      "ip": "173.245.49.6",
+      "host": "173.245.49.79",
+      "ip": "173.245.49.79",
       "port": 80,
       "delay": 20,
       "country_code": "FR",
       "country_name": "France",
       "city": "Paris",
-      "checks_up": 18057,
-      "checks_down": 1283,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 93,
-      "last_seen": "2026-08-10T04:02:03Z"
-    },
-    {
-      "host": "173.245.49.111",
-      "ip": "173.245.49.111",
-      "port": 80,
-      "delay": 20,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Paris",
-      "checks_up": 14944,
-      "checks_down": 1292,
+      "checks_up": 14983,
+      "checks_down": 1274,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -64,7 +42,29 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 92,
-      "last_seen": "2026-08-10T04:01:05Z"
+      "last_seen": "2026-08-11T03:46:03Z"
+    },
+    {
+      "host": "173.245.49.121",
+      "ip": "173.245.49.121",
+      "port": 80,
+      "delay": 20,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 9498,
+      "checks_down": 1212,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 88,
+      "last_seen": "2026-08-11T03:46:02Z"
     }
   ]
 }

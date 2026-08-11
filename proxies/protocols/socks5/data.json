@@ -1,3 +1,50 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "109.236.57.144",
+      "ip": "109.236.57.144",
+      "port": 1080,
+      "delay": 660,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "city": "Moscow",
+      "checks_up": 21,
+      "checks_down": 55,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 27,
+      "last_seen": "2026-08-11T03:46:12Z"
+    },
+    {
+      "host": "159.195.49.27",
+      "ip": "159.195.49.27",
+      "port": 1080,
+      "delay": 2920,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "city": "Nuremberg",
+      "checks_up": 598,
+      "checks_down": 65,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 90,
+      "last_seen": "2026-08-11T03:46:07Z"
+    }
+  ]
 }
