@@ -1,3 +1,26 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "202.40.177.94",
+      "ip": "202.40.177.94",
+      "port": 5678,
+      "delay": 1240,
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "city": "Dhaka",
+      "checks_up": 57,
+      "checks_down": 124,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 31,
+      "last_seen": "2026-08-12T04:11:18Z"
+    }
+  ]
 }

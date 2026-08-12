@@ -1,1 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+202.40.177.94,5678,BD,Bangladesh,Dhaka,,,,,SOCKS4,Elite,31,1240,2026-08-12T04:11:18Z

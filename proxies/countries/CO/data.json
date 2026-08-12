@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "188.114.96.0",
+      "ip": "188.114.96.0",
+      "port": 80,
+      "delay": 0,
+      "country_code": "CO",
+      "country_name": "Colombia",
+      "city": "Medell?n",
+      "checks_up": 14905,
+      "checks_down": 1354,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-08-12T04:12:04Z"
+    }
+  ]
+}

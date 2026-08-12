@@ -1,16 +1,15 @@
 {
   "data": [
     {
-      "host": "45.95.232.35",
-      "ip": "45.95.232.35",
-      "port": 3128,
-      "delay": 5100,
-      "country_code": "CH",
-      "country_name": "Switzerland",
-      "city": "Zurich",
-      "checks_up": 382,
-      "checks_down": 266,
-      "anon": 4,
+      "host": "114.236.137.41",
+      "ip": "114.236.137.41",
+      "port": 21000,
+      "delay": 1100,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 258,
+      "checks_down": 7,
+      "anon": 3,
       "http": 1,
       "ssl": 1,
       "socks4": 0,
@@ -19,33 +18,9 @@
         "HTTP",
         "HTTPS"
       ],
-      "anonymity_level": "Elite",
-      "uptime": 58,
-      "last_seen": "2026-08-11T03:46:29Z"
-    },
-    {
-      "host": "109.236.57.144",
-      "ip": "109.236.57.144",
-      "port": 1080,
-      "delay": 660,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "city": "Moscow",
-      "checks_up": 21,
-      "checks_down": 55,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "HTTP",
-        "HTTPS",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 27,
-      "last_seen": "2026-08-11T03:46:12Z"
+      "anonymity_level": "Anonymous",
+      "uptime": 97,
+      "last_seen": "2026-08-12T04:12:17Z"
     }
   ]
 }
