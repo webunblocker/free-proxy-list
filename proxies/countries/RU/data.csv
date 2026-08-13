@@ -1,4 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-176.106.241.50,80,RU,Russian Federation,Mytishchi,,,,,HTTP,Elite,73,560,2026-08-12T04:12:05Z
-45.8.211.225,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-12T04:12:03Z
-185.148.107.166,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,0,2026-08-12T04:12:03Z

@@ -1,26 +1,3 @@
 {
-  "data": [
-    {
-      "host": "114.236.137.41",
-      "ip": "114.236.137.41",
-      "port": 21000,
-      "delay": 1100,
-      "country_code": "CN",
-      "country_name": "China",
-      "checks_up": 258,
-      "checks_down": 7,
-      "anon": 3,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP",
-        "HTTPS"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 97,
-      "last_seen": "2026-08-12T04:12:17Z"
-    }
-  ]
+  "data": []
 }

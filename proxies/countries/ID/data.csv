@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.154.224.227,8080,ID,Indonesia,,,,,,HTTP,Anonymous,25,4300,2026-08-12T04:11:23Z
