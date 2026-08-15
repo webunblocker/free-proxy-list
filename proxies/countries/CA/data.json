@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "23.227.38.55",
-      "ip": "23.227.38.55",
+      "host": "23.227.39.170",
+      "ip": "23.227.39.170",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 14956,
-      "checks_down": 1289,
+      "city": "Ottawa",
+      "checks_up": 8211,
+      "checks_down": 1135,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,19 +19,19 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 92,
-      "last_seen": "2026-08-14T04:12:05Z"
+      "uptime": 87,
+      "last_seen": "2026-08-15T02:56:05Z"
     },
     {
-      "host": "23.227.39.93",
-      "ip": "23.227.39.93",
+      "host": "23.227.39.242",
+      "ip": "23.227.39.242",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
       "city": "Ottawa",
-      "checks_up": 11013,
-      "checks_down": 1148,
+      "checks_up": 10905,
+      "checks_down": 1179,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -41,7 +42,50 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-08-14T04:12:03Z"
+      "last_seen": "2026-08-15T02:56:05Z"
+    },
+    {
+      "host": "23.227.39.11",
+      "ip": "23.227.39.11",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "city": "Ottawa",
+      "checks_up": 8211,
+      "checks_down": 1157,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 87,
+      "last_seen": "2026-08-15T02:56:03Z"
+    },
+    {
+      "host": "23.227.38.83",
+      "ip": "23.227.38.83",
+      "port": 80,
+      "delay": 20,
+      "country_code": "CA",
+      "country_name": "Canada",
+      "checks_up": 15034,
+      "checks_down": 1284,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 92,
+      "last_seen": "2026-08-15T02:56:03Z"
     }
   ]
 }

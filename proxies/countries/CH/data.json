@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "102.177.176.83",
-      "ip": "102.177.176.83",
+      "host": "185.18.250.68",
+      "ip": "185.18.250.68",
       "port": 80,
       "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 143,
-      "checks_down": 0,
+      "country_code": "CH",
+      "country_name": "Switzerland",
+      "checks_up": 946,
+      "checks_down": 65,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,7 +18,7 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
+      "uptime": 93,
       "last_seen": "2026-08-15T02:56:03Z"
     }
   ]
