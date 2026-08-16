@@ -1,14 +1,56 @@
 {
   "data": [
     {
-      "host": "45.131.4.254",
-      "ip": "45.131.4.254",
+      "host": "45.131.7.252",
+      "ip": "45.131.7.252",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 9369,
-      "checks_down": 1327,
+      "checks_up": 10632,
+      "checks_down": 1287,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-08-16T03:06:03Z"
+    },
+    {
+      "host": "45.131.5.41",
+      "ip": "45.131.5.41",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 10088,
+      "checks_down": 1299,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 88,
+      "last_seen": "2026-08-16T03:06:03Z"
+    },
+    {
+      "host": "45.131.7.89",
+      "ip": "45.131.7.89",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 9140,
+      "checks_down": 1289,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,16 +61,79 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 87,
-      "last_seen": "2026-08-15T02:56:05Z"
+      "last_seen": "2026-08-16T03:06:03Z"
     },
     {
-      "host": "45.131.211.150",
-      "ip": "45.131.211.150",
+      "host": "45.131.4.230",
+      "ip": "45.131.4.230",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 341,
+      "checks_up": 11800,
+      "checks_down": 1382,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-08-16T03:06:03Z"
+    },
+    {
+      "host": "45.131.7.2",
+      "ip": "45.131.7.2",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 7852,
+      "checks_down": 1273,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 86,
+      "last_seen": "2026-08-16T03:06:03Z"
+    },
+    {
+      "host": "45.131.6.105",
+      "ip": "45.131.6.105",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 7832,
+      "checks_down": 1275,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 85,
+      "last_seen": "2026-08-16T03:06:03Z"
+    },
+    {
+      "host": "45.131.209.2",
+      "ip": "45.131.209.2",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 710,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -40,17 +145,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-15T02:56:05Z"
+      "last_seen": "2026-08-16T03:06:03Z"
     },
     {
-      "host": "45.131.4.221",
-      "ip": "45.131.4.221",
+      "host": "45.131.211.195",
+      "ip": "45.131.211.195",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 10529,
-      "checks_down": 1315,
+      "checks_up": 349,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,18 +165,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "uptime": 100,
+      "last_seen": "2026-08-16T03:06:03Z"
     },
     {
-      "host": "45.131.6.238",
-      "ip": "45.131.6.238",
+      "host": "45.131.6.11",
+      "ip": "45.131.6.11",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 6298,
-      "checks_down": 1258,
+      "checks_up": 7823,
+      "checks_down": 1288,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -81,18 +186,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 83,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "uptime": 85,
+      "last_seen": "2026-08-16T03:06:02Z"
     },
     {
-      "host": "45.131.4.172",
-      "ip": "45.131.4.172",
+      "host": "45.131.7.11",
+      "ip": "45.131.7.11",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 10647,
-      "checks_down": 1344,
+      "checks_up": 7818,
+      "checks_down": 1288,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -102,18 +207,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "uptime": 85,
+      "last_seen": "2026-08-16T03:06:02Z"
     },
     {
-      "host": "45.131.5.61",
-      "ip": "45.131.5.61",
+      "host": "45.131.6.33",
+      "ip": "45.131.6.33",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 7870,
-      "checks_down": 1243,
+      "checks_up": 7791,
+      "checks_down": 1261,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -124,17 +229,80 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 86,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "last_seen": "2026-08-16T03:06:02Z"
     },
     {
-      "host": "45.131.4.144",
-      "ip": "45.131.4.144",
+      "host": "45.131.6.128",
+      "ip": "45.131.6.128",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "checks_up": 10558,
-      "checks_down": 1342,
+      "checks_up": 10779,
+      "checks_down": 1319,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-08-16T03:06:02Z"
+    },
+    {
+      "host": "45.131.6.66",
+      "ip": "45.131.6.66",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 7876,
+      "checks_down": 1259,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 86,
+      "last_seen": "2026-08-16T03:06:02Z"
+    },
+    {
+      "host": "45.131.5.189",
+      "ip": "45.131.5.189",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 7819,
+      "checks_down": 1270,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 86,
+      "last_seen": "2026-08-16T03:06:02Z"
+    },
+    {
+      "host": "45.131.5.0",
+      "ip": "45.131.5.0",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 9911,
+      "checks_down": 1310,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -145,18 +313,18 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 88,
-      "last_seen": "2026-08-15T02:55:11Z"
+      "last_seen": "2026-08-16T03:06:02Z"
     },
     {
-      "host": "188.114.96.92",
-      "ip": "188.114.96.92",
+      "host": "188.114.96.5",
+      "ip": "188.114.96.5",
       "port": 80,
       "delay": 0,
       "country_code": "NL",
       "country_name": "Netherlands",
       "city": "Amsterdam",
-      "checks_up": 10927,
-      "checks_down": 1231,
+      "checks_up": 12808,
+      "checks_down": 1305,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -166,19 +334,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-08-15T02:55:09Z"
+      "uptime": 90,
+      "last_seen": "2026-08-16T03:06:02Z"
     },
     {
-      "host": "188.114.96.94",
-      "ip": "188.114.96.94",
+      "host": "45.131.7.3",
+      "ip": "45.131.7.3",
       "port": 80,
       "delay": 20,
       "country_code": "NL",
       "country_name": "Netherlands",
-      "city": "Amsterdam",
-      "checks_up": 10947,
-      "checks_down": 1238,
+      "checks_up": 7898,
+      "checks_down": 1239,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -188,8 +355,71 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 89,
-      "last_seen": "2026-08-15T02:55:09Z"
+      "uptime": 86,
+      "last_seen": "2026-08-16T03:06:02Z"
+    },
+    {
+      "host": "45.131.208.105",
+      "ip": "45.131.208.105",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 1007,
+      "checks_down": 75,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 93,
+      "last_seen": "2026-08-16T03:06:02Z"
+    },
+    {
+      "host": "45.131.210.255",
+      "ip": "45.131.210.255",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 719,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-16T03:06:02Z"
+    },
+    {
+      "host": "194.152.44.136",
+      "ip": "194.152.44.136",
+      "port": 80,
+      "delay": 20,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "checks_up": 722,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-16T03:06:02Z"
     }
   ]
 }

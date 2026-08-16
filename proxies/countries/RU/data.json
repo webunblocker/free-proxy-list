@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "31.12.75.182",
-      "ip": "31.12.75.182",
+      "host": "185.148.107.114",
+      "ip": "185.148.107.114",
       "port": 80,
       "delay": 20,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "checks_up": 198,
+      "checks_up": 351,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "last_seen": "2026-08-16T03:06:03Z"
     }
   ]
 }

@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "164.38.155.94",
-      "ip": "164.38.155.94",
+      "host": "194.36.55.227",
+      "ip": "194.36.55.227",
       "port": 80,
       "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 9134,
-      "checks_down": 1290,
+      "checks_up": 1765,
+      "checks_down": 874,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,59 +18,17 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-08-15T02:56:05Z"
+      "uptime": 66,
+      "last_seen": "2026-08-16T03:06:03Z"
     },
     {
-      "host": "185.170.166.24",
-      "ip": "185.170.166.24",
+      "host": "91.193.58.27",
+      "ip": "91.193.58.27",
       "port": 80,
       "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 9489,
-      "checks_down": 1291,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-08-15T02:56:05Z"
-    },
-    {
-      "host": "164.38.155.5",
-      "ip": "164.38.155.5",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 9087,
-      "checks_down": 1242,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-08-15T02:56:03Z"
-    },
-    {
-      "host": "185.193.29.255",
-      "ip": "185.193.29.255",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 1024,
+      "checks_up": 346,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -82,37 +40,16 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "last_seen": "2026-08-16T03:06:03Z"
     },
     {
-      "host": "164.38.155.24",
-      "ip": "164.38.155.24",
+      "host": "194.36.55.111",
+      "ip": "194.36.55.111",
       "port": 80,
       "delay": 20,
       "country_code": "GB",
       "country_name": "United Kingdom",
-      "checks_up": 8982,
-      "checks_down": 1287,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 87,
-      "last_seen": "2026-08-15T02:56:03Z"
-    },
-    {
-      "host": "91.193.58.181",
-      "ip": "91.193.58.181",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 340,
+      "checks_up": 735,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -124,28 +61,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-15T02:56:03Z"
-    },
-    {
-      "host": "185.193.28.175",
-      "ip": "185.193.28.175",
-      "port": 80,
-      "delay": 20,
-      "country_code": "GB",
-      "country_name": "United Kingdom",
-      "checks_up": 340,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-15T02:56:03Z"
+      "last_seen": "2026-08-16T03:06:02Z"
     }
   ]
 }
