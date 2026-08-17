@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "87.226.22.225",
+      "ip": "87.226.22.225",
+      "port": 80,
+      "delay": 620,
+      "country_code": "LV",
+      "country_name": "Latvia",
+      "city": "Riga",
+      "checks_up": 241,
+      "checks_down": 79,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 75,
+      "last_seen": "2026-08-17T03:06:05Z"
+    }
+  ]
+}

@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "185.148.107.114",
-      "ip": "185.148.107.114",
-      "port": 80,
-      "delay": 20,
+      "host": "109.194.34.246",
+      "ip": "109.194.34.246",
+      "port": 8082,
+      "delay": 840,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "checks_up": 351,
-      "checks_down": 0,
-      "anon": 3,
+      "checks_up": 237,
+      "checks_down": 84,
+      "anon": 4,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -17,9 +17,9 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-16T03:06:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 73,
+      "last_seen": "2026-08-17T03:06:04Z"
     }
   ]
 }
