@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "102.177.176.183",
-      "ip": "102.177.176.183",
+      "host": "102.177.176.238",
+      "ip": "102.177.176.238",
       "port": 80,
       "delay": 20,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 410,
+      "checks_up": 361,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,91 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-17T03:06:05Z"
-    },
-    {
-      "host": "102.177.176.123",
-      "ip": "102.177.176.123",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 404,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-17T03:06:05Z"
-    },
-    {
-      "host": "102.177.176.218",
-      "ip": "102.177.176.218",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 904,
-      "checks_down": 6,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 99,
-      "last_seen": "2026-08-17T03:06:04Z"
-    },
-    {
-      "host": "102.177.176.158",
-      "ip": "102.177.176.158",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 360,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-17T03:06:03Z"
-    },
-    {
-      "host": "102.177.176.233",
-      "ip": "102.177.176.233",
-      "port": 80,
-      "delay": 20,
-      "country_code": "ZA",
-      "country_name": "South Africa",
-      "checks_up": 355,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-17T03:06:03Z"
+      "last_seen": "2026-08-18T03:01:04Z"
     }
   ]
 }
