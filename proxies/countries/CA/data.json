@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "23.227.39.239",
-      "ip": "23.227.39.239",
+      "host": "23.227.39.96",
+      "ip": "23.227.39.96",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
       "city": "Ottawa",
-      "checks_up": 9011,
-      "checks_down": 1186,
+      "checks_up": 10418,
+      "checks_down": 1144,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,18 +19,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 88,
-      "last_seen": "2026-08-18T03:02:04Z"
+      "uptime": 90,
+      "last_seen": "2026-08-19T03:06:04Z"
     },
     {
-      "host": "23.227.60.222",
-      "ip": "23.227.60.222",
+      "host": "23.227.38.60",
+      "ip": "23.227.38.60",
       "port": 80,
       "delay": 20,
       "country_code": "CA",
       "country_name": "Canada",
-      "checks_up": 241,
-      "checks_down": 0,
+      "checks_up": 15011,
+      "checks_down": 1285,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,8 +40,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-18T03:01:04Z"
+      "uptime": 92,
+      "last_seen": "2026-08-19T03:06:03Z"
     }
   ]
 }
