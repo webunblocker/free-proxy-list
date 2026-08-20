@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.162.229.131",
-      "ip": "185.162.229.131",
+      "host": "45.80.111.182",
+      "ip": "45.80.111.182",
       "port": 80,
       "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14639,
-      "checks_down": 1428,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "checks_up": 925,
+      "checks_down": 6,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,18 +18,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
+      "uptime": 99,
       "last_seen": "2026-08-20T03:02:03Z"
     },
     {
-      "host": "185.162.228.25",
-      "ip": "185.162.228.25",
+      "host": "45.80.111.58",
+      "ip": "45.80.111.58",
       "port": 80,
       "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14647,
-      "checks_down": 1401,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "checks_up": 559,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,18 +39,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
+      "uptime": 100,
       "last_seen": "2026-08-20T03:02:03Z"
     },
     {
-      "host": "185.162.230.238",
-      "ip": "185.162.230.238",
+      "host": "45.80.111.123",
+      "ip": "45.80.111.123",
       "port": 80,
       "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14622,
-      "checks_down": 1435,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "checks_up": 699,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -60,18 +60,18 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-08-20T03:02:03Z"
+      "uptime": 100,
+      "last_seen": "2026-08-20T03:02:02Z"
     },
     {
-      "host": "185.162.229.195",
-      "ip": "185.162.229.195",
+      "host": "45.80.111.98",
+      "ip": "45.80.111.98",
       "port": 80,
       "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14789,
-      "checks_down": 1386,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "checks_up": 120,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -81,8 +81,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-08-20T03:02:03Z"
+      "uptime": 100,
+      "last_seen": "2026-08-20T03:02:02Z"
     }
   ]
 }
