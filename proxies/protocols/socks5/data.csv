@@ -1,1 +1,13 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+144.124.227.88,3129,NL,Netherlands,Amsterdam,,,,,SOCKS4|SOCKS5,Elite,57,4440,2026-08-21T03:06:33Z
+5.255.123.162,1080,NL,Netherlands,Dronten,,,,,SOCKS5,Elite,86,3960,2026-08-21T03:06:33Z
+195.19.52.187,1080,RU,Russian Federation,,,,,,SOCKS5,Elite,46,4700,2026-08-21T03:06:32Z
+150.241.91.238,7777,DE,Germany,Frankfurt am Main,,,,,SOCKS5,Elite,62,1400,2026-08-21T03:06:31Z
+5.255.99.75,1080,NL,Netherlands,Dronten,,,,,SOCKS5,Elite,77,5100,2026-08-21T03:06:30Z
+5.255.103.55,1080,NL,Netherlands,Dronten,,,,,SOCKS5,Elite,88,2180,2026-08-21T03:06:27Z
+202.62.50.52,1080,KH,Cambodia,Phnom Penh,,,,,SOCKS5,Elite,27,1220,2026-08-21T03:06:27Z
+43.164.3.124,1080,TH,Thailand,Bangkok,,,,,SOCKS5,Elite,98,1520,2026-08-21T03:06:25Z
+31.43.194.184,1080,RU,Russian Federation,Biysk,,,,,SOCKS5,Elite,42,1020,2026-08-21T03:06:24Z
+43.164.136.189,1080,KR,Korea,Seoul,,,,,SOCKS5,Elite,97,1060,2026-08-21T03:06:23Z
+77.239.106.24,1080,US,United States,,,,,,SOCKS5,Elite,56,700,2026-08-21T03:06:23Z
+185.93.104.246,1080,NL,Netherlands,Amsterdam,,,,,SOCKS5,Elite,29,5100,2026-08-21T03:06:05Z

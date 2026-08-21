@@ -1,23 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.148.105.45,80,RU,Russian Federation,,,,,,HTTP,Anonymous,99,20,2026-08-20T03:02:05Z
-45.8.211.220,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:05Z
-45.67.215.217,80,RU,Russian Federation,Novosibirsk,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-31.12.75.97,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-31.12.75.131,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.105.140,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.106.85,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.105.66,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.106.156,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.107.40,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.106.11,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.107.45,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.104.52,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.106.36,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.106.30,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-185.148.106.240,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-31.12.75.5,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-45.142.120.85,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:03Z
-45.67.215.76,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:02Z
-31.12.75.48,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:02Z
-31.12.75.169,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:02Z
-45.8.211.251,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-20T03:02:02Z
+195.19.52.187,1080,RU,Russian Federation,,,,,,SOCKS5,Elite,46,4700,2026-08-21T03:06:32Z
+31.43.194.184,1080,RU,Russian Federation,Biysk,,,,,SOCKS5,Elite,42,1020,2026-08-21T03:06:24Z
+185.148.107.174,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-21T03:06:04Z

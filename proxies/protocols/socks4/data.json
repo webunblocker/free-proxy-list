@@ -1,3 +1,27 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "144.124.227.88",
+      "ip": "144.124.227.88",
+      "port": 3129,
+      "delay": 4440,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "city": "Amsterdam",
+      "checks_up": 495,
+      "checks_down": 371,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 57,
+      "last_seen": "2026-08-21T03:06:33Z"
+    }
+  ]
 }
