@@ -1,4 +1,3 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-195.19.52.187,1080,RU,Russian Federation,,,,,,SOCKS5,Elite,46,4700,2026-08-21T03:06:32Z
-31.43.194.184,1080,RU,Russian Federation,Biysk,,,,,SOCKS5,Elite,42,1020,2026-08-21T03:06:24Z
-185.148.107.174,80,RU,Russian Federation,,,,,,HTTP,Anonymous,100,20,2026-08-21T03:06:04Z
+45.8.211.90,80,RU,Russian Federation,,,,,,HTTP,Anonymous,88,20,2026-08-22T03:02:03Z
+153.80.240.37,8080,RU,Russian Federation,,,,,,HTTP,Elite,75,1700,2026-08-22T03:01:22Z

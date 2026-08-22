@@ -1,14 +1,13 @@
 {
   "data": [
     {
-      "host": "212.183.88.174",
-      "ip": "212.183.88.174",
+      "host": "192.65.217.68",
+      "ip": "192.65.217.68",
       "port": 80,
-      "delay": 20,
-      "country_code": "AT",
-      "country_name": "Austria",
-      "city": "Vienna",
-      "checks_up": 512,
+      "delay": 0,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 393,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -20,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-21T03:06:02Z"
+      "last_seen": "2026-08-22T03:02:03Z"
     }
   ]
 }

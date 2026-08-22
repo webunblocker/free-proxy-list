@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "host": "101.206.186.99",
+      "ip": "101.206.186.99",
+      "port": 8080,
+      "delay": 5100,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 90,
+      "checks_down": 25,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 78,
+      "last_seen": "2026-08-22T03:02:26Z"
+    },
+    {
+      "host": "120.232.115.170",
+      "ip": "120.232.115.170",
+      "port": 17981,
+      "delay": 1460,
+      "country_code": "CN",
+      "country_name": "China",
+      "checks_up": 213,
+      "checks_down": 94,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 69,
+      "last_seen": "2026-08-22T03:02:06Z"
+    }
+  ]
+}
