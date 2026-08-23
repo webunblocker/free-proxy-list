@@ -1,15 +1,16 @@
 {
   "data": [
     {
-      "host": "181.214.1.230",
-      "ip": "181.214.1.230",
-      "port": 80,
-      "delay": 20,
+      "host": "47.91.104.88",
+      "ip": "47.91.104.88",
+      "port": 3128,
+      "delay": 920,
       "country_code": "AE",
       "country_name": "United Arab Emirates",
-      "checks_up": 399,
-      "checks_down": 0,
-      "anon": 3,
+      "city": "Dubai",
+      "checks_up": 28631,
+      "checks_down": 12309,
+      "anon": 4,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -17,9 +18,9 @@
       "protocols": [
         "HTTP"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-22T03:02:03Z"
+      "anonymity_level": "Elite",
+      "uptime": 69,
+      "last_seen": "2026-08-23T03:06:53Z"
     }
   ]
 }

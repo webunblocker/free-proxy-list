@@ -1,7 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-141.101.121.194,80,ZZ,Unknown,,,,,,HTTP,Anonymous,90,0,2026-08-22T03:02:04Z
-141.101.123.42,80,ZZ,Unknown,,,,,,HTTP,Anonymous,90,0,2026-08-22T03:02:03Z
-141.101.122.92,80,ZZ,Unknown,,,,,,HTTP,Anonymous,90,20,2026-08-22T03:02:03Z
-172.67.132.115,80,ZZ,Unknown,,,,,,HTTP,Anonymous,79,20,2026-08-22T03:02:03Z
-141.101.121.3,80,ZZ,Unknown,,,,,,HTTP,Anonymous,86,20,2026-08-22T03:02:03Z
-172.67.175.89,80,ZZ,Unknown,,,,,,HTTP,Anonymous,100,20,2026-08-22T03:02:03Z
