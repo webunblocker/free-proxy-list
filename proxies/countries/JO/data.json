@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "185.146.173.240",
-      "ip": "185.146.173.240",
+      "host": "62.72.166.29",
+      "ip": "62.72.166.29",
       "port": 80,
       "delay": 20,
-      "country_code": "SE",
-      "country_name": "Sweden",
-      "checks_up": 409,
+      "country_code": "JO",
+      "country_name": "Jordan",
+      "checks_up": 420,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-08-24T03:12:02Z"
+      "last_seen": "2026-08-25T03:06:02Z"
     }
   ]
 }

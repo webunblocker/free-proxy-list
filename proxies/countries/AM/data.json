@@ -1,56 +1,14 @@
 {
   "data": [
     {
-      "host": "185.162.230.15",
-      "ip": "185.162.230.15",
+      "host": "185.162.230.5",
+      "ip": "185.162.230.5",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14535,
-      "checks_down": 1471,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-08-24T03:12:04Z"
-    },
-    {
-      "host": "185.162.230.223",
-      "ip": "185.162.230.223",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14502,
-      "checks_down": 1455,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-08-24T03:12:04Z"
-    },
-    {
-      "host": "185.162.229.49",
-      "ip": "185.162.229.49",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14735,
-      "checks_down": 1396,
+      "checks_up": 14637,
+      "checks_down": 1438,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,28 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-08-24T03:12:04Z"
-    },
-    {
-      "host": "185.162.230.108",
-      "ip": "185.162.230.108",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14555,
-      "checks_down": 1423,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-08-24T03:12:02Z"
+      "last_seen": "2026-08-25T03:06:03Z"
     }
   ]
 }
