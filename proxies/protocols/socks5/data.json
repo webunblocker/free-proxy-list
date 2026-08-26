@@ -1,15 +1,14 @@
 {
   "data": [
     {
-      "host": "192.252.209.155",
-      "ip": "192.252.209.155",
-      "port": 14455,
-      "delay": 500,
-      "country_code": "CA",
-      "country_name": "Canada",
-      "city": "Toronto",
-      "checks_up": 51066,
-      "checks_down": 32097,
+      "host": "142.54.231.38",
+      "ip": "142.54.231.38",
+      "port": 4145,
+      "delay": 300,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 24051,
+      "checks_down": 13550,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -20,8 +19,30 @@
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 61,
-      "last_seen": "2026-08-25T03:05:46Z"
+      "uptime": 63,
+      "last_seen": "2026-08-26T03:12:05Z"
+    },
+    {
+      "host": "192.111.137.35",
+      "ip": "192.111.137.35",
+      "port": 4145,
+      "delay": 360,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 55353,
+      "checks_down": 35593,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 60,
+      "last_seen": "2026-08-26T03:12:03Z"
     }
   ]
 }
