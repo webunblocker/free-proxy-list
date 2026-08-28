@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "188.42.88.69",
-      "ip": "188.42.88.69",
+      "host": "188.42.89.54",
+      "ip": "188.42.89.54",
       "port": 80,
       "delay": 20,
       "country_code": "LU",
       "country_name": "Luxembourg",
-      "checks_up": 788,
-      "checks_down": 0,
+      "checks_up": 1079,
+      "checks_down": 67,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,8 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-08-27T12:42:03Z"
+      "uptime": 94,
+      "last_seen": "2026-08-28T14:12:04Z"
     }
   ]
 }

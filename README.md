@@ -27,7 +27,7 @@
 
 Daily snapshot of public proxy endpoints exported from Socks5Proxies.com.
 
-> Latest snapshot: **100** proxies from **15** countries at **Aug 27, 2026, 12:43 PM**.
+> Latest snapshot: **100** proxies from **12** countries at **Aug 28, 2026, 2:13 PM**.
 
 ## Why this repo exists
 
@@ -52,7 +52,7 @@ These files are served from jsDelivr on top of this repository.
 | HTTPS Proxies | 0 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.csv) |
 | SOCKS4 Proxies | 0 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.csv) |
 | SOCKS5 Proxies | 0 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.csv) |
-| US Proxies | 32 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.csv) |
+| US Proxies | 49 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.csv) |
 
 More country splits: [browse `proxies/countries/`](https://github.com/webunblocker/free-proxy-list/tree/main/proxies/countries)
 
