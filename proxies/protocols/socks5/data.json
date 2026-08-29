@@ -1,3 +1,48 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "43.164.3.124",
+      "ip": "43.164.3.124",
+      "port": 1080,
+      "delay": 1480,
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "city": "Bangkok",
+      "checks_up": 577,
+      "checks_down": 5,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 99,
+      "last_seen": "2026-08-29T08:55:28Z"
+    },
+    {
+      "host": "152.32.168.221",
+      "ip": "152.32.168.221",
+      "port": 10808,
+      "delay": 1980,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Hong Kong",
+      "checks_up": 183,
+      "checks_down": 22,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 89,
+      "last_seen": "2026-08-29T08:55:28Z"
+    }
+  ]
 }
