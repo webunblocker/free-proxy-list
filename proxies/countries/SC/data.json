@@ -1,25 +1,46 @@
 {
   "data": [
     {
-      "host": "156.245.246.51",
-      "ip": "156.245.246.51",
-      "port": 7890,
-      "delay": 5100,
+      "host": "154.83.2.113",
+      "ip": "154.83.2.113",
+      "port": 80,
+      "delay": 20,
       "country_code": "SC",
       "country_name": "Seychelles",
-      "checks_up": 21,
-      "checks_down": 71,
-      "anon": 4,
-      "http": 0,
+      "checks_up": 459,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
       "ssl": 0,
-      "socks4": 1,
+      "socks4": 0,
       "socks5": 0,
       "protocols": [
-        "SOCKS4"
+        "HTTP"
       ],
-      "anonymity_level": "Elite",
-      "uptime": 22,
-      "last_seen": "2026-08-29T08:55:47Z"
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-30T08:12:05Z"
+    },
+    {
+      "host": "45.194.53.251",
+      "ip": "45.194.53.251",
+      "port": 80,
+      "delay": 20,
+      "country_code": "SC",
+      "country_name": "Seychelles",
+      "checks_up": 462,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-08-30T08:12:02Z"
     }
   ]
 }

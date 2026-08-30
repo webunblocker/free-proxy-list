@@ -1,3 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-43.164.3.124,1080,TH,Thailand,Bangkok,,,,,SOCKS5,Elite,99,1480,2026-08-29T08:55:28Z
-152.32.168.221,10808,HK,Hong Kong,Hong Kong,,,,,SOCKS5,Elite,89,1980,2026-08-29T08:55:28Z
+192.111.135.18,18301,US,United States,Los Angeles,,,,,SOCKS4|SOCKS5,Elite,59,360,2026-08-30T08:11:04Z
+98.181.137.80,4145,US,United States,Las Vegas,,,,,SOCKS4|SOCKS5,Elite,73,500,2026-08-30T08:11:04Z
+199.102.107.145,4145,US,United States,,,,,,SOCKS4|SOCKS5,Elite,69,300,2026-08-30T08:11:03Z

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "34.165.141.4",
+      "ip": "34.165.141.4",
+      "port": 8888,
+      "delay": 1020,
+      "country_code": "IL",
+      "country_name": "Israel",
+      "city": "Tel Aviv",
+      "checks_up": 78,
+      "checks_down": 66,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 54,
+      "last_seen": "2026-08-30T08:11:15Z"
+    }
+  ]
+}
