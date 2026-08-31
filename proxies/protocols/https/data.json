@@ -1,25 +1,3 @@
 {
-  "data": [
-    {
-      "host": "162.214.3.183",
-      "ip": "162.214.3.183",
-      "port": 3128,
-      "delay": 300,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 7849,
-      "checks_down": 7084,
-      "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTPS"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 52,
-      "last_seen": "2026-08-30T08:12:14Z"
-    }
-  ]
+  "data": []
 }
