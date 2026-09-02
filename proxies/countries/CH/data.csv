@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.63.190.72,8080,KH,Cambodia,Phnom Penh,,,,,HTTP,Elite,60,900,2026-09-01T07:41:05Z
+185.18.250.31,80,CH,Switzerland,,,,,,HTTP,Anonymous,87,20,2026-09-02T07:02:04Z
