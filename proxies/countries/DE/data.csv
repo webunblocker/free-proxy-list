@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.80.111.43,80,DE,Germany,,,,,,HTTP,Anonymous,100,20,2026-09-02T07:02:03Z

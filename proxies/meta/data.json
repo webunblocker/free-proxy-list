@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-02T07:04:00Z",
+  "timestamp": "2026-09-03T07:04:00Z",
   "source": {
     "api_base": "https://api.socks5proxies.com",
     "site_url": "https://socks5proxies.com"
@@ -13,24 +13,21 @@
       "socks5": 0
     },
     "countries": {
-      "AM": 6,
-      "CA": 4,
-      "CH": 1,
-      "DE": 1,
+      "AM": 5,
+      "CA": 1,
+      "CH": 6,
+      "ES": 2,
       "FR": 3,
-      "GB": 2,
-      "HK": 2,
-      "JO": 1,
-      "LT": 1,
-      "LU": 1,
+      "GB": 4,
       "NL": 16,
       "PH": 1,
-      "RO": 8,
-      "RU": 1,
-      "SC": 2,
-      "SG": 1,
-      "US": 40,
-      "ZZ": 9
+      "RO": 5,
+      "RU": 4,
+      "SC": 3,
+      "SG": 5,
+      "US": 28,
+      "ZA": 3,
+      "ZZ": 14
     }
   },
   "downloads": {
@@ -77,10 +74,10 @@
         "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/CH/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/CH/data.csv"
       },
-      "DE": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/DE/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/DE/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/DE/data.csv"
+      "ES": {
+        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ES/data.json",
+        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ES/data.txt",
+        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ES/data.csv"
       },
       "FR": {
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/FR/data.json",
@@ -91,26 +88,6 @@
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/GB/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/GB/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/GB/data.csv"
-      },
-      "HK": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/HK/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/HK/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/HK/data.csv"
-      },
-      "JO": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/JO/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/JO/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/JO/data.csv"
-      },
-      "LT": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/LT/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/LT/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/LT/data.csv"
-      },
-      "LU": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/LU/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/LU/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/LU/data.csv"
       },
       "NL": {
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/NL/data.json",
@@ -146,6 +123,11 @@
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.csv"
+      },
+      "ZA": {
+        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZA/data.json",
+        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZA/data.txt",
+        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZA/data.csv"
       },
       "ZZ": {
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.json",
