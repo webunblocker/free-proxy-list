@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "154.197.75.193",
-      "ip": "154.197.75.193",
+      "host": "154.83.2.154",
+      "ip": "154.83.2.154",
       "port": 80,
       "delay": 20,
       "country_code": "SC",
       "country_name": "Seychelles",
-      "checks_up": 497,
+      "checks_up": 501,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-04T07:06:02Z"
+      "last_seen": "2026-09-05T06:52:02Z"
     }
   ]
 }

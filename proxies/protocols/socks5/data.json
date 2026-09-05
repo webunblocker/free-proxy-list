@@ -1,3 +1,47 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "160.22.200.60",
+      "ip": "160.22.200.60",
+      "port": 69,
+      "delay": 2440,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 267,
+      "checks_down": 339,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 44,
+      "last_seen": "2026-09-05T06:52:21Z"
+    },
+    {
+      "host": "212.237.125.216",
+      "ip": "212.237.125.216",
+      "port": 6969,
+      "delay": 5100,
+      "country_code": "IQ",
+      "country_name": "Iraq",
+      "city": "Erbil",
+      "checks_up": 1464,
+      "checks_down": 4018,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 26,
+      "last_seen": "2026-09-05T06:51:24Z"
+    }
+  ]
 }

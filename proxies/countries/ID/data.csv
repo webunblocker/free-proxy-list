@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+160.22.200.60,69,ID,Indonesia,,,,,,SOCKS5,Elite,44,2440,2026-09-05T06:52:21Z
