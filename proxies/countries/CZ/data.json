@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "181.214.1.207",
-      "ip": "181.214.1.207",
+      "host": "195.85.23.80",
+      "ip": "195.85.23.80",
       "port": 80,
       "delay": 20,
-      "country_code": "AE",
-      "country_name": "United Arab Emirates",
-      "checks_up": 259,
+      "country_code": "CZ",
+      "country_name": "Czech Republic",
+      "checks_up": 517,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-05T06:52:04Z"
+      "last_seen": "2026-09-06T07:02:05Z"
     }
   ]
 }

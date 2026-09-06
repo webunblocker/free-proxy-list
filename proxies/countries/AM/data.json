@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.162.228.109",
-      "ip": "185.162.228.109",
+      "host": "185.162.229.169",
+      "ip": "185.162.229.169",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14865,
-      "checks_down": 1387,
+      "checks_up": 14959,
+      "checks_down": 1412,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,70 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-09-05T06:52:03Z"
-    },
-    {
-      "host": "185.162.229.85",
-      "ip": "185.162.229.85",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14673,
-      "checks_down": 1423,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-09-05T06:52:03Z"
-    },
-    {
-      "host": "185.162.231.16",
-      "ip": "185.162.231.16",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14635,
-      "checks_down": 1445,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-09-05T06:52:03Z"
-    },
-    {
-      "host": "185.162.230.187",
-      "ip": "185.162.230.187",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14677,
-      "checks_down": 1442,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-09-05T06:52:02Z"
+      "last_seen": "2026-09-06T07:02:03Z"
     }
   ]
 }

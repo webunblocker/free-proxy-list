@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "89.116.250.11",
-      "ip": "89.116.250.11",
+      "host": "89.116.250.198",
+      "ip": "89.116.250.198",
       "port": 80,
       "delay": 20,
       "country_code": "LT",
       "country_name": "Lithuania",
-      "checks_up": 504,
-      "checks_down": 0,
+      "checks_up": 1057,
+      "checks_down": 1,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,50 +18,8 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-05T06:52:04Z"
-    },
-    {
-      "host": "89.116.250.88",
-      "ip": "89.116.250.88",
-      "port": 80,
-      "delay": 20,
-      "country_code": "LT",
-      "country_name": "Lithuania",
-      "checks_up": 1034,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-05T06:52:03Z"
-    },
-    {
-      "host": "89.116.250.139",
-      "ip": "89.116.250.139",
-      "port": 80,
-      "delay": 20,
-      "country_code": "LT",
-      "country_name": "Lithuania",
-      "checks_up": 504,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-05T06:52:02Z"
+      "uptime": 99,
+      "last_seen": "2026-09-06T07:02:03Z"
     }
   ]
 }
