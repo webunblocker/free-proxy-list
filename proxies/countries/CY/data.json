@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "185.162.231.64",
-      "ip": "185.162.231.64",
+      "host": "154.92.9.53",
+      "ip": "154.92.9.53",
       "port": 80,
       "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14841,
-      "checks_down": 1407,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "city": "Nicosia",
+      "checks_up": 1075,
+      "checks_down": 3,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -18,18 +19,19 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-09-07T07:12:05Z"
+      "uptime": 99,
+      "last_seen": "2026-09-07T07:12:03Z"
     },
     {
-      "host": "185.162.228.215",
-      "ip": "185.162.228.215",
+      "host": "154.92.9.124",
+      "ip": "154.92.9.124",
       "port": 80,
       "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14772,
-      "checks_down": 1383,
+      "country_code": "CY",
+      "country_name": "Cyprus",
+      "city": "Nicosia",
+      "checks_up": 877,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -39,7 +41,7 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 91,
+      "uptime": 100,
       "last_seen": "2026-09-07T07:12:03Z"
     }
   ]
