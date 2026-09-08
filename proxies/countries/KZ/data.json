@@ -1,13 +1,14 @@
 {
   "data": [
     {
-      "host": "188.42.89.202",
-      "ip": "188.42.89.202",
+      "host": "185.176.26.177",
+      "ip": "185.176.26.177",
       "port": 80,
-      "delay": 20,
-      "country_code": "LU",
-      "country_name": "Luxembourg",
-      "checks_up": 705,
+      "delay": 40,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "city": "Almaty",
+      "checks_up": 539,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +20,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-07T07:12:03Z"
+      "last_seen": "2026-09-08T07:06:02Z"
     }
   ]
 }
