@@ -1,26 +1,26 @@
 {
   "data": [
     {
-      "host": "188.114.97.7",
-      "ip": "188.114.97.7",
-      "port": 80,
-      "delay": 20,
+      "host": "201.184.177.10",
+      "ip": "201.184.177.10",
+      "port": 4153,
+      "delay": 3620,
       "country_code": "CO",
       "country_name": "Colombia",
       "city": "Medell?n",
-      "checks_up": 14054,
-      "checks_down": 1318,
-      "anon": 3,
-      "http": 1,
+      "checks_up": 13,
+      "checks_down": 81,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
-      "socks4": 0,
+      "socks4": 1,
       "socks5": 0,
       "protocols": [
-        "HTTP"
+        "SOCKS4"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-09-08T07:06:02Z"
+      "anonymity_level": "Elite",
+      "uptime": 13,
+      "last_seen": "2026-09-09T07:15:57Z"
     }
   ]
 }

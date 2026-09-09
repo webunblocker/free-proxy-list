@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "186.194.127.41",
+      "ip": "186.194.127.41",
+      "port": 4153,
+      "delay": 4840,
+      "country_code": "BR",
+      "country_name": "Brazil",
+      "city": "Recife",
+      "checks_up": 25,
+      "checks_down": 90,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 21,
+      "last_seen": "2026-09-09T07:15:54Z"
+    }
+  ]
+}

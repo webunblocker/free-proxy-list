@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "125.25.57.57",
+      "ip": "125.25.57.57",
+      "port": 4153,
+      "delay": 5100,
+      "country_code": "TH",
+      "country_name": "Thailand",
+      "city": "Bangkok",
+      "checks_up": 87,
+      "checks_down": 163,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 34,
+      "last_seen": "2026-09-09T07:15:55Z"
+    }
+  ]
+}

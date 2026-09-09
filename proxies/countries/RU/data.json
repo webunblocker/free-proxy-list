@@ -1,14 +1,13 @@
 {
   "data": [
     {
-      "host": "45.67.215.199",
-      "ip": "45.67.215.199",
+      "host": "31.12.75.190",
+      "ip": "31.12.75.190",
       "port": 80,
       "delay": 40,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "city": "Novosibirsk",
-      "checks_up": 639,
+      "checks_up": 1004,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -20,16 +19,16 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-08T07:06:04Z"
+      "last_seen": "2026-09-09T07:16:03Z"
     },
     {
-      "host": "185.148.105.16",
-      "ip": "185.148.105.16",
+      "host": "185.148.105.35",
+      "ip": "185.148.105.35",
       "port": 80,
-      "delay": 20,
+      "delay": 40,
       "country_code": "RU",
       "country_name": "Russian Federation",
-      "checks_up": 533,
+      "checks_up": 532,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -41,70 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-08T07:06:03Z"
-    },
-    {
-      "host": "45.8.211.193",
-      "ip": "45.8.211.193",
-      "port": 80,
-      "delay": 40,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 892,
-      "checks_down": 1,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 99,
-      "last_seen": "2026-09-08T07:06:02Z"
-    },
-    {
-      "host": "185.148.106.59",
-      "ip": "185.148.106.59",
-      "port": 80,
-      "delay": 40,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 604,
-      "checks_down": 51,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 92,
-      "last_seen": "2026-09-08T07:06:02Z"
-    },
-    {
-      "host": "185.148.105.135",
-      "ip": "185.148.105.135",
-      "port": 80,
-      "delay": 40,
-      "country_code": "RU",
-      "country_name": "Russian Federation",
-      "checks_up": 646,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-08T07:06:02Z"
+      "last_seen": "2026-09-09T07:16:03Z"
     }
   ]
 }

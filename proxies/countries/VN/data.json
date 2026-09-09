@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "host": "116.97.117.27",
+      "ip": "116.97.117.27",
+      "port": 4153,
+      "delay": 4340,
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "city": "H?i D??ng",
+      "checks_up": 36,
+      "checks_down": 86,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 29,
+      "last_seen": "2026-09-09T07:15:58Z"
+    },
+    {
+      "host": "14.241.182.44",
+      "ip": "14.241.182.44",
+      "port": 5678,
+      "delay": 5100,
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "city": "Qu?n Ninh Ki?u",
+      "checks_up": 130,
+      "checks_down": 720,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 0,
+      "protocols": [
+        "SOCKS4"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 15,
+      "last_seen": "2026-09-09T07:15:57Z"
+    }
+  ]
+}

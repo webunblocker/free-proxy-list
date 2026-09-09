@@ -1,4 +1,5 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-185.162.231.1,80,AM,Armenia,,,,,,HTTP,Anonymous,91,40,2026-09-08T07:06:04Z
-185.162.231.6,80,AM,Armenia,,,,,,HTTP,Anonymous,91,40,2026-09-08T07:06:04Z
-185.162.228.19,80,AM,Armenia,,,,,,HTTP,Anonymous,91,20,2026-09-08T07:06:03Z
+185.162.229.10,80,AM,Armenia,,,,,,HTTP,Anonymous,91,40,2026-09-09T07:16:03Z
+185.162.228.200,80,AM,Armenia,,,,,,HTTP,Anonymous,91,40,2026-09-09T07:16:03Z
+185.162.230.27,80,AM,Armenia,,,,,,HTTP,Anonymous,90,60,2026-09-09T07:16:03Z
+212.34.230.102,4153,AM,Armenia,Yerevan,,,,,SOCKS4,Elite,30,5100,2026-09-09T07:16:03Z
