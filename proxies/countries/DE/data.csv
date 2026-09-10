@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-152.53.183.107,8081,DE,Germany,Nuremberg,,,,,HTTPS|SOCKS4|SOCKS5,Elite,99,5100,2026-09-09T07:15:58Z
+128.140.113.110,999,DE,Germany,Falkenstein,,,,,HTTP,Elite,51,520,2026-09-10T07:12:14Z

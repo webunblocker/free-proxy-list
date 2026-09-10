@@ -1,8 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-45.131.5.119,80,NL,Netherlands,,,,,,HTTP,Anonymous,86,20,2026-09-09T07:16:03Z
-45.131.4.135,80,NL,Netherlands,,,,,,HTTP,Anonymous,88,40,2026-09-09T07:16:03Z
-188.114.98.5,80,NL,Netherlands,Amsterdam,,,,,HTTP,Anonymous,90,20,2026-09-09T07:16:03Z
-45.131.211.96,80,NL,Netherlands,,,,,,HTTP,Anonymous,100,20,2026-09-09T07:16:03Z
-87.239.251.202,1081,NL,Netherlands,Amsterdam,,,,,SOCKS4,Elite,65,3620,2026-09-09T07:15:59Z
-31.220.40.59,5080,NL,Netherlands,,,,,,SOCKS5,Elite,44,640,2026-09-09T07:15:43Z
-45.131.4.128,80,NL,Netherlands,,,,,,HTTP,Anonymous,89,20,2026-09-09T07:15:02Z
+188.114.97.18,80,NL,Netherlands,Amsterdam,,,,,HTTP,Anonymous,91,0,2026-09-10T07:12:03Z

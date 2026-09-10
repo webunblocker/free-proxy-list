@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-190.13.147.241,5678,CL,Chile,,,,,,SOCKS4,Elite,16,3160,2026-09-09T07:15:55Z

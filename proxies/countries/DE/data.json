@@ -1,28 +1,26 @@
 {
   "data": [
     {
-      "host": "152.53.183.107",
-      "ip": "152.53.183.107",
-      "port": 8081,
-      "delay": 5100,
+      "host": "128.140.113.110",
+      "ip": "128.140.113.110",
+      "port": 999,
+      "delay": 520,
       "country_code": "DE",
       "country_name": "Germany",
-      "city": "Nuremberg",
-      "checks_up": 183,
-      "checks_down": 1,
+      "city": "Falkenstein",
+      "checks_up": 2304,
+      "checks_down": 2151,
       "anon": 4,
-      "http": 0,
-      "ssl": 1,
-      "socks4": 1,
-      "socks5": 1,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
       "protocols": [
-        "HTTPS",
-        "SOCKS4",
-        "SOCKS5"
+        "HTTP"
       ],
       "anonymity_level": "Elite",
-      "uptime": 99,
-      "last_seen": "2026-09-09T07:15:58Z"
+      "uptime": 51,
+      "last_seen": "2026-09-10T07:12:14Z"
     }
   ]
 }
