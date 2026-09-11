@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+36.94.246.17,8080,ID,Indonesia,Depok,,,,,HTTP,Anonymous,22,5100,2026-09-11T07:12:11Z

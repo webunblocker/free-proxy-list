@@ -1,104 +1,36 @@
 {
   "data": [
     {
-      "host": "184.170.248.5",
-      "ip": "184.170.248.5",
+      "host": "72.195.114.184",
+      "ip": "72.195.114.184",
+      "port": 4145,
+      "delay": 420,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 58531,
+      "checks_down": 30600,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 65,
+      "last_seen": "2026-09-11T07:11:04Z"
+    },
+    {
+      "host": "174.64.199.82",
+      "ip": "174.64.199.82",
       "port": 4145,
       "delay": 400,
       "country_code": "US",
       "country_name": "United States",
-      "city": "Peachtree Corners",
-      "checks_up": 27393,
-      "checks_down": 23071,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 54,
-      "last_seen": "2026-09-10T07:12:05Z"
-    },
-    {
-      "host": "72.205.0.93",
-      "ip": "72.205.0.93",
-      "port": 4145,
-      "delay": 540,
-      "country_code": "US",
-      "country_name": "United States",
-      "city": "Fredericksburg",
-      "checks_up": 6372,
-      "checks_down": 2336,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 73,
-      "last_seen": "2026-09-10T07:12:04Z"
-    },
-    {
-      "host": "142.54.239.1",
-      "ip": "142.54.239.1",
-      "port": 4145,
-      "delay": 300,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 26280,
-      "checks_down": 12393,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 67,
-      "last_seen": "2026-09-10T07:12:04Z"
-    },
-    {
-      "host": "192.252.216.81",
-      "ip": "192.252.216.81",
-      "port": 4145,
-      "delay": 400,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 26257,
-      "checks_down": 21850,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 54,
-      "last_seen": "2026-09-10T07:12:04Z"
-    },
-    {
-      "host": "142.54.237.34",
-      "ip": "142.54.237.34",
-      "port": 4145,
-      "delay": 280,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 23052,
-      "checks_down": 12623,
+      "checks_up": 59700,
+      "checks_down": 32307,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -110,28 +42,7 @@
       ],
       "anonymity_level": "Elite",
       "uptime": 64,
-      "last_seen": "2026-09-10T07:12:03Z"
-    },
-    {
-      "host": "45.74.31.42",
-      "ip": "45.74.31.42",
-      "port": 4974,
-      "delay": 4060,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 5,
-      "checks_down": 53,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 8,
-      "last_seen": "2026-09-10T07:11:18Z"
+      "last_seen": "2026-09-11T07:11:04Z"
     }
   ]
 }
