@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "185.176.26.143",
-      "ip": "185.176.26.143",
+      "host": "185.176.26.178",
+      "ip": "185.176.26.178",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
       "city": "Almaty",
-      "checks_up": 305,
+      "checks_up": 567,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -20,38 +20,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-11T07:12:04Z"
+      "last_seen": "2026-09-12T07:02:04Z"
     },
     {
-      "host": "31.43.179.70",
-      "ip": "31.43.179.70",
-      "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 13280,
-      "checks_down": 1364,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-09-11T07:12:03Z"
-    },
-    {
-      "host": "185.176.26.18",
-      "ip": "185.176.26.18",
+      "host": "185.176.26.61",
+      "ip": "185.176.26.61",
       "port": 80,
       "delay": 20,
       "country_code": "KZ",
       "country_name": "Kazakstan",
       "city": "Almaty",
-      "checks_up": 554,
+      "checks_up": 562,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -63,7 +42,29 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-11T07:12:03Z"
+      "last_seen": "2026-09-12T07:02:03Z"
+    },
+    {
+      "host": "185.176.26.79",
+      "ip": "185.176.26.79",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "city": "Almaty",
+      "checks_up": 1241,
+      "checks_down": 59,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 95,
+      "last_seen": "2026-09-12T07:01:04Z"
     }
   ]
 }

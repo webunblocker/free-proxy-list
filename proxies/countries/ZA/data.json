@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "103.169.142.153",
-      "ip": "103.169.142.153",
+      "host": "160.123.255.117",
+      "ip": "160.123.255.117",
       "port": 80,
       "delay": 20,
-      "country_code": "AU",
-      "country_name": "Australia",
-      "checks_up": 632,
+      "country_code": "ZA",
+      "country_name": "South Africa",
+      "checks_up": 561,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-11T07:12:02Z"
+      "last_seen": "2026-09-12T07:01:04Z"
     }
   ]
 }
