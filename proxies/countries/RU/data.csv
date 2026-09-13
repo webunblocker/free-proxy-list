@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+79.111.118.99,1080,RU,Russian Federation,Stary Oskol,,,,,SOCKS5,Elite,33,960,2026-09-13T07:22:49Z

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "113.249.111.67",
+      "ip": "113.249.111.67",
+      "port": 1080,
+      "delay": 1340,
+      "country_code": "CN",
+      "country_name": "China",
+      "city": "Chongqing",
+      "checks_up": 177,
+      "checks_down": 7,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 96,
+      "last_seen": "2026-09-13T07:22:38Z"
+    }
+  ]
+}

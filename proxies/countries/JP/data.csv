@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-154.83.2.158,80,PH,Philippines,,,,,,HTTP,Anonymous,100,20,2026-09-12T07:01:04Z
+191.223.220.23,1080,JP,Japan,Tokyo,,,,,SOCKS5,Elite,23,1220,2026-09-13T07:22:41Z

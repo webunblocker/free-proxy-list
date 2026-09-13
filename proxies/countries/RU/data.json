@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "79.111.118.99",
+      "ip": "79.111.118.99",
+      "port": 1080,
+      "delay": 960,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "city": "Stary Oskol",
+      "checks_up": 64,
+      "checks_down": 129,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 33,
+      "last_seen": "2026-09-13T07:22:49Z"
+    }
+  ]
+}

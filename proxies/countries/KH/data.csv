@@ -1,0 +1,3 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+202.62.42.92,1080,KH,Cambodia,Phnom Penh,,,,,SOCKS5,Elite,24,2500,2026-09-13T07:22:50Z
+111.67.103.162,1080,KH,Cambodia,Phnom Penh,,,,,SOCKS5,Elite,13,1500,2026-09-13T07:22:50Z

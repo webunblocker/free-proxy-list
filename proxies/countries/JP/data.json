@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "191.223.220.23",
+      "ip": "191.223.220.23",
+      "port": 1080,
+      "delay": 1220,
+      "country_code": "JP",
+      "country_name": "Japan",
+      "city": "Tokyo",
+      "checks_up": 46,
+      "checks_down": 152,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 23,
+      "last_seen": "2026-09-13T07:22:41Z"
+    }
+  ]
+}

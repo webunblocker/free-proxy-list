@@ -1,25 +1,26 @@
 {
   "data": [
     {
-      "host": "160.123.255.117",
-      "ip": "160.123.255.117",
-      "port": 80,
-      "delay": 20,
+      "host": "168.253.92.93",
+      "ip": "168.253.92.93",
+      "port": 10808,
+      "delay": 3600,
       "country_code": "ZA",
       "country_name": "South Africa",
-      "checks_up": 561,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
+      "city": "Rustenburg",
+      "checks_up": 325,
+      "checks_down": 791,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 0,
+      "socks5": 1,
       "protocols": [
-        "HTTP"
+        "SOCKS5"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-12T07:01:04Z"
+      "anonymity_level": "Elite",
+      "uptime": 29,
+      "last_seen": "2026-09-13T07:22:49Z"
     }
   ]
 }
