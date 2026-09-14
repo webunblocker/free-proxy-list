@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-103.153.69.111,1080,VN,Vietnam,,,,,,SOCKS5,Elite,33,5100,2026-09-13T07:22:57Z
-160.22.17.4,9988,VN,Vietnam,,,,,,SOCKS5,Elite,69,1560,2026-09-13T07:22:37Z

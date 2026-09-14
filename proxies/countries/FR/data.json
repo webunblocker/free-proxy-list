@@ -1,82 +1,15 @@
 {
   "data": [
     {
-      "host": "109.123.251.109",
-      "ip": "109.123.251.109",
-      "port": 1080,
-      "delay": 1960,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Lauterbourg",
-      "checks_up": 464,
-      "checks_down": 203,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-09-13T07:22:39Z"
-    },
-    {
-      "host": "144.91.121.61",
-      "ip": "144.91.121.61",
-      "port": 1088,
-      "delay": 2300,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Lauterbourg",
-      "checks_up": 814,
-      "checks_down": 118,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 87,
-      "last_seen": "2026-09-13T07:22:38Z"
-    },
-    {
-      "host": "213.199.47.140",
-      "ip": "213.199.47.140",
-      "port": 1080,
-      "delay": 2400,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Lauterbourg",
-      "checks_up": 628,
-      "checks_down": 201,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS5"
-      ],
-      "anonymity_level": "Elite",
-      "uptime": 75,
-      "last_seen": "2026-09-13T07:22:38Z"
-    },
-    {
-      "host": "173.245.49.50",
-      "ip": "173.245.49.50",
+      "host": "173.245.49.143",
+      "ip": "173.245.49.143",
       "port": 80,
-      "delay": 20,
+      "delay": 40,
       "country_code": "FR",
       "country_name": "France",
       "city": "Paris",
-      "checks_up": 17670,
-      "checks_down": 1292,
+      "checks_up": 9711,
+      "checks_down": 1159,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -86,8 +19,30 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 93,
-      "last_seen": "2026-09-13T07:22:04Z"
+      "uptime": 89,
+      "last_seen": "2026-09-14T07:46:01Z"
+    },
+    {
+      "host": "173.245.49.236",
+      "ip": "173.245.49.236",
+      "port": 80,
+      "delay": 20,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 9678,
+      "checks_down": 1162,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 89,
+      "last_seen": "2026-09-14T07:45:05Z"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "185.162.228.40",
-      "ip": "185.162.228.40",
+      "host": "185.162.230.172",
+      "ip": "185.162.230.172",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14882,
+      "checks_up": 14992,
       "checks_down": 1425,
       "anon": 3,
       "http": 1,
@@ -19,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-09-13T07:22:04Z"
+      "last_seen": "2026-09-14T07:46:02Z"
     },
     {
-      "host": "185.162.228.24",
-      "ip": "185.162.228.24",
+      "host": "185.162.231.145",
+      "ip": "185.162.231.145",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14832,
-      "checks_down": 1396,
+      "checks_up": 14750,
+      "checks_down": 1442,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,17 +40,59 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-09-13T07:22:04Z"
+      "last_seen": "2026-09-14T07:46:02Z"
     },
     {
-      "host": "185.162.231.5",
-      "ip": "185.162.231.5",
+      "host": "185.162.231.74",
+      "ip": "185.162.231.74",
       "port": 80,
-      "delay": 20,
+      "delay": 40,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 12559,
-      "checks_down": 1342,
+      "checks_up": 14766,
+      "checks_down": 1423,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-09-14T07:46:02Z"
+    },
+    {
+      "host": "185.162.228.155",
+      "ip": "185.162.228.155",
+      "port": 80,
+      "delay": 40,
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "checks_up": 14791,
+      "checks_down": 1446,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-09-14T07:46:01Z"
+    },
+    {
+      "host": "185.162.230.25",
+      "ip": "185.162.230.25",
+      "port": 80,
+      "delay": 40,
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "checks_up": 14789,
+      "checks_down": 1470,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,7 +103,70 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 90,
-      "last_seen": "2026-09-13T07:22:03Z"
+      "last_seen": "2026-09-14T07:46:01Z"
+    },
+    {
+      "host": "185.162.228.208",
+      "ip": "185.162.228.208",
+      "port": 80,
+      "delay": 40,
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "checks_up": 14928,
+      "checks_down": 1381,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-09-14T07:46:01Z"
+    },
+    {
+      "host": "185.162.231.178",
+      "ip": "185.162.231.178",
+      "port": 80,
+      "delay": 40,
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "checks_up": 14830,
+      "checks_down": 1399,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 91,
+      "last_seen": "2026-09-14T07:46:01Z"
+    },
+    {
+      "host": "185.162.231.252",
+      "ip": "185.162.231.252",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AM",
+      "country_name": "Armenia",
+      "checks_up": 14754,
+      "checks_down": 1462,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-09-14T07:46:01Z"
     }
   ]
 }

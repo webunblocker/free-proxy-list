@@ -1,2 +1,4 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-81.0.49.104,18500,ES,Spain,,,,,,SOCKS5,Elite,37,1780,2026-09-13T07:22:47Z
+185.238.228.221,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-14T07:46:02Z
+185.238.228.200,80,ES,Spain,,,,,,HTTP,Anonymous,90,40,2026-09-14T07:46:02Z
+185.238.228.46,80,ES,Spain,,,,,,HTTP,Anonymous,90,40,2026-09-14T07:46:02Z

@@ -1,15 +1,14 @@
 {
   "data": [
     {
-      "host": "206.238.237.249",
-      "ip": "206.238.237.249",
+      "host": "89.116.250.255",
+      "ip": "89.116.250.255",
       "port": 80,
       "delay": 40,
-      "country_code": "SG",
-      "country_name": "Singapore",
-      "city": "Singapore",
-      "checks_up": 3834,
-      "checks_down": 1245,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "checks_up": 832,
+      "checks_down": 0,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -19,7 +18,7 @@
         "HTTP"
       ],
       "anonymity_level": "Anonymous",
-      "uptime": 75,
+      "uptime": 100,
       "last_seen": "2026-09-14T07:46:01Z"
     }
   ]
