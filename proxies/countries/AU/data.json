@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "host": "103.169.142.102",
+      "ip": "103.169.142.102",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 1028,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-09-15T07:36:02Z"
+    },
+    {
+      "host": "103.169.142.123",
+      "ip": "103.169.142.123",
+      "port": 80,
+      "delay": 20,
+      "country_code": "AU",
+      "country_name": "Australia",
+      "checks_up": 336,
+      "checks_down": 0,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 100,
+      "last_seen": "2026-09-15T07:36:02Z"
+    }
+  ]
+}
