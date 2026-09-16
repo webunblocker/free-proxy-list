@@ -1,25 +1,26 @@
 {
   "data": [
     {
-      "host": "160.22.17.4",
-      "ip": "160.22.17.4",
-      "port": 9988,
-      "delay": 1580,
-      "country_code": "VN",
-      "country_name": "Vietnam",
-      "checks_up": 731,
-      "checks_down": 322,
+      "host": "24.249.199.12",
+      "ip": "24.249.199.12",
+      "port": 4145,
+      "delay": 400,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 59548,
+      "checks_down": 31585,
       "anon": 4,
       "http": 0,
       "ssl": 0,
-      "socks4": 0,
+      "socks4": 1,
       "socks5": 1,
       "protocols": [
+        "SOCKS4",
         "SOCKS5"
       ],
       "anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-09-15T07:36:06Z"
+      "uptime": 65,
+      "last_seen": "2026-09-16T07:35:03Z"
     }
   ]
 }

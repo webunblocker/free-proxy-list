@@ -1,35 +1,14 @@
 {
   "data": [
     {
-      "host": "185.162.231.121",
-      "ip": "185.162.231.121",
-      "port": 80,
-      "delay": 40,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14757,
-      "checks_down": 1470,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-09-15T07:36:04Z"
-    },
-    {
-      "host": "185.162.229.189",
-      "ip": "185.162.229.189",
+      "host": "185.162.229.148",
+      "ip": "185.162.229.148",
       "port": 80,
       "delay": 20,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14911,
-      "checks_down": 1393,
+      "checks_up": 14844,
+      "checks_down": 1369,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -40,17 +19,17 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-09-15T07:36:02Z"
+      "last_seen": "2026-09-16T07:36:02Z"
     },
     {
-      "host": "185.162.229.76",
-      "ip": "185.162.229.76",
+      "host": "185.162.230.139",
+      "ip": "185.162.230.139",
       "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "AM",
       "country_name": "Armenia",
-      "checks_up": 14908,
-      "checks_down": 1390,
+      "checks_up": 14850,
+      "checks_down": 1436,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -61,28 +40,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 91,
-      "last_seen": "2026-09-15T07:35:05Z"
-    },
-    {
-      "host": "185.162.230.99",
-      "ip": "185.162.230.99",
-      "port": 80,
-      "delay": 20,
-      "country_code": "AM",
-      "country_name": "Armenia",
-      "checks_up": 14775,
-      "checks_down": 1413,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 91,
-      "last_seen": "2026-09-15T07:35:04Z"
+      "last_seen": "2026-09-16T07:36:02Z"
     }
   ]
 }

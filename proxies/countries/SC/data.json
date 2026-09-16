@@ -1,34 +1,13 @@
 {
   "data": [
     {
-      "host": "154.197.75.23",
-      "ip": "154.197.75.23",
-      "port": 80,
-      "delay": 40,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 634,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-15T07:36:04Z"
-    },
-    {
-      "host": "154.194.12.25",
-      "ip": "154.194.12.25",
+      "host": "154.83.2.199",
+      "ip": "154.83.2.199",
       "port": 80,
       "delay": 20,
       "country_code": "SC",
       "country_name": "Seychelles",
-      "checks_up": 587,
+      "checks_up": 584,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -40,28 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-15T07:36:02Z"
-    },
-    {
-      "host": "154.83.2.172",
-      "ip": "154.83.2.172",
-      "port": 80,
-      "delay": 20,
-      "country_code": "SC",
-      "country_name": "Seychelles",
-      "checks_up": 586,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-15T07:36:02Z"
+      "last_seen": "2026-09-16T07:36:03Z"
     }
   ]
 }

@@ -1,9 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-195.85.23.164,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,20,2026-09-15T07:36:05Z
-195.85.23.244,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,40,2026-09-15T07:36:04Z
-195.85.23.68,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,40,2026-09-15T07:36:04Z
-195.85.23.76,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,99,20,2026-09-15T07:36:02Z
-195.85.23.129,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,20,2026-09-15T07:36:02Z
-195.85.23.91,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,20,2026-09-15T07:36:02Z
-195.85.23.70,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,20,2026-09-15T07:36:02Z
-195.85.23.0,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,20,2026-09-15T07:36:02Z
+195.85.23.98,80,CZ,Czech Republic,,,,,,HTTP,Anonymous,100,0,2026-09-16T07:36:03Z
