@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-89.116.250.16,80,LT,Lithuania,,,,,,HTTP,Anonymous,100,20,2026-09-16T07:36:02Z
+93.93.61.153,1080,LT,Lithuania,Vilnius,,,,,SOCKS4,Elite,33,1080,2026-09-17T07:33:00Z

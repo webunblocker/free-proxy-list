@@ -1,56 +1,14 @@
 {
   "data": [
     {
-      "host": "31.43.179.127",
-      "ip": "31.43.179.127",
+      "host": "185.176.26.61",
+      "ip": "185.176.26.61",
       "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 12369,
-      "checks_down": 1349,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-09-16T07:36:03Z"
-    },
-    {
-      "host": "31.43.179.76",
-      "ip": "31.43.179.76",
-      "port": 80,
-      "delay": 20,
-      "country_code": "KZ",
-      "country_name": "Kazakstan",
-      "checks_up": 13380,
-      "checks_down": 1343,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Anonymous",
-      "uptime": 90,
-      "last_seen": "2026-09-16T07:36:03Z"
-    },
-    {
-      "host": "185.176.26.91",
-      "ip": "185.176.26.91",
-      "port": 80,
-      "delay": 20,
+      "delay": 0,
       "country_code": "KZ",
       "country_name": "Kazakstan",
       "city": "Almaty",
-      "checks_up": 546,
+      "checks_up": 602,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -62,7 +20,28 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-16T07:36:03Z"
+      "last_seen": "2026-09-17T07:32:03Z"
+    },
+    {
+      "host": "31.43.179.207",
+      "ip": "31.43.179.207",
+      "port": 80,
+      "delay": 20,
+      "country_code": "KZ",
+      "country_name": "Kazakstan",
+      "checks_up": 13212,
+      "checks_down": 1380,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Anonymous",
+      "uptime": 90,
+      "last_seen": "2026-09-17T07:32:01Z"
     }
   ]
 }

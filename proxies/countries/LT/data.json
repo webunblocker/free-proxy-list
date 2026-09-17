@@ -1,25 +1,26 @@
 {
   "data": [
     {
-      "host": "89.116.250.16",
-      "ip": "89.116.250.16",
-      "port": 80,
-      "delay": 20,
+      "host": "93.93.61.153",
+      "ip": "93.93.61.153",
+      "port": 1080,
+      "delay": 1080,
       "country_code": "LT",
       "country_name": "Lithuania",
-      "checks_up": 910,
-      "checks_down": 0,
-      "anon": 3,
-      "http": 1,
+      "city": "Vilnius",
+      "checks_up": 77,
+      "checks_down": 153,
+      "anon": 4,
+      "http": 0,
       "ssl": 0,
-      "socks4": 0,
+      "socks4": 1,
       "socks5": 0,
       "protocols": [
-        "HTTP"
+        "SOCKS4"
       ],
-      "anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-09-16T07:36:02Z"
+      "anonymity_level": "Elite",
+      "uptime": 33,
+      "last_seen": "2026-09-17T07:33:00Z"
     }
   ]
 }
