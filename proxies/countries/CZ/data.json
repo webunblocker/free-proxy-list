@@ -1,13 +1,13 @@
 {
   "data": [
     {
-      "host": "195.85.23.229",
-      "ip": "195.85.23.229",
+      "host": "195.85.23.152",
+      "ip": "195.85.23.152",
       "port": 80,
-      "delay": 0,
+      "delay": 20,
       "country_code": "CZ",
       "country_name": "Czech Republic",
-      "checks_up": 782,
+      "checks_up": 792,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -19,7 +19,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-17T07:32:04Z"
+      "last_seen": "2026-09-18T07:16:04Z"
     }
   ]
 }

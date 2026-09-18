@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "host": "218.252.192.228",
+      "ip": "218.252.192.228",
+      "port": 80,
+      "delay": 1340,
+      "country_code": "HK",
+      "country_name": "Hong Kong",
+      "city": "Tuenmen",
+      "checks_up": 1376,
+      "checks_down": 586,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 70,
+      "last_seen": "2026-09-18T07:16:04Z"
+    }
+  ]
+}

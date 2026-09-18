@@ -1,0 +1,14 @@
+ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+185.238.228.109,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:04Z
+185.238.228.11,80,ES,Spain,,,,,,HTTP,Anonymous,87,20,2026-09-18T07:16:04Z
+185.238.228.73,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:04Z
+185.238.228.71,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:04Z
+185.238.228.54,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.141,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.181,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.142,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.4,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.242,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.18,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.240,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z
+185.238.228.26,80,ES,Spain,,,,,,HTTP,Anonymous,90,20,2026-09-18T07:16:02Z

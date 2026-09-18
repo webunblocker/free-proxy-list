@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "109.194.34.246",
+      "ip": "109.194.34.246",
+      "port": 8082,
+      "delay": 920,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "checks_up": 479,
+      "checks_down": 94,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 83,
+      "last_seen": "2026-09-18T07:16:04Z"
+    }
+  ]
+}

@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-109.172.55.177,1082,FR,France,Paris,,,,,SOCKS5,Elite,67,620,2026-09-17T07:33:00Z
+173.245.49.145,80,FR,France,Paris,,,,,HTTP,Anonymous,89,20,2026-09-18T07:16:02Z

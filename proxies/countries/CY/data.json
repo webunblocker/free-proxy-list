@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "154.92.9.44",
-      "ip": "154.92.9.44",
+      "host": "154.92.9.58",
+      "ip": "154.92.9.58",
       "port": 80,
       "delay": 20,
       "country_code": "CY",
       "country_name": "Cyprus",
       "city": "Nicosia",
-      "checks_up": 1142,
+      "checks_up": 734,
       "checks_down": 0,
       "anon": 3,
       "http": 1,
@@ -20,7 +20,7 @@
       ],
       "anonymity_level": "Anonymous",
       "uptime": 100,
-      "last_seen": "2026-09-17T07:32:03Z"
+      "last_seen": "2026-09-18T07:16:04Z"
     }
   ]
 }
