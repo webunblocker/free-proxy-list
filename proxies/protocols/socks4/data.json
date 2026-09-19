@@ -1,3 +1,104 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "107.150.41.226",
+      "ip": "107.150.41.226",
+      "port": 18080,
+      "delay": 451,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 40,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-09-19T07:15:43Z",
+      "last_checked": "2026-09-19T05:04:53Z",
+      "health_score": 100
+    },
+    {
+      "host": "213.111.146.36",
+      "ip": "213.111.146.36",
+      "port": 18080,
+      "delay": 1393,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 40,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-09-19T07:15:43Z",
+      "last_checked": "2026-09-19T05:04:54Z",
+      "health_score": 85
+    },
+    {
+      "host": "103.137.193.55",
+      "ip": "103.137.193.55",
+      "port": 1080,
+      "delay": 1891,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 7,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-09-19T07:15:43Z",
+      "last_checked": "2026-09-19T05:04:54Z",
+      "health_score": 85
+    },
+    {
+      "host": "152.69.211.50",
+      "ip": "152.69.211.50",
+      "port": 40001,
+      "delay": 2039,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 40,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-09-19T07:15:43Z",
+      "last_checked": "2026-09-19T05:04:54Z",
+      "health_score": 85
+    }
+  ]
 }

@@ -1,0 +1,27 @@
+{
+  "data": [
+    {
+      "host": "190.97.236.129",
+      "ip": "190.97.236.129",
+      "port": 999,
+      "delay": 892,
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "checks_up": 40,
+      "checks_down": 0,
+      "anon": 4,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 100,
+      "last_seen": "2026-09-16T13:31:14Z",
+      "last_checked": "2026-09-19T05:04:53Z",
+      "health_score": 100
+    }
+  ]
+}

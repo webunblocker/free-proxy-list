@@ -1,1 +1,5 @@
 ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
+107.150.41.226,18080,ZZ,Unknown,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,100,451,2026-09-19T07:15:43Z
+213.111.146.36,18080,ZZ,Unknown,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,100,1393,2026-09-19T07:15:43Z
+185.195.71.218,18080,ZZ,Unknown,,,,,,HTTPS|SOCKS5,Elite,100,1466,2026-09-19T07:15:43Z
+185.200.188.234,10001,ZZ,Unknown,,,,,,HTTPS,Elite,100,2912,2026-09-19T07:15:43Z
