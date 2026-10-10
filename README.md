@@ -27,7 +27,7 @@
 
 Daily snapshot of public proxy endpoints exported from Socks5Proxies.com.
 
-> Latest snapshot: **100** proxies from **2** countries at **Oct 9, 2026, 8:57 AM**.
+> Latest snapshot: **100** proxies from **2** countries at **Oct 10, 2026, 8:25 AM**.
 
 ## Why this repo exists
 
