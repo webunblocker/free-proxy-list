@@ -75,3 +75,14 @@ curl -fsSL https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies
 - Live site: [https://socks5proxies.com](https://socks5proxies.com)
 - Free proxy list: [https://socks5proxies.com/free-proxy-list?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo](https://socks5proxies.com/free-proxy-list?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo)
 - API docs: [https://socks5proxies.com/docs/api?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo](https://socks5proxies.com/docs/api?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo)
+
+## Data sources and licences
+
+Each row is our own check of an address that public proxy lists publish. Some of these addresses were first
+published by lists licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), which ask for this credit:
+
+- [proxio.io](https://proxio.io) ([proxio-io/proxy-list](https://github.com/proxio-io/proxy-list))
+- [proxmint/free-proxy-list](https://github.com/proxmint/free-proxy-list)
+
+`LICENSE` (MIT) covers this repository's scripts and text. It does not relicense addresses taken from those lists:
+reuse them under their licences, with the credits above.
