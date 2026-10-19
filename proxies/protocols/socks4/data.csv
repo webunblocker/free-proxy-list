@@ -1,5 +1,3 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-107.150.41.226,18080,ZZ,Unknown,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,100,451,2026-09-19T07:15:43Z
-213.111.146.36,18080,ZZ,Unknown,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,100,1393,2026-09-19T07:15:43Z
-103.137.193.55,1080,ZZ,Unknown,,,,,,SOCKS4|SOCKS5,Elite,100,1891,2026-09-19T07:15:43Z
-152.69.211.50,40001,ZZ,Unknown,,,,,,SOCKS4|SOCKS5,Elite,100,2039,2026-09-19T07:15:43Z
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"45.61.129.165","9050","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","90","1907","2026-10-19T02:50:44Z","76.85469620769335"
+"47.251.127.154","1080","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","38","8603","2026-10-19T02:50:54Z","26.98036006546645"

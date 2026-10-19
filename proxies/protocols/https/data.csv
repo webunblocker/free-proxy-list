@@ -1,5 +1,6 @@
-ip,port,country_code,country_name,city,region,asn,asn_name,org,protocols,anonymity,uptime,delay_ms,last_seen
-107.150.41.226,18080,ZZ,Unknown,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,100,451,2026-09-19T07:15:43Z
-213.111.146.36,18080,ZZ,Unknown,,,,,,HTTP|HTTPS|SOCKS4|SOCKS5,Elite,100,1393,2026-09-19T07:15:43Z
-185.195.71.218,18080,ZZ,Unknown,,,,,,HTTPS|SOCKS5,Elite,100,1466,2026-09-19T07:15:43Z
-185.200.188.234,10001,ZZ,Unknown,,,,,,HTTPS,Elite,100,2912,2026-09-19T07:15:43Z
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"184.75.221.82","3118","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","90","376","2026-10-19T02:50:40Z","90.920798454604"
+"103.237.102.191","11111","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","94","1252","2026-10-19T02:50:41Z","80.71177504393673"
+"165.154.162.73","8888","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Anonymous","76","67","2026-10-19T02:50:43Z","76.5282583621684"
+"195.158.8.123","3128","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","74","3242","2026-10-19T02:50:50Z","52.47577615186869"
+"114.246.194.209","8888","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","36","6959","2026-10-19T02:49:43Z","25.747126436781606"
