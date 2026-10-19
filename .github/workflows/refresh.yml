@@ -15,6 +15,9 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    env:
+      REPO_SLUG: webunblocker/free-proxy-list
+      REPO_BRANCH: main
 
     steps:
       - name: Checkout
@@ -30,8 +33,6 @@ jobs:
           API_BASE_URL: https://api.socks5proxies.com
           PROXYLIST_API_KEY: ${{ secrets.PROXYLIST_API_KEY }}
           SITE_URL: https://socks5proxies.com
-          REPO_SLUG: webunblocker/free-proxy-list
-          REPO_BRANCH: main
         run: node scripts/refresh.mjs
 
       - name: Validate snapshot
@@ -43,6 +44,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes
+        id: commit
         run: |
           if git diff --quiet; then
             echo "No changes to commit"
@@ -51,3 +53,13 @@ jobs:
           git add README.md proxies
           git commit -m "chore(data): refresh proxy snapshot"
           git push
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      # jsDelivr keeps @branch files 12 h at the edge, longer than the refresh interval.
+      # Purge every path this commit changed or removed so the CDN serves the new snapshot.
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.pushed == 'true'
+        run: |
+          paths=$(git diff --name-only HEAD~1 HEAD -- README.md proxies)
+          echo "$paths" | xargs -P 4 -I{} curl -fsS --retry 3 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/{}"
+          echo "Purged $(echo "$paths" | wc -l) paths"

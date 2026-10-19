@@ -75,7 +75,7 @@ async function main() {
   // Keep the existing public-repository ship route unchanged; this only reads
   // its already-present scaffold, and never contacts or writes to GitHub.
   const workflow = await readText(".github/workflows/refresh.yml");
-  for (const snippet of ['cron: "15 */6 * * *"', "node scripts/refresh.mjs", "node scripts/validate.mjs", "git add README.md proxies"]) {
+  for (const snippet of ['cron: "15 */6 * * *"', "node scripts/refresh.mjs", "node scripts/validate.mjs", "git add README.md proxies", "https://purge.jsdelivr.net/gh/"]) {
     requireValue(workflow.includes(snippet), `existing refresh scaffold missing ${snippet}`);
   }
   const refresh = await readText("scripts/refresh.mjs");
