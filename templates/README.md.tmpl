@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Updated-Daily-16a34a" alt="Updated daily">
+  <img src="https://img.shields.io/badge/Updated-Every%206h-16a34a" alt="Updated every 6 hours">
   <a href="{{ALL_TXT_URL}}">
     <img src="https://img.shields.io/badge/all-{{TOTAL_ALL}}-2563eb" alt="All proxies">
   </a>
@@ -25,13 +25,19 @@
 
 # Socks5Proxies Free Proxy List
 
-Daily snapshot of public proxy endpoints exported from Socks5Proxies.com.
+Snapshot of public proxy endpoints that passed Socks5Proxies.com's own latest check, refreshed every 6 hours.
 
-> Latest snapshot: **{{TOTAL_ALL}}** proxies from **{{COUNTRY_COUNT}}** countries at **{{UPDATED_AT}}**.
+> Latest snapshot: **{{TOTAL_ALL}}** verified-working proxies with metadata for **{{COUNTRY_COUNT}}** known countries at **{{UPDATED_AT}}**.
+> **{{UNKNOWN_LOCATION_COUNT}}** endpoints have unknown location metadata (ZZ); no country is invented for them.
+
+Only endpoints with a successful own check in the two hours before collection are included.
+This is a timestamped result, not a guarantee that an endpoint still works. Re-check before use.
+Failed, never-checked and stale rows are excluded even when that makes the snapshot small or empty.
+The live site's tracked inventory and country facets deliberately use a broader, clearly labelled scope.
 
 ## Why this repo exists
 
-- GitHub is the distribution channel for daily snapshots.
+- GitHub is the distribution channel for scheduled snapshots.
 - The live site is the better product surface for filtering, exports, and validation.
 - If you came here from search, use the live site when you need fresher data than the GitHub snapshot.
 
@@ -40,6 +46,16 @@ Daily snapshot of public proxy endpoints exported from Socks5Proxies.com.
 - [View Live Free Proxy List]({{PROXY_LIST_URL}})
 - [Run Bulk Checker]({{BULK_CHECKER_URL}})
 - [Read API Docs]({{API_DOCS_URL}})
+
+## Popular live facet pages
+
+Protocol facets:
+
+{{PROTOCOL_PAGE_LINKS}}
+
+Country facets:
+
+{{COUNTRY_PAGE_LINKS}}
 
 ## Direct download links
 
@@ -61,13 +77,14 @@ More country splits: [browse `proxies/countries/`](https://github.com/{{REPO_SLU
 ```bash
 curl -fsSL {{ALL_TXT_URL}} -o proxies.txt
 curl -fsSL {{SOCKS5_TXT_URL}} -o socks5.txt
-curl -fsSL {{US_TXT_URL}} -o us.txt
 ```
 
 ## Notes
 
-- This repository is a daily snapshot. The main site updates more frequently.
-- Public proxies have high churn. Re-check targets before production usage.
+- This repository refreshes every 6 hours. The main site updates more frequently.
+- Public proxies have high churn. Re-check targets before production usage; never send credentials through them.
+- JSON and CSV preserve `last_checked` and `health_score`. HTTPS transport checks do not measure anonymity; reported labels are not privacy guarantees.
+- A successful empty snapshot is published as empty. A failed or incomplete collection exits nonzero and does not refresh the prior snapshot's timestamp.
 - Use the live list, Bulk Checker, and API docs for fresher filtering and validation workflows.
 
 ## Source

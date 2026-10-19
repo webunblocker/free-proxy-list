@@ -1,481 +1,190 @@
 #!/usr/bin/env node
 
-import { readFile, rm, mkdir, writeFile } from "node:fs/promises";
+import { access, readFile, rename, rm, mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
+import { SNAPSHOT_SCOPE, MAX_CHECK_AGE_HOURS, assertSnapshotRecords, fetchWorkingSnapshot, isVerifiedWorking, serializeSnapshotCsv } from "./snapshot-quality.mjs";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const scaffoldRoot = path.resolve(__dirname, "..");
-
-const args = parseArgs(process.argv.slice(2));
-const outputDir = path.resolve(args.outputDir ?? scaffoldRoot);
-
-const config = {
-  apiBaseUrl: stripTrailingSlash(
-    process.env.API_BASE_URL ?? "https://api.socks5proxies.com",
-  ),
-  apiKey: (process.env.PROXYLIST_API_KEY ?? process.env.API_KEY ?? "").trim(),
-  siteUrl: stripTrailingSlash(
-    process.env.SITE_URL ?? "https://socks5proxies.com",
-  ),
-  repoSlug: process.env.REPO_SLUG ?? "socks5proxies/free-proxy-list",
-  repoBranch: process.env.REPO_BRANCH ?? "main",
-  fetchTimeoutMs: 60_000,
-  exportLimit: 100_000,
-  pageSize: 100,
-  userAgent:
-    "Socks5Proxies-FreeProxyList-Refresh/1.0 (+https://socks5proxies.com)",
-};
-
-const downloadBaseUrl =
-  process.env.DOWNLOAD_BASE_URL ??
-  `https://cdn.jsdelivr.net/gh/${config.repoSlug}@${config.repoBranch}`;
-
-const protocolOrder = ["http", "https", "socks4", "socks5"];
+const scaffoldRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
+const args = process.argv.slice(2);
+const outputIndex = args.indexOf("--output-dir");
+const outputDir = path.resolve(outputIndex >= 0 ? args[outputIndex + 1] : scaffoldRoot);
+const apiBaseUrl = (process.env.API_BASE_URL ?? "https://api.socks5proxies.com").replace(/\/+$/, "");
+const siteUrl = (process.env.SITE_URL ?? "https://socks5proxies.com").replace(/\/+$/, "");
+const apiKey = (process.env.PROXYLIST_API_KEY ?? process.env.API_KEY ?? "").trim();
+const repoSlug = process.env.REPO_SLUG ?? "webunblocker/free-proxy-list";
+const repoBranch = process.env.REPO_BRANCH ?? "main";
+const downloadBase = process.env.DOWNLOAD_BASE_URL ?? `https://cdn.jsdelivr.net/gh/${repoSlug}@${repoBranch}`;
+const protocols = ["http", "https", "socks4", "socks5"];
+const protocolColumn = { http: "http", https: "ssl", socks4: "socks4", socks5: "socks5" };
 
 main().catch((error) => {
-  console.error(error instanceof Error ? error.message : error);
+  console.error(error instanceof Error ? error.message : String(error));
   process.exitCode = 1;
 });
 
 async function main() {
-  console.log(`Refreshing proxy snapshot into ${outputDir}`);
-
-  const stats = await loadStats();
-  const allPayload = await loadAllPayload();
-  const allRecords = parseRecords(allPayload).map(normalizeRecord);
-  const protocolGroups = buildProtocolGroups(allRecords);
-  const countryGroups = buildCountryGroups(allRecords);
-  const protocols = new Map(
-    protocolOrder.map((protocol) => [protocol, protocolGroups[protocol].length]),
-  );
-  const countries = new Map(
-    [...countryGroups.entries()].map(([countryCode, records]) => [
-      countryCode,
-      records.length,
-    ]),
-  );
-
-  const totalAll = allRecords.length;
-  if (!Number.isFinite(totalAll) || totalAll <= 0) {
-    throw new Error("Proxy stats returned zero live proxies");
+  if (args.includes("--readme-only")) {
+    const meta = JSON.parse(await readFile(path.join(outputDir, "proxies/meta/data.json"), "utf8"));
+    const payload = JSON.parse(await readFile(path.join(outputDir, "proxies/all/data.json"), "utf8"));
+    if (meta.scope !== SNAPSHOT_SCOPE) throw new Error("Existing snapshot is not verified-working; refresh before rendering its README");
+    assertSnapshotRecords(payload.data, meta.timestamp);
+    await writeText("README.md", await renderReadme(meta));
+    return;
   }
 
-  const timestamp =
-    stats?.meta?.last_sync ||
-    new Date().toISOString();
-
-  const filteredCountries = [...countries.entries()]
-    .filter(([, count]) => count > 0)
-    .sort(([a], [b]) => a.localeCompare(b));
-
-  await rm(path.join(outputDir, "proxies"), { recursive: true, force: true });
-
-  await writeGroupFiles("all", allRecords, outputDir);
-
-  for (const protocol of protocolOrder) {
-    await writeGroupFiles(
-      path.join("protocols", protocol),
-      protocolGroups[protocol],
-      outputDir,
-    );
+  // No stale-cache or unbounded export fallback. A failed/partial collection must
+  // leave the previous snapshot unchanged, never give it a fresh timestamp.
+  let fetched;
+  for (let attempt = 0; attempt < 3; attempt += 1) {
+    try {
+      fetched = await fetchWorkingSnapshot({ apiBaseUrl, apiKey });
+      break;
+    } catch (error) {
+      if (attempt === 2) throw error;
+      console.warn(`Collection attempt ${attempt + 1} failed: ${error.message}`);
+      await new Promise((resolve) => setTimeout(resolve, 5000 * (attempt + 1)));
+    }
   }
-
-  for (const [countryCode, records] of filteredCountries.map(([countryCode]) => [
-    countryCode,
-    countryGroups.get(countryCode) ?? [],
-  ])) {
-    await writeGroupFiles(
-      path.join("countries", countryCode),
-      records,
-      outputDir,
-    );
+  const timestamp = new Date().toISOString();
+  const records = fetched.filter((row) => isVerifiedWorking(row, timestamp)).map((row) => ({
+    ...row,
+    country_code: /^[A-Z]{2}$/.test(String(row.country_code ?? "").toUpperCase()) ? row.country_code.toUpperCase() : "ZZ",
+    country_name: String(row.country_name || "Unknown"),
+    anonymity_level: row.anonymity_tested === true ? row.anonymity_level : "Unknown",
+    anonymity_tested: row.anonymity_tested === true,
+    reported_anonymity_level: row.reported_anonymity_level ?? row.anonymity_level ?? "Unknown",
+  }));
+  assertSnapshotRecords(records, timestamp);
+  const countries = new Map();
+  for (const row of records) {
+    const group = countries.get(row.country_code) ?? [];
+    group.push(row);
+    countries.set(row.country_code, group);
   }
-
+  const groups = new Map([["all", records]]);
+  for (const protocol of protocols) groups.set(`protocols/${protocol}`, records.filter((row) => row[protocolColumn[protocol]] === 1));
+  for (const [country, rows] of countries) groups.set(`countries/${country}`, rows);
   const meta = {
     timestamp,
-    source: {
-      api_base: config.apiBaseUrl,
-      site_url: config.siteUrl,
-    },
+    scope: SNAPSHOT_SCOPE,
+    max_check_age_hours: MAX_CHECK_AGE_HOURS,
+    status: records.length ? "available" : "no-verified-working-proxies",
+    source: { api_base: apiBaseUrl, site_url: siteUrl, working_only: true },
+    collection: { received: fetched.length, excluded_unchecked_failed_or_stale: fetched.length - records.length, complete: true },
+    checks: { oldest: records.length ? records.map((r) => r.last_checked).sort()[0] : null, newest: records.length ? records.map((r) => r.last_checked).sort().at(-1) : null },
     totals: {
-      all: totalAll,
-      protocols: Object.fromEntries(
-        protocolOrder.map((protocol) => [protocol, protocols.get(protocol) ?? 0]),
-      ),
-      countries: Object.fromEntries(filteredCountries),
+      all: records.length,
+      protocols: Object.fromEntries(protocols.map((p) => [p, groups.get(`protocols/${p}`).length])),
+      countries: Object.fromEntries([...countries].sort(([a], [b]) => a.localeCompare(b)).map(([code, rows]) => [code, rows.length])),
     },
     downloads: {
-      all: buildDownloadLinks("all"),
-      protocols: Object.fromEntries(
-        protocolOrder.map((protocol) => [
-          protocol,
-          buildDownloadLinks(path.join("protocols", protocol)),
-        ]),
-      ),
-      countries: Object.fromEntries(
-        filteredCountries.map(([countryCode]) => [
-          countryCode,
-          buildDownloadLinks(path.join("countries", countryCode)),
-        ]),
-      ),
+      all: downloads("all"),
+      protocols: Object.fromEntries(protocols.map((p) => [p, downloads(`protocols/${p}`)])),
+      countries: Object.fromEntries([...countries.keys()].map((code) => [code, downloads(`countries/${code}`)])),
     },
-    generated_by: {
-      script: "scripts/refresh.mjs",
-      repo_slug: config.repoSlug,
-      repo_branch: config.repoBranch,
-    },
+    generated_by: { script: "scripts/refresh.mjs", repo_slug: repoSlug, repo_branch: repoBranch },
   };
+  const readme = await renderReadme(meta);
 
-  await writeJson(path.join(outputDir, "proxies", "meta", "data.json"), meta);
-
-  const readme = await renderReadme({
-    timestamp,
-    totalAll,
-    protocols,
-    countries: filteredCountries,
-  });
-  await writeText(path.join(outputDir, "README.md"), readme);
-
-  console.log(
-    `Refresh complete: ${totalAll} proxies across ${filteredCountries.length} countries`,
-  );
-  console.log(`All downloads: ${buildDownloadLinks("all").txt}`);
-}
-
-function parseArgs(argv) {
-  const parsed = {};
-  for (let index = 0; index < argv.length; index += 1) {
-    const current = argv[index];
-    if (current === "--output-dir") {
-      parsed.outputDir = argv[index + 1];
-      index += 1;
-    }
-  }
-  return parsed;
-}
-
-function stripTrailingSlash(value) {
-  return value.replace(/\/+$/, "");
-}
-
-async function fetchJson(endpoint) {
-  const response = await fetchResponse(endpoint);
-  return response.json();
-}
-
-async function loadStats() {
+  // Build the complete generated surface in a sibling staging directory. The
+  // existing snapshot stays untouched until every generated file is present.
+  const stagingRoot = path.join(outputDir, `.snapshot-stage-${process.pid}-${Date.now()}`);
+  await mkdir(stagingRoot, { recursive: true });
   try {
-    return await fetchJson("/api/proxies/stats");
-  } catch (error) {
-    const cachedMeta = await readJsonIfExists(
-      path.join(outputDir, "proxies", "meta", "data.json"),
-    );
-    if (cachedMeta?.timestamp) {
-      console.warn(
-        `Stats request failed, falling back to cached timestamp: ${
-          error instanceof Error ? error.message : error
-        }`,
-      );
-      return { meta: { last_sync: cachedMeta.timestamp } };
+    for (const [name, rows] of groups) {
+      await writeTextAt(stagingRoot, `proxies/${name}/data.json`, JSON.stringify({ data: rows }, null, 2) + "\n");
+      await writeTextAt(stagingRoot, `proxies/${name}/data.txt`, rows.map((r) => `${r.ip}:${r.port}`).join("\n") + (rows.length ? "\n" : ""));
+      await writeTextAt(stagingRoot, `proxies/${name}/data.csv`, serializeSnapshotCsv(rows));
     }
-    throw error;
+    await writeTextAt(stagingRoot, "proxies/meta/data.json", JSON.stringify(meta, null, 2) + "\n");
+    await writeTextAt(stagingRoot, "README.md", readme);
+    await replaceGeneratedSnapshot(stagingRoot);
+  } finally {
+    await rm(stagingRoot, { recursive: true, force: true });
   }
+  console.log(JSON.stringify({ scope: meta.scope, timestamp, total: records.length, country_groups: countries.size, known_countries: [...countries.keys()].filter((c) => c !== "ZZ").length, ...meta.collection }));
 }
 
-async function loadAllPayload() {
-  if (config.apiKey) {
-    try {
-      return await fetchAllViaAuthenticatedList();
-    } catch (error) {
-      console.warn(
-        `Authenticated pagination failed, falling back to export endpoint: ${
-          error instanceof Error ? error.message : error
-        }`,
-      );
-    }
-  }
-
-  try {
-    return await fetchJson(`/api/proxies/export/json?limit=${config.exportLimit}`);
-  } catch (error) {
-    const cachedPayload = await readJsonIfExists(
-      path.join(outputDir, "proxies", "all", "data.json"),
-    );
-    if (cachedPayload) {
-      console.warn(
-        `Export request failed, falling back to cached all/data.json: ${
-          error instanceof Error ? error.message : error
-        }`,
-      );
-      return cachedPayload;
-    }
-    throw error;
-  }
+function downloads(group) {
+  return Object.fromEntries(["json", "txt", "csv"].map((format) => [format, `${downloadBase}/proxies/${group}/data.${format}`]));
 }
 
-async function fetchResponse(endpoint) {
-  const url = endpoint.startsWith("http")
-    ? endpoint
-    : `${config.apiBaseUrl}${endpoint}`;
-  const response = await fetch(url, {
-    headers: {
-      "user-agent": config.userAgent,
-      accept: "*/*",
-      ...(config.apiKey
-        ? {
-            authorization: `Bearer ${config.apiKey}`,
-          }
-        : {}),
-    },
-    signal: AbortSignal.timeout(config.fetchTimeoutMs),
-  });
-  if (!response.ok) {
-    throw new Error(`Request failed for ${url}: ${response.status}`);
-  }
-  return response;
-}
-
-async function fetchAllViaAuthenticatedList() {
-  const records = [];
-  let offset = 0;
-  let total = Infinity;
-
-  while (records.length < total && records.length < config.exportLimit) {
-    const searchParams = new URLSearchParams();
-    searchParams.set("limit", String(config.pageSize));
-    searchParams.set("offset", String(offset));
-    const payload = await fetchJson(`/api/v1/proxies?${searchParams}`);
-    const page = parseRecords(payload);
-    const metaTotal = Number(payload?.meta?.total ?? page.length);
-
-    if (!Number.isFinite(metaTotal) || metaTotal < 0) {
-      throw new Error("Authenticated list response did not include a valid total");
-    }
-
-    total = Math.min(metaTotal, config.exportLimit);
-    if (page.length === 0) {
-      break;
-    }
-
-    records.push(...page);
-    offset += page.length;
-
-    if (page.length < config.pageSize) {
-      break;
-    }
-  }
-
-  if (records.length === 0) {
-    throw new Error("Authenticated list pagination returned zero records");
-  }
-
-  return { data: records.slice(0, config.exportLimit) };
-}
-
-function parseRecords(payload) {
-  if (Array.isArray(payload)) {
-    return payload;
-  }
-  if (Array.isArray(payload?.data)) {
-    return payload.data;
-  }
-  return [];
-}
-
-function normalizeRecord(record) {
-  const countryCode = String(record.country_code || "").trim().toUpperCase() || "ZZ";
-  const countryName = String(record.country_name || "").trim() || "Unknown";
-  return {
-    ...record,
-    country_code: countryCode,
-    country_name: countryName,
-  };
-}
-
-function buildProtocolGroups(records) {
-  return {
-    http: records.filter((record) => Boolean(record.http)),
-    https: records.filter((record) => Boolean(record.ssl)),
-    socks4: records.filter((record) => Boolean(record.socks4)),
-    socks5: records.filter((record) => Boolean(record.socks5)),
-  };
-}
-
-function buildCountryGroups(records) {
-  const groups = new Map();
-  for (const record of records) {
-    const countryCode = record.country_code;
-    const existing = groups.get(countryCode) ?? [];
-    existing.push(record);
-    groups.set(countryCode, existing);
-  }
-  return groups;
-}
-
-async function writeGroupFiles(groupPath, records, rootDir) {
-  if (!Array.isArray(records)) {
-    throw new Error(`Invalid record payload for ${groupPath}`);
-  }
-
-  await writeText(
-    path.join(rootDir, "proxies", groupPath, "data.json"),
-    `${JSON.stringify({ data: records }, null, 2)}\n`,
-  );
-  await writeText(
-    path.join(rootDir, "proxies", groupPath, "data.txt"),
-    serializeTxt(records),
-  );
-  await writeText(
-    path.join(rootDir, "proxies", groupPath, "data.csv"),
-    serializeCsv(records),
-  );
-}
-
-function buildDownloadLinks(groupPath) {
-  const safePath = groupPath.split(path.sep).join("/");
-  return {
-    json: `${downloadBaseUrl}/proxies/${safePath}/data.json`,
-    txt: `${downloadBaseUrl}/proxies/${safePath}/data.txt`,
-    csv: `${downloadBaseUrl}/proxies/${safePath}/data.csv`,
-  };
-}
-
-async function renderReadme({ timestamp, totalAll, protocols, countries }) {
-  const templatePath = path.join(scaffoldRoot, "templates", "README.md.tmpl");
-  const template = await readFile(templatePath, "utf8");
-  const usCount = countries.find(([code]) => code === "US")?.[1] ?? 0;
-  const updatedAt = formatTimestamp(timestamp);
-
-  const replacements = {
-    SITE_URL: config.siteUrl,
-    REPO_SLUG: config.repoSlug,
-    REPO_BRANCH: config.repoBranch,
-    PROXY_LIST_URL: buildSiteUrl("/free-proxy-list", "repo_readme"),
-    BULK_CHECKER_URL: buildSiteUrl("/tools/bulk-checker", "repo_readme"),
-    API_DOCS_URL: buildSiteUrl("/docs/api", "repo_readme"),
-    UPDATED_AT: updatedAt,
-    TOTAL_ALL: String(totalAll),
-    TOTAL_HTTP: String(protocols.get("http") ?? 0),
-    TOTAL_HTTPS: String(protocols.get("https") ?? 0),
-    TOTAL_SOCKS4: String(protocols.get("socks4") ?? 0),
-    TOTAL_SOCKS5: String(protocols.get("socks5") ?? 0),
-    COUNTRY_COUNT: String(countries.length),
-    ALL_JSON_URL: buildDownloadLinks("all").json,
-    ALL_TXT_URL: buildDownloadLinks("all").txt,
-    ALL_CSV_URL: buildDownloadLinks("all").csv,
-    HTTP_JSON_URL: buildDownloadLinks(path.join("protocols", "http")).json,
-    HTTP_TXT_URL: buildDownloadLinks(path.join("protocols", "http")).txt,
-    HTTP_CSV_URL: buildDownloadLinks(path.join("protocols", "http")).csv,
-    HTTPS_JSON_URL: buildDownloadLinks(path.join("protocols", "https")).json,
-    HTTPS_TXT_URL: buildDownloadLinks(path.join("protocols", "https")).txt,
-    HTTPS_CSV_URL: buildDownloadLinks(path.join("protocols", "https")).csv,
-    SOCKS4_JSON_URL: buildDownloadLinks(path.join("protocols", "socks4")).json,
-    SOCKS4_TXT_URL: buildDownloadLinks(path.join("protocols", "socks4")).txt,
-    SOCKS4_CSV_URL: buildDownloadLinks(path.join("protocols", "socks4")).csv,
-    SOCKS5_JSON_URL: buildDownloadLinks(path.join("protocols", "socks5")).json,
-    SOCKS5_TXT_URL: buildDownloadLinks(path.join("protocols", "socks5")).txt,
-    SOCKS5_CSV_URL: buildDownloadLinks(path.join("protocols", "socks5")).csv,
-    US_JSON_URL: buildDownloadLinks(path.join("countries", "US")).json,
-    US_TXT_URL: buildDownloadLinks(path.join("countries", "US")).txt,
-    US_CSV_URL: buildDownloadLinks(path.join("countries", "US")).csv,
-    US_ROW:
-      usCount > 0
-        ? `| US Proxies | ${usCount} | [data.json](${buildDownloadLinks(path.join("countries", "US")).json}) | [data.txt](${buildDownloadLinks(path.join("countries", "US")).txt}) | [data.csv](${buildDownloadLinks(path.join("countries", "US")).csv}) |`
-        : "",
-  };
-
-  return template.replace(/\{\{([A-Z0-9_]+)\}\}/g, (_, key) => replacements[key] ?? "");
-}
-
-function buildSiteUrl(pathname, medium) {
-  const url = new URL(pathname, `${config.siteUrl}/`);
-  url.searchParams.set("utm_source", "github");
-  url.searchParams.set("utm_medium", medium);
-  url.searchParams.set("utm_campaign", "free_proxy_list_repo");
+function liveLink(route) {
+  const url = new URL(route, siteUrl);
+  url.search = new URLSearchParams({ utm_source: "github", utm_medium: "repo_readme", utm_campaign: "free_proxy_list_repo" }).toString();
   return url.toString();
 }
 
-function formatTimestamp(timestamp) {
-  return new Intl.DateTimeFormat("en-US", {
-    dateStyle: "medium",
-    timeStyle: "short",
-    timeZone: "UTC",
-  }).format(new Date(timestamp));
+async function renderReadme(meta) {
+  const template = await readFile(path.join(scaffoldRoot, "templates/README.md.tmpl"), "utf8");
+  const countries = Object.entries(meta.totals.countries);
+  const known = countries.filter(([code]) => code !== "ZZ");
+  const replacements = {
+    SITE_URL: siteUrl, REPO_SLUG: repoSlug, REPO_BRANCH: repoBranch,
+    PROXY_LIST_URL: liveLink("/free-proxy-list"), BULK_CHECKER_URL: liveLink("/tools/bulk-checker"), API_DOCS_URL: liveLink("/docs/api"),
+    UPDATED_AT: `${meta.timestamp} (UTC)`, TOTAL_ALL: String(meta.totals.all), COUNTRY_COUNT: String(known.length), UNKNOWN_LOCATION_COUNT: String(meta.totals.countries.ZZ ?? 0),
+    PROTOCOL_PAGE_LINKS: protocols.map((p) => `- [${p.toUpperCase()} proxy list](${liveLink(`/free-proxy-list/protocol/${p}`)}) — ${meta.totals.protocols[p]} in this verified snapshot`).join("\n"),
+    COUNTRY_PAGE_LINKS: known.sort(([, a], [, b]) => b - a).slice(0, 8).map(([c, n]) => `- [${c} proxy list](${liveLink(`/free-proxy-list/country/${c.toLowerCase()}`)}) — ${n} in this verified snapshot`).join("\n") || "No country metadata is available in this snapshot; unknown locations are grouped under ZZ.",
+    US_ROW: meta.totals.countries.US ? `| US Proxies | ${meta.totals.countries.US} | [data.json](${meta.downloads.countries.US.json}) | [data.txt](${meta.downloads.countries.US.txt}) | [data.csv](${meta.downloads.countries.US.csv}) |` : "",
+  };
+  for (const format of ["json", "txt", "csv"]) {
+    replacements[`ALL_${format.toUpperCase()}_URL`] = meta.downloads.all[format];
+    for (const p of protocols) replacements[`${p.toUpperCase()}_${format.toUpperCase()}_URL`] = meta.downloads.protocols[p][format];
+  }
+  for (const p of protocols) replacements[`TOTAL_${p.toUpperCase()}`] = String(meta.totals.protocols[p]);
+  return template.replace(/\{\{([A-Z0-9_]+)\}\}/g, (_, key) => {
+    if (!(key in replacements)) throw new Error(`Unknown README placeholder ${key}`);
+    return replacements[key];
+  });
 }
 
-async function writeJson(filePath, value) {
-  await writeText(filePath, `${JSON.stringify(value, null, 2)}\n`);
+async function writeText(relativePath, content) {
+  await writeTextAt(outputDir, relativePath, content);
 }
 
-async function writeText(filePath, value) {
-  await mkdir(path.dirname(filePath), { recursive: true });
-  await writeFile(filePath, value, "utf8");
+async function writeTextAt(root, relativePath, content) {
+  const target = path.join(root, relativePath);
+  await mkdir(path.dirname(target), { recursive: true });
+  await writeFile(target, content, "utf8");
 }
 
-async function readJsonIfExists(filePath) {
+async function exists(target) {
   try {
-    const value = await readFile(filePath, "utf8");
-    return JSON.parse(value);
-  } catch (error) {
-    if (error && typeof error === "object" && "code" in error && error.code === "ENOENT") {
-      return null;
-    }
-    throw error;
+    await access(target);
+    return true;
+  } catch {
+    return false;
   }
 }
 
-function serializeTxt(records) {
-  return `${records.map((record) => `${record.ip}:${record.port}`).join("\n")}\n`;
-}
+async function replaceGeneratedSnapshot(stagingRoot) {
+  const liveProxies = path.join(outputDir, "proxies");
+  const stagedProxies = path.join(stagingRoot, "proxies");
+  const stagedReadme = path.join(stagingRoot, "README.md");
+  const backupProxies = path.join(outputDir, `.snapshot-previous-${process.pid}-${Date.now()}`);
+  const hadLiveProxies = await exists(liveProxies);
+  let movedOld = false;
+  let installedNew = false;
 
-function serializeCsv(records) {
-  const header = [
-    "ip",
-    "port",
-    "country_code",
-    "country_name",
-    "city",
-    "region",
-    "asn",
-    "asn_name",
-    "org",
-    "protocols",
-    "anonymity",
-    "uptime",
-    "delay_ms",
-    "last_seen",
-  ];
-
-  const rows = records.map((record) => [
-    record.ip,
-    String(record.port ?? ""),
-    record.country_code ?? "",
-    record.country_name ?? "",
-    record.city ?? "",
-    record.region ?? "",
-    record.asn ? String(record.asn) : "",
-    record.asn_name ?? "",
-    record.org ?? "",
-    Array.isArray(record.protocols) ? record.protocols.join("|") : "",
-    record.anonymity_level ?? "",
-    String(record.uptime ?? ""),
-    String(record.delay ?? ""),
-    record.last_seen ?? "",
-  ]);
-
-  return `${[header, ...rows].map(toCsvRow).join("\n")}\n`;
-}
-
-function toCsvRow(columns) {
-  return columns
-    .map((column) => {
-      const value = String(column ?? "");
-      if (/[",\n]/.test(value)) {
-        return `"${value.replace(/"/g, "\"\"")}"`;
-      }
-      return value;
-    })
-    .join(",");
+  try {
+    if (hadLiveProxies) {
+      await rename(liveProxies, backupProxies);
+      movedOld = true;
+    }
+    await rename(stagedProxies, liveProxies);
+    installedNew = true;
+    await rename(stagedReadme, path.join(outputDir, "README.md"));
+    if (movedOld) {
+      await rm(backupProxies, { recursive: true, force: true });
+    }
+  } catch (error) {
+    if (installedNew && await exists(liveProxies)) {
+      await rename(liveProxies, stagedProxies).catch(() => {});
+    }
+    if (movedOld && await exists(backupProxies) && !(await exists(liveProxies))) {
+      await rename(backupProxies, liveProxies).catch(() => {});
+    }
+    throw error;
+  }
 }

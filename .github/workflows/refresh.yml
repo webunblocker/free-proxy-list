@@ -2,7 +2,7 @@ name: Refresh Proxy Snapshot
 
 on:
   schedule:
-    - cron: "15 2 * * *"
+    - cron: "15 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -33,6 +33,9 @@ jobs:
           REPO_SLUG: webunblocker/free-proxy-list
           REPO_BRANCH: main
         run: node scripts/refresh.mjs
+
+      - name: Validate snapshot
+        run: node scripts/validate.mjs
 
       - name: Configure Git
         run: |
