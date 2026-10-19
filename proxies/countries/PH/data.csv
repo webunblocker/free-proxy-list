@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"203.20.42.89","8082","PH","Philippines","HTTP","Unknown","false","Transparent","13","3920","2026-10-19T03:17:12Z","9.291237113402062"
