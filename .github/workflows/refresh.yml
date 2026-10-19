@@ -55,32 +55,45 @@ jobs:
           git push
           echo "pushed=true" >> "$GITHUB_OUTPUT"
 
-      # jsDelivr keeps @branch files 12 h at the edge, longer than the refresh interval.
-      # Purge every path this commit changed or removed so the CDN serves the new snapshot.
-      # Wait first: purged 4 s after a push, jsDelivr fetched the previous commit again and kept
-      # it for hours; purged about 3 min after a push, it served the new one (2026-10-19).
+      # jsDelivr keeps @branch files 12 h at the edge, longer than the refresh interval, and its
+      # origin can go on serving the previous commit for two hours or more after a push (purged
+      # 65-102 min after one, every file came back old; from 107 min some came back new); a path
+      # can be purged about once an hour (later requests come back "throttled"). So purge in rounds:
+      # 5 min after the push purge every changed or removed path, compare each changed file on
+      # cdn.jsdelivr.net with this commit, and purge the ones that differ again once their throttle
+      # has reset, until all match or the budget runs out. jsDelivr's state is outside this repo,
+      # so what is still older at the end is a warning, not a failed run (2026-10-19 measurements
+      # in socks5proxies docs/ROADMAP-STATUS.md).
       - name: Purge jsDelivr cache
         if: steps.commit.outputs.pushed == 'true'
+        env:
+          BUDGET_MINUTES: "300"
         run: |
-          sleep 300
-          paths=$(git diff --name-only HEAD~1 HEAD -- README.md proxies)
-          echo "$paths" | xargs -P 4 -I{} curl -fsS --retry 3 --retry-all-errors -o /dev/null "https://purge.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/{}"
-          echo "Purged $(echo "$paths" | wc -l) paths"
-
-      # jsDelivr's state is outside this repo, so an older copy there is a warning, not a failed run.
-      - name: Check jsDelivr
-        if: steps.commit.outputs.pushed == 'true'
-        run: |
-          paths=$(git diff --name-only HEAD~1 HEAD -- README.md proxies)
+          deadline=$(( $(date +%s) + BUDGET_MINUTES * 60 ))
+          todo=$(git diff --name-only HEAD~1 HEAD -- README.md proxies)
           served=$(mktemp)
-          stale=0
-          for p in $paths; do
-            [ -f "$p" ] || continue
-            if ! curl -fsS --retry 3 --retry-all-errors -o "$served" "https://cdn.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/$p"; then
-              echo "::warning::jsDelivr check could not fetch $p"
-            elif ! cmp -s "$served" "$p"; then
-              echo "::warning::jsDelivr still serves an older $p"
-              stale=$((stale + 1))
-            fi
+          round=1
+          sleep 300
+          while :; do
+            reset=0
+            for p in $todo; do
+              r=$(curl -fsS --retry 3 --retry-all-errors "https://purge.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/$p")
+              t=$(echo "$r" | jq '[.paths[] | select(.throttled) | .throttlingReset] | max // 0')
+              [ "$t" -gt "$reset" ] && reset=$t
+            done
+            stale=""
+            for p in $todo; do
+              [ -f "$p" ] || continue
+              if ! curl -fsS --retry 3 --retry-all-errors -o "$served" "https://cdn.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/$p" || ! cmp -s "$served" "$p"; then
+                stale="$stale $p"
+              fi
+            done
+            echo "Round $round: purged $(echo $todo | wc -w) paths, $(echo $stale | wc -w) not yet served from this commit"
+            [ -z "$stale" ] && exit 0
+            next=$(( reset > 0 ? reset + 60 : 3660 ))
+            [ $(( $(date +%s) + next )) -gt "$deadline" ] && break
+            sleep "$next"
+            todo=$stale
+            round=$((round + 1))
           done
-          echo "jsDelivr serves an older copy of $stale of the changed files"
+          for p in $stale; do echo "::warning::jsDelivr does not serve this commit's $p yet"; done
