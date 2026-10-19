@@ -57,9 +57,30 @@ jobs:
 
       # jsDelivr keeps @branch files 12 h at the edge, longer than the refresh interval.
       # Purge every path this commit changed or removed so the CDN serves the new snapshot.
+      # Wait first: purged 4 s after a push, jsDelivr fetched the previous commit again and kept
+      # it for hours; purged about 3 min after a push, it served the new one (2026-10-19).
       - name: Purge jsDelivr cache
         if: steps.commit.outputs.pushed == 'true'
         run: |
+          sleep 300
           paths=$(git diff --name-only HEAD~1 HEAD -- README.md proxies)
-          echo "$paths" | xargs -P 4 -I{} curl -fsS --retry 3 -o /dev/null "https://purge.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/{}"
+          echo "$paths" | xargs -P 4 -I{} curl -fsS --retry 3 --retry-all-errors -o /dev/null "https://purge.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/{}"
           echo "Purged $(echo "$paths" | wc -l) paths"
+
+      # jsDelivr's state is outside this repo, so an older copy there is a warning, not a failed run.
+      - name: Check jsDelivr
+        if: steps.commit.outputs.pushed == 'true'
+        run: |
+          paths=$(git diff --name-only HEAD~1 HEAD -- README.md proxies)
+          served=$(mktemp)
+          stale=0
+          for p in $paths; do
+            [ -f "$p" ] || continue
+            if ! curl -fsS --retry 3 --retry-all-errors -o "$served" "https://cdn.jsdelivr.net/gh/${REPO_SLUG}@${REPO_BRANCH}/$p"; then
+              echo "::warning::jsDelivr check could not fetch $p"
+            elif ! cmp -s "$served" "$p"; then
+              echo "::warning::jsDelivr still serves an older $p"
+              stale=$((stale + 1))
+            fi
+          done
+          echo "jsDelivr serves an older copy of $stale of the changed files"
