@@ -1,6 +1,6 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"45.61.129.165","9050","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","90","1295","2026-10-19T22:20:17Z","77.32431120281588"
-"45.61.188.134","44499","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","77","545","2026-10-19T22:19:28Z","77.02407002188184"
-"47.252.47.39","1080","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Anonymous","55","664","2026-10-19T22:19:28Z","55.358275206087505"
-"47.251.127.154","1080","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","47","249","2026-10-19T22:19:28Z","47.712833545108005"
-"8.215.25.3","2080","ZZ","Unknown","HTTP|HTTPS|SOCKS4|SOCKS5","Unknown","false","Elite","53","1203","2026-10-19T22:19:29Z","45.48901098901099"
+"45.61.129.165","9050","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","91","924","2026-10-20T04:48:46Z","91.21431913897989"
+"45.61.188.134","44499","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","78","539","2026-10-20T04:48:45Z","78.87465460939463"
+"157.90.113.23","9052","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","64","1065","2026-10-20T04:48:46Z","54.51349431818182"
+"176.9.107.170","1081","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","59","1166","2026-10-20T04:48:46Z","50.43149946062567"
+"104.248.151.220","57554","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","20","6231","2026-10-20T04:49:05Z","14.095796676441836"

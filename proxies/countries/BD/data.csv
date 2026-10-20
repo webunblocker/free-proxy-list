@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.79.183.109","8080","BD","Bangladesh","HTTP","Unknown","false","Elite","92","1535","2026-10-19T22:19:34Z","78.28947368421052"
