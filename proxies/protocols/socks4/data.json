@@ -1,40 +1,14 @@
 {
   "data": [
     {
-      "host": "45.61.188.134",
-      "ip": "45.61.188.134",
-      "port": 44499,
-      "delay": 563,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 3354,
-      "checks_down": 887,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 79,
-      "last_seen": "2026-10-20T17:04:37Z",
-      "last_checked": "2026-10-20T17:06:24Z",
-      "health_score": 79.08512143362415
-    },
-    {
       "host": "45.61.129.165",
       "ip": "45.61.129.165",
       "port": 9050,
-      "delay": 2633,
+      "delay": 1114,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 8332,
-      "checks_down": 781,
+      "checks_up": 8522,
+      "checks_down": 799,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -48,9 +22,35 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 91,
-      "last_seen": "2026-10-20T17:04:37Z",
-      "last_checked": "2026-10-20T17:06:26Z",
-      "health_score": 77.71535169538022
+      "last_seen": "2026-10-20T21:34:37Z",
+      "last_checked": "2026-10-20T21:35:57Z",
+      "health_score": 77.7137646175303
+    },
+    {
+      "host": "176.9.107.170",
+      "ip": "176.9.107.170",
+      "port": 1081,
+      "delay": 1674,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 1178,
+      "checks_down": 805,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 59,
+      "last_seen": "2026-10-20T21:34:37Z",
+      "last_checked": "2026-10-20T21:36:02Z",
+      "health_score": 50.49420070600101
     }
   ]
 }
