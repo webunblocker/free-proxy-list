@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "116.100.68.206",
+      "ip": "116.100.68.206",
+      "port": 8080,
+      "delay": 2107,
+      "country_code": "VN",
+      "country_name": "Vietnam",
+      "checks_up": 126,
+      "checks_down": 65,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 65,
+      "last_seen": "2026-10-21T09:49:14Z",
+      "last_checked": "2026-10-21T21:41:40Z",
+      "health_score": 56.07329842931937
+    }
+  ]
+}
