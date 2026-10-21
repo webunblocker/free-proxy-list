@@ -1,3 +1,1 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"45.61.129.165","9050","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","91","1254","2026-10-21T11:47:00Z","77.79101056408213"
-"165.154.20.187","10808","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","35","1914","2026-10-21T11:47:11Z","30.538261997405964"
