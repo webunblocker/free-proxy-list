@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "202.6.206.2",
+      "ip": "202.6.206.2",
+      "port": 8082,
+      "delay": 2865,
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "city": "Surigao City",
+      "checks_up": 182,
+      "checks_down": 954,
+      "anon": 0,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 16,
+      "last_seen": "2026-10-22T12:11:40Z",
+      "last_checked": "2026-10-22T17:09:23Z",
+      "health_score": 13.617957746478872
+    }
+  ]
+}

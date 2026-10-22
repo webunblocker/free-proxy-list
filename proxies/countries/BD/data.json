@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "202.4.116.141",
+      "ip": "202.4.116.141",
+      "port": 81,
+      "delay": 3801,
+      "country_code": "BD",
+      "country_name": "Bangladesh",
+      "city": "Dhaka",
+      "checks_up": 274,
+      "checks_down": 1024,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 21,
+      "last_seen": "2026-10-22T12:30:31Z",
+      "last_checked": "2026-10-22T17:09:18Z",
+      "health_score": 14.77657935285054
+    }
+  ]
+}

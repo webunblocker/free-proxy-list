@@ -1,82 +1,32 @@
 {
   "data": [
     {
-      "host": "45.61.129.165",
-      "ip": "45.61.129.165",
-      "port": 9050,
-      "delay": 1993,
+      "host": "8.215.25.3",
+      "ip": "8.215.25.3",
+      "port": 2080,
+      "delay": 1256,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 10113,
-      "checks_down": 944,
+      "checks_up": 1217,
+      "checks_down": 1068,
       "anon": 4,
-      "http": 0,
-      "ssl": 0,
+      "http": 1,
+      "ssl": 1,
       "socks4": 1,
       "socks5": 1,
       "protocols": [
+        "HTTP",
+        "HTTPS",
         "SOCKS4",
         "SOCKS5"
       ],
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
-      "uptime": 91,
-      "last_seen": "2026-10-22T11:49:37Z",
-      "last_checked": "2026-10-22T11:51:10Z",
-      "health_score": 77.74305869584879
-    },
-    {
-      "host": "45.61.188.134",
-      "ip": "45.61.188.134",
-      "port": 44499,
-      "delay": 1314,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 3906,
-      "checks_down": 1046,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 78,
-      "last_seen": "2026-10-22T11:49:37Z",
-      "last_checked": "2026-10-22T11:51:05Z",
-      "health_score": 67.04563812600969
-    },
-    {
-      "host": "176.9.107.170",
-      "ip": "176.9.107.170",
-      "port": 1081,
-      "delay": 1794,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 2217,
-      "checks_down": 960,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 69,
-      "last_seen": "2026-10-22T11:49:37Z",
-      "last_checked": "2026-10-22T11:51:05Z",
-      "health_score": 59.315391879131255
+      "uptime": 53,
+      "last_seen": "2026-10-22T17:09:37Z",
+      "last_checked": "2026-10-22T17:08:47Z",
+      "health_score": 45.27133479212254
     }
   ]
 }

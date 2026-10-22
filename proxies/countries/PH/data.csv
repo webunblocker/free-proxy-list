@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.80.224.33","82","IN","India","HTTP","Unknown","false","Transparent","23","1932","2026-10-22T11:51:10Z","19.657980456026056"
+"202.6.206.2","8082","PH","Philippines","HTTP","Unknown","false","Transparent","16","2865","2026-10-22T17:09:23Z","13.617957746478872"
