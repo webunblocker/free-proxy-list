@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"116.100.68.206","8080","VN","Vietnam","HTTP","Unknown","false","Anonymous","65","2107","2026-10-21T21:41:40Z","56.07329842931937"
+"103.77.79.23","3125","ID","Indonesia","HTTP","Unknown","false","Anonymous","80","1019","2026-10-22T04:42:32Z","68.36956521739131"
