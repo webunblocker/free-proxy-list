@@ -1,32 +1,3 @@
 {
-  "data": [
-    {
-      "host": "8.215.25.3",
-      "ip": "8.215.25.3",
-      "port": 2080,
-      "delay": 1256,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 1217,
-      "checks_down": 1068,
-      "anon": 4,
-      "http": 1,
-      "ssl": 1,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "HTTP",
-        "HTTPS",
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 53,
-      "last_seen": "2026-10-22T17:09:37Z",
-      "last_checked": "2026-10-22T17:08:47Z",
-      "health_score": 45.27133479212254
-    }
-  ]
+  "data": []
 }

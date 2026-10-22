@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"161.22.33.109","999","VE","Venezuela","HTTP","Unknown","false","Transparent","21","8401","2026-10-22T21:34:36Z","15.06751389992057"

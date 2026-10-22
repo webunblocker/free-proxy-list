@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "179.236.231.81",
+      "ip": "179.236.231.81",
+      "port": 8080,
+      "delay": 542,
+      "country_code": "LT",
+      "country_name": "Lithuania",
+      "checks_up": 232,
+      "checks_down": 1,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP",
+        "HTTPS"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 99,
+      "last_seen": "2026-10-22T18:01:14Z",
+      "last_checked": "2026-10-22T21:33:46Z",
+      "health_score": 99.57081545064378
+    }
+  ]
+}

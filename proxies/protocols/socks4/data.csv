@@ -1,2 +1,1 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"8.215.25.3","2080","ZZ","Unknown","HTTP|HTTPS|SOCKS4|SOCKS5","Unknown","false","Elite","53","1256","2026-10-22T17:08:47Z","45.27133479212254"

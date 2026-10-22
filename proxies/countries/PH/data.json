@@ -1,16 +1,16 @@
 {
   "data": [
     {
-      "host": "202.6.206.2",
-      "ip": "202.6.206.2",
-      "port": 8082,
-      "delay": 2865,
+      "host": "services.perpetualdalta.edu.ph",
+      "ip": "58.69.196.149",
+      "port": 8345,
+      "delay": 904,
       "country_code": "PH",
       "country_name": "Philippines",
-      "city": "Surigao City",
-      "checks_up": 182,
-      "checks_down": 954,
-      "anon": 0,
+      "city": "Makati City",
+      "checks_up": 149,
+      "checks_down": 1,
+      "anon": 2,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -20,11 +20,37 @@
       ],
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
-      "reported_anonymity_level": "Transparent",
-      "uptime": 16,
-      "last_seen": "2026-10-22T12:11:40Z",
-      "last_checked": "2026-10-22T17:09:23Z",
-      "health_score": 13.617957746478872
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 99,
+      "last_seen": "2026-10-22T18:29:14Z",
+      "last_checked": "2026-10-22T21:33:47Z",
+      "health_score": 99.33333333333333
+    },
+    {
+      "host": "180.191.153.134",
+      "ip": "180.191.153.134",
+      "port": 8181,
+      "delay": 5176,
+      "country_code": "PH",
+      "country_name": "Philippines",
+      "city": "Makati City",
+      "checks_up": 10,
+      "checks_down": 32,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 23,
+      "last_seen": "2026-10-22T11:57:02Z",
+      "last_checked": "2026-10-22T21:34:02Z",
+      "health_score": 16.666666666666664
     }
   ]
 }
