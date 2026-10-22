@@ -1,8 +1,6 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"184.75.221.82","3118","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","91","602","2026-10-22T04:42:20Z","91.75325902134895"
-"103.237.102.191","11111","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","95","1397","2026-10-22T04:42:21Z","81.20963949843261"
-"114.254.50.97","8888","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","73","2483","2026-10-22T04:43:12Z","62.44772891131939"
-"114.248.179.223","8888","ZZ","Unknown","HTTPS","Unknown","false","Anonymous","67","2576","2026-10-22T04:42:29Z","57.07886676875956"
-"190.202.111.206","8080","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","52","6384","2026-10-22T04:43:02Z","37.023554603854386"
-"47.129.105.10","19357","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","13","3006","2026-10-22T04:43:18Z","9.784946236559138"
-"18.163.182.106","40224","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","12","4992","2026-10-22T04:43:25Z","8.866666666666667"
+"103.237.102.191","11111","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","95","847","2026-10-22T11:51:01Z","95.5849720713138"
+"123.119.179.161","8888","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","66","2871","2026-10-22T11:51:06Z","56.78082191780822"
+"114.249.232.222","8888","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","66","1971","2026-10-22T11:51:09Z","56.506849315068486"
+"221.221.154.156","8888","ZZ","Unknown","HTTPS","Unknown","false","Elite","62","2257","2026-10-22T11:51:05Z","53.43976300197498"
+"114.246.203.194","8888","ZZ","Unknown","HTTPS","Unknown","false","Elite","57","3623","2026-10-22T11:51:07Z","39.92281303602058"
