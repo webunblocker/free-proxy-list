@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"179.236.231.81","8080","LT","Lithuania","HTTP|HTTPS","Unknown","false","Elite","99","542","2026-10-22T21:33:46Z","99.57081545064378"
+"82.41.42.135","8181","SG","Singapore","HTTP","Unknown","false","Transparent","26","6559","2026-10-23T04:47:31Z","18.354253835425382"
