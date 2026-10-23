@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "192.210.196.4",
+      "ip": "192.210.196.4",
+      "port": 1080,
+      "delay": 6785,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Santa Clara",
+      "checks_up": 345,
+      "checks_down": 1101,
+      "anon": 0,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 23,
+      "last_seen": "2026-10-23T06:35:34Z",
+      "last_checked": "2026-10-23T11:37:17Z",
+      "health_score": 16.70124481327801
+    }
+  ]
+}

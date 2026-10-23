@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"82.41.42.135","8181","SG","Singapore","HTTP","Unknown","false","Transparent","26","6559","2026-10-23T04:47:31Z","18.354253835425382"
+"192.210.196.4","1080","US","United States","SOCKS5","Unknown","false","Transparent","23","6785","2026-10-23T11:37:17Z","16.70124481327801"
