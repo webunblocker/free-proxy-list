@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"192.210.196.4","1080","US","United States","SOCKS5","Unknown","false","Transparent","23","6785","2026-10-23T11:37:17Z","16.70124481327801"
+"213.171.212.110","8080","GB","United Kingdom","HTTP","Unknown","false","Transparent","90","830","2026-10-23T17:05:06Z","90.47619047619048"
