@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-24T10:59:17.296Z",
+  "timestamp": "2026-10-24T15:56:42.135Z",
   "scope": "verified-working",
   "max_check_age_hours": 2,
   "status": "available",
@@ -9,25 +9,24 @@
     "working_only": true
   },
   "collection": {
-    "received": 350,
+    "received": 268,
     "excluded_unchecked_failed_or_stale": 0,
     "complete": true
   },
   "checks": {
-    "oldest": "2026-10-24T10:57:50Z",
-    "newest": "2026-10-24T10:58:57Z"
+    "oldest": "2026-10-24T15:54:57Z",
+    "newest": "2026-10-24T15:55:54Z"
   },
   "totals": {
-    "all": 350,
+    "all": 268,
     "protocols": {
-      "http": 215,
-      "https": 15,
-      "socks4": 0,
-      "socks5": 134
+      "http": 196,
+      "https": 14,
+      "socks4": 2,
+      "socks5": 71
     },
     "countries": {
-      "DE": 1,
-      "ZZ": 349
+      "ZZ": 268
     }
   },
   "downloads": {
@@ -63,11 +62,6 @@
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.csv"
-      },
-      "DE": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/DE/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/DE/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/DE/data.csv"
       }
     }
   },
