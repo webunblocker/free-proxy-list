@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"172.212.125.72","3128","US","United States","HTTP","Unknown","false","Anonymous","100","569","2026-10-23T21:22:10Z","100"
+"103.76.44.175","8090","BD","Bangladesh","HTTP","Unknown","false","Anonymous","47","1909","2026-10-24T04:34:15Z","40.15075376884422"
