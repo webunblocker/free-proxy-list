@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "host": "45.74.31.41",
+      "ip": "45.74.31.41",
+      "port": 5296,
+      "delay": 3401,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 10,
+      "checks_down": 10,
+      "anon": 0,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 50,
+      "last_seen": "2026-10-23T13:24:16Z",
+      "last_checked": "2026-10-24T20:47:06Z",
+      "health_score": 35
+    },
+    {
+      "host": "167.99.8.113",
+      "ip": "167.99.8.113",
+      "port": 8008,
+      "delay": 407,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "North Bergen",
+      "checks_up": 130,
+      "checks_down": 840,
+      "anon": 0,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 13,
+      "last_seen": "2026-10-24T00:27:06Z",
+      "last_checked": "2026-10-24T20:47:03Z",
+      "health_score": 13.402061855670103
+    }
+  ]
+}
