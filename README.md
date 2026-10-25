@@ -7,19 +7,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Updated-Every%206h-16a34a" alt="Updated every 6 hours">
   <a href="https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.txt">
-    <img src="https://img.shields.io/badge/all-323-2563eb" alt="All proxies">
+    <img src="https://img.shields.io/badge/all-464-2563eb" alt="All proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.txt">
-    <img src="https://img.shields.io/badge/http-202-2563eb" alt="HTTP proxies">
+    <img src="https://img.shields.io/badge/http-365-2563eb" alt="HTTP proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.txt">
-    <img src="https://img.shields.io/badge/https-12-2563eb" alt="HTTPS proxies">
+    <img src="https://img.shields.io/badge/https-16-2563eb" alt="HTTPS proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.txt">
     <img src="https://img.shields.io/badge/socks4-1-2563eb" alt="SOCKS4 proxies">
   </a>
   <a href="https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.txt">
-    <img src="https://img.shields.io/badge/socks5-121-2563eb" alt="SOCKS5 proxies">
+    <img src="https://img.shields.io/badge/socks5-99-2563eb" alt="SOCKS5 proxies">
   </a>
 </p>
 
@@ -27,8 +27,8 @@
 
 Snapshot of public proxy endpoints that passed Socks5Proxies.com's own latest check, refreshed every 6 hours.
 
-> Latest snapshot: **323** verified-working proxies with metadata for **1** known countries at **2026-10-24T20:49:13.634Z (UTC)**.
-> **321** endpoints have unknown location metadata (ZZ); no country is invented for them.
+> Latest snapshot: **464** verified-working proxies with metadata for **0** known countries at **2026-10-25T04:40:43.612Z (UTC)**.
+> **464** endpoints have unknown location metadata (ZZ); no country is invented for them.
 
 Only endpoints with a successful own check in the two hours before collection are included.
 This is a timestamped result, not a guarantee that an endpoint still works. Re-check before use.
@@ -51,14 +51,14 @@ The live site's tracked inventory and country facets deliberately use a broader,
 
 Protocol facets:
 
-- [HTTP proxy list](https://socks5proxies.com/free-proxy-list/protocol/http?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 202 in this verified snapshot
-- [HTTPS proxy list](https://socks5proxies.com/free-proxy-list/protocol/https?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 12 in this verified snapshot
+- [HTTP proxy list](https://socks5proxies.com/free-proxy-list/protocol/http?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 365 in this verified snapshot
+- [HTTPS proxy list](https://socks5proxies.com/free-proxy-list/protocol/https?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 16 in this verified snapshot
 - [SOCKS4 proxy list](https://socks5proxies.com/free-proxy-list/protocol/socks4?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 1 in this verified snapshot
-- [SOCKS5 proxy list](https://socks5proxies.com/free-proxy-list/protocol/socks5?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 121 in this verified snapshot
+- [SOCKS5 proxy list](https://socks5proxies.com/free-proxy-list/protocol/socks5?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 99 in this verified snapshot
 
 Country facets:
 
-- [US proxy list](https://socks5proxies.com/free-proxy-list/country/us?utm_source=github&utm_medium=repo_readme&utm_campaign=free_proxy_list_repo) — 2 in this verified snapshot
+No country metadata is available in this snapshot; unknown locations are grouped under ZZ.
 
 ## Direct download links
 
@@ -66,12 +66,12 @@ These files are served from jsDelivr on top of this repository.
 
 | Type | Count | JSON | TXT | CSV |
 | --- | ---: | --- | --- | --- |
-| All Proxies | 323 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.csv) |
-| HTTP Proxies | 202 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.csv) |
-| HTTPS Proxies | 12 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.csv) |
+| All Proxies | 464 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/all/data.csv) |
+| HTTP Proxies | 365 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/http/data.csv) |
+| HTTPS Proxies | 16 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/https/data.csv) |
 | SOCKS4 Proxies | 1 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks4/data.csv) |
-| SOCKS5 Proxies | 121 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.csv) |
-| US Proxies | 2 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.csv) |
+| SOCKS5 Proxies | 99 | [data.json](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.json) | [data.txt](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.txt) | [data.csv](https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/protocols/socks5/data.csv) |
+
 
 More country splits: [browse `proxies/countries/`](https://github.com/webunblocker/free-proxy-list/tree/main/proxies/countries)
 
