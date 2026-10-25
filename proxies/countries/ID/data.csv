@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.38.104.214","8087","ID","Indonesia","HTTP","Unknown","false","Anonymous","100","1023","2026-10-25T11:26:36Z","85"
+"103.38.104.214","8087","ID","Indonesia","HTTP","Unknown","false","Anonymous","98","1008","2026-10-25T16:16:40Z","84.12371134020619"

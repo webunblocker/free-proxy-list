@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "195.154.191.26",
+      "ip": "195.154.191.26",
+      "port": 1089,
+      "delay": 1299,
+      "country_code": "FR",
+      "country_name": "France",
+      "city": "Paris",
+      "checks_up": 318,
+      "checks_down": 392,
+      "anon": 0,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 44,
+      "last_seen": "2026-10-25T08:09:20Z",
+      "last_checked": "2026-10-25T16:16:49Z",
+      "health_score": 38.07042253521127
+    }
+  ]
+}

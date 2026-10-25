@@ -4,11 +4,11 @@
       "host": "103.38.104.214",
       "ip": "103.38.104.214",
       "port": 8087,
-      "delay": 1023,
+      "delay": 1008,
       "country_code": "ID",
       "country_name": "Indonesia",
-      "checks_up": 34,
-      "checks_down": 0,
+      "checks_up": 288,
+      "checks_down": 3,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -20,10 +20,10 @@
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Anonymous",
-      "uptime": 100,
-      "last_seen": "2026-10-25T10:43:14Z",
-      "last_checked": "2026-10-25T11:26:36Z",
-      "health_score": 85
+      "uptime": 98,
+      "last_seen": "2026-10-25T11:50:03Z",
+      "last_checked": "2026-10-25T16:16:40Z",
+      "health_score": 84.12371134020619
     }
   ]
 }
