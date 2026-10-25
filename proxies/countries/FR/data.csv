@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"195.154.191.26","1089","FR","France","HTTP","Unknown","false","Transparent","44","1299","2026-10-25T16:16:49Z","38.07042253521127"
