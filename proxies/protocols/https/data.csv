@@ -1,5 +1,4 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.237.102.191","11111","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","96","862","2026-10-26T04:45:21Z","96.01610134375184"
-"184.75.221.82","3118","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","92","539","2026-10-26T04:45:21Z","92.65552396143977"
-"56.112.93.245","13642","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","10","1650","2026-10-26T04:46:00Z","9.042553191489361"
-"18.144.86.139","9249","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","7","4507","2026-10-26T04:46:01Z","5.060240963855421"
+"103.237.102.191","11111","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","96","1300","2026-10-26T13:00:27Z","81.67964918354393"
+"184.75.221.82","3118","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","92","1029","2026-10-26T13:00:27Z","78.76585928489041"
+"43.216.197.62","57096","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Transparent","9","2834","2026-10-26T13:00:57Z","7.87037037037037"
