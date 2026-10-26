@@ -1,0 +1,12 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"144.124.251.24","11351","NL","Netherlands","HTTP|HTTPS","Unknown","false","Elite","26","763","2026-10-26T22:38:38Z","26.5625"
+"144.124.251.24","10878","NL","Netherlands","HTTP","Unknown","false","Elite","22","752","2026-10-26T22:38:38Z","22.921914357682617"
+"144.124.251.24","10803","NL","Netherlands","HTTP","Unknown","false","Elite","22","931","2026-10-26T22:38:38Z","22.074468085106382"
+"144.124.251.24","10522","NL","Netherlands","HTTP","Unknown","false","Transparent","21","778","2026-10-26T22:38:39Z","21.584699453551913"
+"144.124.251.24","10228","NL","Netherlands","HTTP","Unknown","false","Transparent","20","772","2026-10-26T22:38:38Z","20.5620287868403"
+"144.124.251.24","10346","NL","Netherlands","HTTP","Unknown","false","Transparent","20","779","2026-10-26T22:38:38Z","20.083974807557734"
+"144.124.251.24","10104","NL","Netherlands","HTTP","Unknown","false","Transparent","19","757","2026-10-26T22:38:38Z","19.95708154506438"
+"144.124.251.24","10136","NL","Netherlands","HTTP","Unknown","false","Transparent","19","768","2026-10-26T22:38:38Z","19.03039073806078"
+"144.124.251.24","10443","NL","Netherlands","HTTP","Unknown","false","Transparent","19","1169","2026-10-26T22:38:10Z","16.71129980404964"
+"144.124.251.24","10274","NL","Netherlands","HTTP","Unknown","false","Transparent","15","814","2026-10-26T22:38:13Z","15.832710978342046"
+"144.124.251.24","11480","NL","Netherlands","HTTP","Unknown","false","Transparent","15","799","2026-10-26T22:38:38Z","15.177923021060277"
