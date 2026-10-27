@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "190.202.111.206",
+      "ip": "190.202.111.206",
+      "port": 8080,
+      "delay": 844,
+      "country_code": "VE",
+      "country_name": "Venezuela",
+      "city": "Caracas",
+      "checks_up": 28,
+      "checks_down": 52,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 35,
+      "last_seen": "2026-10-26T15:51:34Z",
+      "last_checked": "2026-10-27T12:10:09Z",
+      "health_score": 35
+    }
+  ]
+}

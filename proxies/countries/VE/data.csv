@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"190.202.111.206","8080","VE","Venezuela","HTTP","Unknown","false","Anonymous","35","844","2026-10-27T12:10:09Z","35"
