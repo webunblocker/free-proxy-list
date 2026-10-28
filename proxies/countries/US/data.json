@@ -1,0 +1,31 @@
+{
+  "data": [
+    {
+      "host": "104.161.23.122",
+      "ip": "104.161.23.122",
+      "port": 5011,
+      "delay": 691,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 155,
+      "checks_down": 31,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 83,
+      "last_seen": "2026-10-27T13:32:10Z",
+      "last_checked": "2026-10-28T05:41:05Z",
+      "health_score": 83.33333333333334
+    }
+  ]
+}

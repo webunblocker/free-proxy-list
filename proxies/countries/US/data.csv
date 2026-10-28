@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"104.161.23.122","5011","US","United States","HTTP|HTTPS|SOCKS5","Unknown","false","Elite","83","691","2026-10-28T05:41:05Z","83.33333333333334"
