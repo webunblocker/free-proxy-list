@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "host": "103.142.255.32",
+      "ip": "103.142.255.32",
+      "port": 1080,
+      "delay": 2623,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 943,
+      "checks_down": 1677,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 35,
+      "last_seen": "2026-10-28T15:30:05Z",
+      "last_checked": "2026-10-28T22:34:15Z",
+      "health_score": 30.59351145038168
+    }
+  ]
+}

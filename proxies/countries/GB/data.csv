@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"172.239.170.24","3128","US","United States","HTTP|HTTPS","Unknown","false","Anonymous","100","200","2026-10-28T12:53:18Z","100"
+"82.41.42.17","8080","GB","United Kingdom","HTTP","Unknown","false","Transparent","23","2771","2026-10-28T22:34:31Z","20.219399538106234"
