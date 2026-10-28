@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "5.75.133.113",
+      "ip": "5.75.133.113",
+      "port": 10808,
+      "delay": 1815,
+      "country_code": "DE",
+      "country_name": "Germany",
+      "city": "Nuremberg",
+      "checks_up": 2683,
+      "checks_down": 1577,
+      "anon": 0,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 62,
+      "last_seen": "2026-10-28T12:48:05Z",
+      "last_checked": "2026-10-28T12:53:20Z",
+      "health_score": 53.53403755868544
+    }
+  ]
+}
