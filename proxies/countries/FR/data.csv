@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"38.242.156.163","9050","FR","France","SOCKS4|SOCKS5","Unknown","false","Elite","33","1854","2026-10-29T05:46:09Z","28.33333333333333"

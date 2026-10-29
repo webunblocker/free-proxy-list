@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "157.90.113.23",
-      "ip": "157.90.113.23",
-      "port": 9052,
-      "delay": 1473,
+      "host": "45.61.129.165",
+      "ip": "45.61.129.165",
+      "port": 9050,
+      "delay": 3295,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 3140,
-      "checks_down": 1834,
+      "checks_up": 16079,
+      "checks_down": 1480,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -21,63 +21,10 @@
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
-      "uptime": 63,
-      "last_seen": "2026-10-29T05:44:37Z",
-      "last_checked": "2026-10-29T05:45:45Z",
-      "health_score": 53.65902694008846
-    },
-    {
-      "host": "47.252.47.39",
-      "ip": "47.252.47.39",
-      "port": 1080,
-      "delay": 646,
-      "country_code": "US",
-      "country_name": "United States",
-      "checks_up": 1424,
-      "checks_down": 1276,
-      "anon": 2,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Anonymous",
-      "uptime": 52,
-      "last_seen": "2026-10-28T21:16:50Z",
-      "last_checked": "2026-10-29T05:45:46Z",
-      "health_score": 52.74074074074074
-    },
-    {
-      "host": "38.242.156.163",
-      "ip": "38.242.156.163",
-      "port": 9050,
-      "delay": 1854,
-      "country_code": "FR",
-      "country_name": "France",
-      "city": "Lauterbourg",
-      "checks_up": 1,
-      "checks_down": 2,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 33,
-      "last_seen": "2026-10-29T01:37:09Z",
-      "last_checked": "2026-10-29T05:46:09Z",
-      "health_score": 28.33333333333333
+      "uptime": 91,
+      "last_seen": "2026-10-29T12:59:37Z",
+      "last_checked": "2026-10-29T12:58:23Z",
+      "health_score": 64.09989179338231
     }
   ]
 }

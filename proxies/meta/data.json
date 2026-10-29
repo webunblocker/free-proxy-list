@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-29T05:47:29.025Z",
+  "timestamp": "2026-10-29T12:59:55.100Z",
   "scope": "verified-working",
   "max_check_age_hours": 2,
   "status": "available",
@@ -9,27 +9,25 @@
     "working_only": true
   },
   "collection": {
-    "received": 194,
+    "received": 231,
     "excluded_unchecked_failed_or_stale": 0,
     "complete": true
   },
   "checks": {
-    "oldest": "2026-10-29T05:45:38Z",
-    "newest": "2026-10-29T05:46:46Z"
+    "oldest": "2026-10-29T12:58:20Z",
+    "newest": "2026-10-29T12:59:25Z"
   },
   "totals": {
-    "all": 194,
+    "all": 231,
     "protocols": {
-      "http": 105,
-      "https": 2,
-      "socks4": 3,
-      "socks5": 89
+      "http": 174,
+      "https": 15,
+      "socks4": 1,
+      "socks5": 57
     },
     "countries": {
-      "FR": 1,
-      "ID": 1,
-      "US": 1,
-      "ZZ": 191
+      "ID": 2,
+      "ZZ": 229
     }
   },
   "downloads": {
@@ -65,16 +63,6 @@
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.json",
         "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.txt",
         "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ZZ/data.csv"
-      },
-      "US": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/US/data.csv"
-      },
-      "FR": {
-        "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/FR/data.json",
-        "txt": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/FR/data.txt",
-        "csv": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/FR/data.csv"
       },
       "ID": {
         "json": "https://cdn.jsdelivr.net/gh/webunblocker/free-proxy-list@main/proxies/countries/ID/data.json",
