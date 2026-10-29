@@ -1,29 +1,30 @@
 {
   "data": [
     {
-      "host": "103.142.255.32",
-      "ip": "103.142.255.32",
-      "port": 1080,
-      "delay": 2623,
+      "host": "160.25.35.17",
+      "ip": "160.25.35.17",
+      "port": 3125,
+      "delay": 5136,
       "country_code": "ID",
       "country_name": "Indonesia",
-      "checks_up": 943,
-      "checks_down": 1677,
-      "anon": 4,
-      "http": 0,
+      "city": "Pandeglang",
+      "checks_up": 13,
+      "checks_down": 40,
+      "anon": 3,
+      "http": 1,
       "ssl": 0,
       "socks4": 0,
-      "socks5": 1,
+      "socks5": 0,
       "protocols": [
-        "SOCKS5"
+        "HTTP"
       ],
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 35,
-      "last_seen": "2026-10-28T15:30:05Z",
-      "last_checked": "2026-10-28T22:34:15Z",
-      "health_score": 30.59351145038168
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 24,
+      "last_seen": "2026-10-28T15:07:32Z",
+      "last_checked": "2026-10-29T05:45:52Z",
+      "health_score": 17.169811320754715
     }
   ]
 }

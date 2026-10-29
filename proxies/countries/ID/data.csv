@@ -1,2 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.142.255.32","1080","ID","Indonesia","SOCKS5","Unknown","false","Elite","35","2623","2026-10-28T22:34:15Z","30.59351145038168"
+"160.25.35.17","3125","ID","Indonesia","HTTP","Unknown","false","Anonymous","24","5136","2026-10-29T05:45:52Z","17.169811320754715"

@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "47.252.47.39",
+      "ip": "47.252.47.39",
+      "port": 1080,
+      "delay": 646,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 1424,
+      "checks_down": 1276,
+      "anon": 2,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 52,
+      "last_seen": "2026-10-28T21:16:50Z",
+      "last_checked": "2026-10-29T05:45:46Z",
+      "health_score": 52.74074074074074
+    }
+  ]
+}
