@@ -1,14 +1,15 @@
 {
   "data": [
     {
-      "host": "144.79.181.33",
-      "ip": "144.79.181.33",
+      "host": "103.181.254.101",
+      "ip": "103.181.254.101",
       "port": 8080,
-      "delay": 1374,
+      "delay": 1540,
       "country_code": "ID",
       "country_name": "Indonesia",
-      "checks_up": 24,
-      "checks_down": 13,
+      "city": "Kadengan",
+      "checks_up": 104,
+      "checks_down": 52,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -20,36 +21,10 @@
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Anonymous",
-      "uptime": 64,
-      "last_seen": "2026-10-29T07:41:21Z",
-      "last_checked": "2026-10-29T12:58:37Z",
-      "health_score": 55.13513513513514
-    },
-    {
-      "host": "117.18.16.47",
-      "ip": "117.18.16.47",
-      "port": 1111,
-      "delay": 2299,
-      "country_code": "ID",
-      "country_name": "Indonesia",
-      "city": "Kediri",
-      "checks_up": 110,
-      "checks_down": 62,
-      "anon": 3,
-      "http": 1,
-      "ssl": 0,
-      "socks4": 0,
-      "socks5": 0,
-      "protocols": [
-        "HTTP"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Anonymous",
-      "uptime": 63,
-      "last_seen": "2026-10-29T10:21:19Z",
-      "last_checked": "2026-10-29T12:58:23Z",
-      "health_score": 54.36046511627907
+      "uptime": 66,
+      "last_seen": "2026-10-29T08:25:24Z",
+      "last_checked": "2026-10-29T22:43:52Z",
+      "health_score": 56.66666666666666
     }
   ]
 }

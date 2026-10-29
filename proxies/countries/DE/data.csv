@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"49.13.22.249","10803","DE","Germany","SOCKS5","Unknown","false","Elite","59","2767","2026-10-29T22:44:00Z","50.95446798149501"
