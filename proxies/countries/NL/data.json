@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "128.199.37.92",
+      "ip": "128.199.37.92",
+      "port": 1080,
+      "delay": 1023,
+      "country_code": "NL",
+      "country_name": "Netherlands",
+      "city": "Amsterdam",
+      "checks_up": 1255,
+      "checks_down": 1858,
+      "anon": 0,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 40,
+      "last_seen": "2026-10-30T20:38:10Z",
+      "last_checked": "2026-10-30T22:18:33Z",
+      "health_score": 34.26758753613878
+    }
+  ]
+}
