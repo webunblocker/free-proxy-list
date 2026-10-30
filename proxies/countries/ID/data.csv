@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.181.254.101","8080","ID","Indonesia","HTTP","Unknown","false","Anonymous","66","1540","2026-10-29T22:43:52Z","56.66666666666666"
