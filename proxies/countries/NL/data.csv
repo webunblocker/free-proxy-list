@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"128.199.37.92","1080","NL","Netherlands","SOCKS5","Unknown","false","Transparent","40","1023","2026-10-30T22:18:33Z","34.26758753613878"
