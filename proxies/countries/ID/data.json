@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "103.150.218.234",
-      "ip": "103.150.218.234",
-      "port": 8080,
-      "delay": 5492,
+      "host": "160.25.35.206",
+      "ip": "160.25.35.206",
+      "port": 8181,
+      "delay": 4539,
       "country_code": "ID",
       "country_name": "Indonesia",
-      "city": "Kota Batam",
-      "checks_up": 45,
-      "checks_down": 14,
+      "city": "Pandeglang",
+      "checks_up": 176,
+      "checks_down": 3,
       "anon": 3,
       "http": 1,
       "ssl": 0,
@@ -21,10 +21,10 @@
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Anonymous",
-      "uptime": 76,
-      "last_seen": "2026-10-31T06:19:16Z",
-      "last_checked": "2026-10-31T12:27:31Z",
-      "health_score": 53.389830508474574
+      "uptime": 98,
+      "last_seen": "2026-10-31T18:03:14Z",
+      "last_checked": "2026-10-31T21:32:04Z",
+      "health_score": 68.82681564245809
     }
   ]
 }
