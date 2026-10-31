@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "103.150.218.234",
+      "ip": "103.150.218.234",
+      "port": 8080,
+      "delay": 5492,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Kota Batam",
+      "checks_up": 45,
+      "checks_down": 14,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 76,
+      "last_seen": "2026-10-31T06:19:16Z",
+      "last_checked": "2026-10-31T12:27:31Z",
+      "health_score": 53.389830508474574
+    }
+  ]
+}
