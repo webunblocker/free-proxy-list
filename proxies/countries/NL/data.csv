@@ -1,5 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"144.124.251.24","10376","NL","Netherlands","HTTP","Unknown","false","Transparent","18","1056","2026-11-01T13:23:09Z","15.920634920634921"
-"144.124.251.24","10188","NL","Netherlands","HTTP","Unknown","false","Transparent","18","1089","2026-11-01T13:23:09Z","15.906166219839141"
-"144.124.251.24","10185","NL","Netherlands","HTTP|HTTPS","Unknown","false","Elite","18","1408","2026-11-01T13:22:47Z","15.314122533748701"
-"144.124.251.24","11450","NL","Netherlands","HTTP","Unknown","false","Transparent","17","1224","2026-11-01T13:22:36Z","15.13448090371167"
