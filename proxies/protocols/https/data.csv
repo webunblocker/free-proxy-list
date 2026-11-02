@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.237.102.191","11111","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","95","791","2026-11-01T22:00:33Z","95.87409243076388"
-"195.158.8.123","3128","ZZ","Unknown","HTTP|HTTPS","Unknown","false","Elite","78","3386","2026-11-01T22:00:43Z","54.71201588877855"
+"114.248.179.223","8888","ZZ","Unknown","HTTPS","Unknown","false","Anonymous","62","7585","2026-11-02T05:59:37Z","43.73300370828183"
