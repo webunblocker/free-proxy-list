@@ -1,40 +1,14 @@
 {
   "data": [
     {
-      "host": "45.61.129.165",
-      "ip": "45.61.129.165",
-      "port": 9050,
-      "delay": 1811,
-      "country_code": "ZZ",
-      "country_name": "Unknown",
-      "checks_up": 19836,
-      "checks_down": 1824,
-      "anon": 4,
-      "http": 0,
-      "ssl": 0,
-      "socks4": 1,
-      "socks5": 1,
-      "protocols": [
-        "SOCKS4",
-        "SOCKS5"
-      ],
-      "anonymity_level": "Unknown",
-      "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 91,
-      "last_seen": "2026-11-02T15:49:40Z",
-      "last_checked": "2026-11-02T15:48:31Z",
-      "health_score": 77.84210526315789
-    },
-    {
       "host": "157.90.113.23",
       "ip": "157.90.113.23",
       "port": 9052,
-      "delay": 1572,
+      "delay": 1241,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 3829,
-      "checks_down": 2202,
+      "checks_up": 3944,
+      "checks_down": 2234,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -48,9 +22,37 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 63,
-      "last_seen": "2026-11-02T15:49:40Z",
-      "last_checked": "2026-11-02T15:48:31Z",
-      "health_score": 53.96534571381196
+      "last_seen": "2026-11-03T00:54:37Z",
+      "last_checked": "2026-11-03T00:56:22Z",
+      "health_score": 54.263515700874066
+    },
+    {
+      "host": "8.215.25.3",
+      "ip": "8.215.25.3",
+      "port": 2080,
+      "delay": 1133,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 2591,
+      "checks_down": 2044,
+      "anon": 4,
+      "http": 1,
+      "ssl": 1,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "HTTP",
+        "HTTPS",
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 55,
+      "last_seen": "2026-11-03T00:54:37Z",
+      "last_checked": "2026-11-03T00:56:15Z",
+      "health_score": 47.515641855447676
     }
   ]
 }
