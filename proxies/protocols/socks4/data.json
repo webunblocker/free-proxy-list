@@ -1,3 +1,30 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "45.61.129.165",
+      "ip": "45.61.129.165",
+      "port": 9050,
+      "delay": 3682,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 24552,
+      "checks_down": 2408,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 91,
+      "last_seen": "2026-11-08T21:59:37Z",
+      "last_checked": "2026-11-08T22:02:27Z",
+      "health_score": 63.74777448071216
+    }
+  ]
 }
