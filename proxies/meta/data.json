@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-11-08T05:59:30.651Z",
+  "timestamp": "2026-11-08T13:24:23.421Z",
   "scope": "verified-working",
   "max_check_age_hours": 2,
   "status": "available",
@@ -9,24 +9,24 @@
     "working_only": true
   },
   "collection": {
-    "received": 439,
+    "received": 372,
     "excluded_unchecked_failed_or_stale": 0,
     "complete": true
   },
   "checks": {
-    "oldest": "2026-11-08T05:57:39Z",
-    "newest": "2026-11-08T05:58:39Z"
+    "oldest": "2026-11-08T13:22:34Z",
+    "newest": "2026-11-08T13:23:30Z"
   },
   "totals": {
-    "all": 439,
+    "all": 372,
     "protocols": {
-      "http": 345,
-      "https": 23,
-      "socks4": 1,
-      "socks5": 94
+      "http": 318,
+      "https": 9,
+      "socks4": 0,
+      "socks5": 54
     },
     "countries": {
-      "ZZ": 439
+      "ZZ": 372
     }
   },
   "downloads": {
