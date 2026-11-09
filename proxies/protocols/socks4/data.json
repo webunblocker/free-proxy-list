@@ -1,14 +1,14 @@
 {
   "data": [
     {
-      "host": "45.61.188.134",
-      "ip": "45.61.188.134",
-      "port": 44499,
-      "delay": 535,
+      "host": "45.61.129.165",
+      "ip": "45.61.129.165",
+      "port": 9050,
+      "delay": 1974,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 12421,
-      "checks_down": 2377,
+      "checks_up": 25412,
+      "checks_down": 2523,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -21,10 +21,10 @@
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
-      "uptime": 83,
-      "last_seen": "2026-11-09T06:24:38Z",
-      "last_checked": "2026-11-09T06:24:48Z",
-      "health_score": 83.93701851601568
+      "uptime": 90,
+      "last_seen": "2026-11-09T22:19:37Z",
+      "last_checked": "2026-11-09T22:19:36Z",
+      "health_score": 77.32307141578664
     }
   ]
 }
