@@ -1,3 +1,82 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "45.61.188.134",
+      "ip": "45.61.188.134",
+      "port": 44499,
+      "delay": 609,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 13107,
+      "checks_down": 2512,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 83,
+      "last_seen": "2026-11-10T19:39:37Z",
+      "last_checked": "2026-11-10T19:42:08Z",
+      "health_score": 83.91702413726871
+    },
+    {
+      "host": "157.90.113.23",
+      "ip": "157.90.113.23",
+      "port": 9052,
+      "delay": 2156,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 4751,
+      "checks_down": 2825,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Elite",
+      "uptime": 62,
+      "last_seen": "2026-11-10T19:39:37Z",
+      "last_checked": "2026-11-10T19:41:45Z",
+      "health_score": 53.30451425554383
+    },
+    {
+      "host": "47.252.47.39",
+      "ip": "47.252.47.39",
+      "port": 1080,
+      "delay": 615,
+      "country_code": "ZZ",
+      "country_name": "Unknown",
+      "checks_up": 2026,
+      "checks_down": 2052,
+      "anon": 2,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 49,
+      "last_seen": "2026-11-10T19:39:37Z",
+      "last_checked": "2026-11-10T19:41:43Z",
+      "health_score": 49.68121628249142
+    }
+  ]
 }
