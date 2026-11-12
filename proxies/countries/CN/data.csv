@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"123.121.113.161","8888","CN","China","HTTP","Unknown","false","Transparent","66","1654","2026-11-11T19:33:40Z","56.88815393866506"
-"123.121.122.142","8888","CN","China","HTTP","Unknown","false","Transparent","62","1357","2026-11-11T19:33:40Z","53.40889180902321"
