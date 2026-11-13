@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "123.119.177.72",
+      "ip": "123.119.177.72",
+      "port": 8888,
+      "delay": 7408,
+      "country_code": "CN",
+      "country_name": "China",
+      "city": "Beijing",
+      "checks_up": 1348,
+      "checks_down": 853,
+      "anon": 0,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 61,
+      "last_seen": "2026-11-13T18:33:16Z",
+      "last_checked": "2026-11-13T19:39:13Z",
+      "health_score": 42.87142208087233
+    }
+  ]
+}
