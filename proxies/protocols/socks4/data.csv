@@ -1,1 +1,4 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"45.61.188.134","44499","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","83","533","2026-11-14T22:22:01Z","83.6555360281195"
+"45.61.129.165","9050","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","90","1778","2026-11-14T22:22:04Z","76.59969650026872"
+"104.248.151.220","57554","ZZ","Unknown","SOCKS4|SOCKS5","Unknown","false","Elite","18","5531","2026-11-14T22:22:08Z","13.228346456692911"
