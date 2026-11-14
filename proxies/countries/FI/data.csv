@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"65.21.252.66","10808","FI","Finland","SOCKS5","Unknown","false","Elite","40","2513","2026-11-14T06:20:12Z","34.828244274809165"
