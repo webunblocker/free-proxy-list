@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "102.211.147.207",
+      "ip": "102.211.147.207",
+      "port": 8082,
+      "delay": 2006,
+      "country_code": "KE",
+      "country_name": "Kenya",
+      "city": "Nairobi",
+      "checks_up": 139,
+      "checks_down": 37,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 78,
+      "last_seen": "2026-11-15T16:14:03Z",
+      "last_checked": "2026-11-15T18:50:03Z",
+      "health_score": 67.13068181818183
+    }
+  ]
+}
