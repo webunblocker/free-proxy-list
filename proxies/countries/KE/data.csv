@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"102.211.147.207","8082","KE","Kenya","HTTP","Unknown","false","Anonymous","78","2006","2026-11-15T18:50:03Z","67.13068181818183"
