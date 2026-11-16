@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "168.138.114.90",
+      "ip": "168.138.114.90",
+      "port": 7890,
+      "delay": 1939,
+      "country_code": "IN",
+      "country_name": "India",
+      "city": "Mumbai",
+      "checks_up": 422,
+      "checks_down": 18,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 95,
+      "last_seen": "2026-11-16T08:21:15Z",
+      "last_checked": "2026-11-16T21:59:48Z",
+      "health_score": 81.52272727272727
+    }
+  ]
+}

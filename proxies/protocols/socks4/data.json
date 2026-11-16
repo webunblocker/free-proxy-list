@@ -4,11 +4,11 @@
       "host": "45.61.129.165",
       "ip": "45.61.129.165",
       "port": 9050,
-      "delay": 1915,
+      "delay": 1972,
       "country_code": "ZZ",
       "country_name": "Unknown",
-      "checks_up": 29311,
-      "checks_down": 3319,
+      "checks_up": 29870,
+      "checks_down": 3395,
       "anon": 4,
       "http": 0,
       "ssl": 0,
@@ -22,9 +22,9 @@
       "anonymity_tested": false,
       "reported_anonymity_level": "Elite",
       "uptime": 89,
-      "last_seen": "2026-11-16T06:24:37Z",
-      "last_checked": "2026-11-16T06:26:37Z",
-      "health_score": 76.3541219736439
+      "last_seen": "2026-11-16T21:59:39Z",
+      "last_checked": "2026-11-16T21:59:48Z",
+      "health_score": 76.32496618067039
     }
   ]
 }
