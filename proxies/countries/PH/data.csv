@@ -1,3 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"112.204.117.49","8082","PH","Philippines","HTTP","Unknown","false","Anonymous","95","938","2026-11-16T21:59:47Z","95.5503512880562"
-"180.190.84.60","5050","PH","Philippines","HTTP","Unknown","false","Anonymous","93","1622","2026-11-16T21:59:48Z","79.64566929133858"
