@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"113.197.55.156","8080","PK","Pakistan","HTTP","Unknown","false","Elite","98","1419","2026-11-17T20:53:13Z","83.65079365079364"

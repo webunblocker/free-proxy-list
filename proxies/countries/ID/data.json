@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "host": "157.10.63.14",
+      "ip": "157.10.63.14",
+      "port": 8080,
+      "delay": 977,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Medan",
+      "checks_up": 216,
+      "checks_down": 146,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 59,
+      "last_seen": "2026-11-16T12:39:23Z",
+      "last_checked": "2026-11-17T20:53:12Z",
+      "health_score": 59.66850828729282
+    },
+    {
+      "host": "103.179.84.185",
+      "ip": "103.179.84.185",
+      "port": 8089,
+      "delay": 1666,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "city": "Boyolali",
+      "checks_up": 17,
+      "checks_down": 14,
+      "anon": 3,
+      "http": 1,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 0,
+      "protocols": [
+        "HTTP"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 54,
+      "last_seen": "2026-11-17T17:39:16Z",
+      "last_checked": "2026-11-17T20:53:16Z",
+      "health_score": 46.61290322580645
+    }
+  ]
+}
