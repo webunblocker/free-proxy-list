@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "host": "202.8.29.92",
-      "ip": "202.8.29.92",
-      "port": 8080,
-      "delay": 7121,
+      "host": "160.25.174.37",
+      "ip": "160.25.174.37",
+      "port": 8181,
+      "delay": 5289,
       "country_code": "ID",
       "country_name": "Indonesia",
-      "checks_up": 60,
-      "checks_down": 72,
-      "anon": 4,
+      "checks_up": 64,
+      "checks_down": 34,
+      "anon": 3,
       "http": 1,
       "ssl": 0,
       "socks4": 0,
@@ -19,11 +19,11 @@
       ],
       "anonymity_level": "Unknown",
       "anonymity_tested": false,
-      "reported_anonymity_level": "Elite",
-      "uptime": 45,
-      "last_seen": "2026-11-18T03:01:19Z",
-      "last_checked": "2026-11-18T07:26:16Z",
-      "health_score": 31.818181818181817
+      "reported_anonymity_level": "Anonymous",
+      "uptime": 65,
+      "last_seen": "2026-11-18T15:39:26Z",
+      "last_checked": "2026-11-18T20:28:30Z",
+      "health_score": 45.714285714285715
     }
   ]
 }
