@@ -1,3 +1,2 @@
 ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"157.10.63.14","8080","ID","Indonesia","HTTP","Unknown","false","Anonymous","59","977","2026-11-17T20:53:12Z","59.66850828729282"
-"103.179.84.185","8089","ID","Indonesia","HTTP","Unknown","false","Anonymous","54","1666","2026-11-17T20:53:16Z","46.61290322580645"
+"202.8.29.92","8080","ID","Indonesia","HTTP","Unknown","false","Elite","45","7121","2026-11-18T07:26:16Z","31.818181818181817"
