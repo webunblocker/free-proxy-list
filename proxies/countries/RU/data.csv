@@ -1,0 +1,2 @@
+ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
+"188.113.182.218","1080","RU","Russian Federation","SOCKS5","Unknown","false","Transparent","23","10001","2026-11-19T07:22:48Z","16.36690647482014"

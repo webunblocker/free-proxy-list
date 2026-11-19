@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "host": "188.113.182.218",
+      "ip": "188.113.182.218",
+      "port": 1080,
+      "delay": 10001,
+      "country_code": "RU",
+      "country_name": "Russian Federation",
+      "city": "Yuzhno-Sakhalinsk",
+      "checks_up": 390,
+      "checks_down": 1278,
+      "anon": 0,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Unknown",
+      "anonymity_tested": false,
+      "reported_anonymity_level": "Transparent",
+      "uptime": 23,
+      "last_seen": "2026-11-19T03:18:59Z",
+      "last_checked": "2026-11-19T07:22:48Z",
+      "health_score": 16.36690647482014
+    }
+  ]
+}
