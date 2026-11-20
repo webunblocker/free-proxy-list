@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"103.175.237.234","3128","ID","Indonesia","HTTP","Unknown","false","Transparent","28","5853","2026-11-19T20:35:33Z","20.18269634607308"
