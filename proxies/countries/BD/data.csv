@@ -1,2 +1,0 @@
-ip,port,country_code,country_name,protocols,anonymity_level,anonymity_tested,reported_anonymity_level,uptime,delay,last_checked,health_score
-"202.125.72.149","3128","BD","Bangladesh","HTTP","Unknown","false","Anonymous","100","1763","2026-11-27T08:28:41Z","85"
